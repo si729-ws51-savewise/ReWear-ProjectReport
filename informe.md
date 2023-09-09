@@ -30,9 +30,11 @@
 ## 3.1. To-Be Scenario Mapping
 
 **Segmento: Compradores**
+User persona del segmento compradores
 ![to-be-compradores](https://i.ibb.co/sst3qMw/to-be-compradores.png)
 
 **Segmento: Vendedores**
+User persona del segmento vendedores
 ![to-be-vendedores](https://i.ibb.co/q10QBVJ/to-be-vendedores.png")
 ## 3.2. User Stories
 **Segmento: Compradores**
