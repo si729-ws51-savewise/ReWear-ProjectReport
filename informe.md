@@ -34,6 +34,18 @@
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+## 4.1. Style Guidelines
+
+<div align="center">
+  <img src="https://i.ibb.co/x8CK698/estilos.png"  width="500px" height="300px" />
+</div>
+
+Con respecto a Style Guidelines, estamos utilizando la tipografíaa Poppins, Estilos de tipo Bold, Regular y Medium. Textos h1 encabezado de 64 px, h2 de 32 px, h3 y texto de 20 px. colores claros y oscuros para hacer contraste en nuestra interfaz y de esta manera poder captar la atención del usuario, siendo estos también usados para la creación del logo de nuestro startup.
+*	Hemos seleccionado el color rosado. Simboliza la amabilidad, lo positivo, sentimental, sensibilidad, cortesía, buena educación, infancia e inocencia 
+*	Hemos seleccionado como una de las fuentes a Poppins, Aporta una vista moderna y armoniosa ya que denota redondez.
+*	Hemos seleccionado los colores negro y blanco para tener contraste dentro de nuestra, la intención también es tener 
+una vista minimalista.
+
 ### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 
