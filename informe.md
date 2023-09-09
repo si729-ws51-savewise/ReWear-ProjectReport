@@ -88,6 +88,71 @@ Visual Studio Code: Se trata de un editor de código que posibilita la programac
 https://code.visualstudio.com/download 
 
 ### 5.1.2. Source Code Management
+
+En la siguiente sección, presentaremos los medios que usaremos para el seguimiento del código de ReWear, usaremos GitHub como plataforma ysistema de control de versiones.
+Repositorio en GitHub para el Landing Page:
+[Repositorio Landing Page](https://github.com/si729-ws51-savewise/ReWear-LandingPage)
+
+Repositorio en GitHub para el registro de Acceptance Test Files:
+[Repositorio Acceptance Test Files](https://github.com/si729-ws51-savewise/ReWear-Feature)
+
+En este momento detallaremos la aplicación de GitFlow como un WorkFlow para el control de versiones en el desarrollo de ramas o branches.
+
+**Main Branch:**
+Este es nuestro branch principal y la raíz para nuestras ramificaciones. Aquí se mostrará el estado actual del código fuente, que posteriormente será enviado a producción. Una vez finalizadas las tareas en las otras ramas, se integrarán en el producto final. 
+
+**Develop Branch:**
+En esta rama se encuentra el código fuente más actualizado y podemos observar el estado actual de los últimos cambios realizados en el desarrollo. Todos los cambios que estén listos para ser publicados se fusionarán con la rama principal (main Branch) junto con una etiqueta que identifica el número de la publicación. Asimismo, cada modificación efectuada en esta rama será posteriormente fusionada de nuevo con la rama principal como una nueva versión del producto.
+
+**Feature Branches:**
+Estas ramas serán empleadas para crear nuevas funciones destinadas a una próxima versión. Se derivarán del develop Branch y, una vez completado el desarrollo, se fusionarán de nuevo en la misma rama develop. En caso de que la función no obtenga resultados satisfactorios, se descartará. Se seguirá una convención de nomenclatura secuencial para nuestros Feature Branches, como por ejemplo: Feature001, Feature002, Feature003, y así sucesivamente. Se exceptúan las palabras master, develop, release y hotfix.
+
+**Release Branches:**
+Estas ramas facilitan la preparación de nuestro proyecto para la última fase de pruebas o testing, permitiéndonos corregir bugs y garantizar la optimización de la interfaz antes de lanzar la versión definitiva. Se derivan del develop y se fusionan nuevamente en él para indicar una "próxima versión".
+
+**Convenciones Release Branches:**
+| Release | Descripción |
+|-------------|-------------|
+| Release 0.1.0     | Comenzar con la versión del desarrollo inicial de nuestro landing page. |
+| Release 1.0.0     | Se realiza la implementación de la API pública. |
+| Release 1.1.0     | Se ha implementado una nueva funcionalidad en la API pública que es compatible con versiones anteriores.  |
+| Release 1.1.1     | Se corrigen bug o errores compatibles con las versiones anteriores. |
+| Release 2.0.0     | Se implementan funciones incompatibles con versiones anteriores en la API pública. |
+
+**Hotfix branches:**
+Son utilizadas para abordar rápidamente problemas o errores en la versión actual de producción. Estas ramas se crean a partir de la main Branch. Una vez solucionado el problema se fusionará.
+
+| Hotfix | Descripción |
+|-------------|-------------|
+| Hotfix 1.1.0 | Alguna funcionalidad de la API pública esta marcada como obsoleta. |
+| Hotfix 1.1.1 | Se introduce nuevas funciones o metodos para la corrección de errores compatibles con versiones anteriores |
+
+**Conventional Commits:**
+Es una convención para escribir mensajes de confirmación en un repositorio de control de versiones como Git. Esta convencion tiene como objetivo estandarizar y hacer mas comprensibles los mensajes de confirmación.
+
+La estructura de un mensaje de confirmacion es la siguiente:
+
+    <type>[optional scope]: <description>
+    [optional body]
+    [optional footer(s)]
+
+**fix:** usamos este commit del tipo fix cuando se arregla un bug que afecta al usuario.
+
+**feat:** usamos este commit del tipo feat cuando se agrega una nueva característica para el usuario.
+
+**BREAKING CHANGE:** Es un commit que tiene un como footer (como se vió en la estructura) **BREAKING CHANGE:** o agrega un ! esto con el fin de comunicar un cambio grande realizado en el API.
+
+También se permiten distintos tipos de **feat:** y **fix:** basados en la convención Angular estos son:
+
+**perf:** Cambios que mejoran el rendimiento del sitio.
+**build:** Para los cambios en el sistema de build.
+**ci:** Para los cambios en la integración continua.
+**docs:** Para cambios en la documentación.
+**refactor:** Cuando se realiza una refactorización del código como cambios de nombre de variables o funciones.
+**style:** Para los cambios de formato, tabulaciones, espacios o puntos y coma, etc;
+**test:** Cuando se añade tests o refactoriza uno existente.
+Por otro lado, también se pueden proporcionar footers que no sean **BREAKING CHANGE:** <description> y poder seguir otra convención similar.
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 
