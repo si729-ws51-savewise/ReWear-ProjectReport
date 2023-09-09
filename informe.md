@@ -1,9 +1,61 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+SaveWise es un grupo de estudiantes de la carrera de ingeniría de software, una de las principales 
+características que identifica a este grupo es el interés y el impulso de ventas de producto reutilizables para reducir los daños ambientales.
+Dado que, actualmente estamos aprendiendo nuevas tecnologías, vemos la posibilidad de aplicar estos conocimientos en una solución que impacte positivamente en la sociedad. Por esta razón, juntando las características que identifican al grupo, además de la necesidad de influir positivamente en la sociedad y animales se creó "ReWear" una aplicación web para la venta y compra de ropa de segunda mano.
 ### 1.1.2. Perfiles de integrantes del equipo
+
+* **Daniel Valverde Lopez**
+<div align="center">
+  <img src="https://i.ibb.co/yXryVGT/Foto-Daniel.jpg" alt="FotoDaniel" width="250px" height="250px" />
+</div>
+Mi nombre es Daniel, soy estudiante del cuarto ciclo de ingeniería de software. Antes de llevar la carrera tenía interés por la materia, aprendí conceptos básicos de programación con Python y Ruby. Además, me considero una persona responsable y empática, por esa razón tengo facilidad para desarrollar trabajos en grupo.
+
 ## 1.2. Solution Profile
+
+ReWear es una aplicación dedicada a la venta y compra de Ropa de garage. Los usuarios vendedores podrán publicar los productos que tengan a su disposición, sus clientes podrán conversar con ellos para consultar sobre  detalles más específicos de las prendas. Los vendedores tendrán la posibilidad de crear eventos para físicos de venta para interactuar con los compradores. Además los vendedores contarán con un dashboard en el cual podrán llevar la gestión de todos los productos y ventas de su negocio.
+
+**Misión**
+
+Promover la venta de ropa de segunda mano para reducir el impacto ambiental que genera la creación de nuevas prendas.
+
+**Visión**
+
+Mejorar el servicio de productos de segunda mano y enriquecer la experiencia de nuestros usuarios. 
+
 ### 1.2.1. Antecedentes y problemática 
+
+**What?**
+
+La compra y venta de ropa en ventas de garaje es un proceso donde las personas venden prendas de vestir usadas que ya no necesitan, y otras personas las compran a precios más bajos que los de la ropa nueva. La contribución al medio ambiente se refiere a la idea de que esta práctica puede tener un impacto positivo en el entorno al reducir la producción y el desperdicio de ropa nueva.
+
+**Who?**
+
+- Los vendedores son personas que desean deshacerse de su ropa usada.
+- Los compradores son individuos interesados en adquirir ropa a precios más accesibles.
+- El medio ambiente y la sociedad en general se ven afectados por las implicaciones ambientales de la industria de la moda.
+
+**Where?**
+Este proceso puede ocurrir en residencias privadas (garajes, patios, etc.) donde se organizan ventas de garaje, así como en línea a través de plataformas de comercio electrónico.
+
+**When?**
+
+La compra y venta de ropa en ventas de garaje puede ocurrir en cualquier momento, pero es común en épocas de cambio de estaciones o cuando las personas deciden limpiar sus armarios.
+
+**Why?**
+
+- Antecedentes: La industria de la moda es conocida por su impacto ambiental negativo debido a la producción masiva y la generación de desechos textiles.
+- Problemática: La compra y venta de ropa usada en ventas de garaje busca abordar esta problemática al extender la vida útil de las prendas y reducir la necesidad de comprar ropa nueva, lo que puede disminuir la presión sobre los recursos naturales y reducir los residuos textiles.
+
+**How?**
+
+Las personas organizan ventas de garaje para vender su ropa usada, y los compradores pueden adquirir prendas a precios asequibles. Esto se realiza a través de anuncios en línea, redes sociales u otros métodos de publicidad.
+
+**How Much?**
+
+El impacto en la contribución al medio ambiente puede variar, pero el potencial para reducir la producción y el desperdicio de ropa nueva es significativo si más personas participan en la compra y venta de ropa usada en ventas de garaje.
+
 ### 1.2.2.Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
