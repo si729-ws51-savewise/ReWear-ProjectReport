@@ -154,6 +154,191 @@ También se permiten distintos tipos de **feat:** y **fix:** basados en la conve
 Por otro lado, también se pueden proporcionar footers que no sean **BREAKING CHANGE:** <description> y poder seguir otra convención similar.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
+Para el desarrollo del Landing Page se usarán las siguientes nomenclaturas:
+
+- Declaración del tipo de documento.
+En nuestro archivo index.html en la primera línea de código colocaremos la instrucción ```<!DODCTYPE html>```
+- Atributo Lang
+Con este atributo podemos permitir que los motores de búsqueda puedan identificar y configurar nuestro idioma. ```<html lang="es">```
+- Se dara uso a las etiquetas ```<body></body>  <header></header> <section> </section>  <nav></nav>  <p></p>  <img/> <iframe></iframe>  <h1></h1> <h2></h2>```
+- Para distribuir texto en parrafos utilizatemos la siguiente etiqueta ```<p> Somos <p>```
+- Implementaremos la etiqueta meta data
+
+Esta nos servirá para que, en nuestro documento HTML, pueda proporcionar información codificada a navegadores y motores de búsqueda acerca de nuestra página web
+
+Para las convenciones de nomenclatura en CSS:
+
+- En nuestra codificación de nuestro proyecto, usaremos las minusculas para nombrar estos archivos con el fin de no tener conflictos con los nombres de nuestros archivos html.
+- Se evitará el uso de las tildes para los nombres de estas.
+- Se abreviarán los nombres con el fin de tener una mejor practicidad.
+
+Convenciones para la nomenclatura en JavaScript:
+- Paquetes
+- Clases
+- Variables
+- Constantes
+
+**Archivos .Feature**
+En nuestro proyecto, utilizaremos el lenguaje Gherkin para definir y comprender las características. Este lenguaje nos permitirá describir nuestras historias de usuario siguiendo la estructura proporcionada.
+
+"Feature, Scenario, Given, When, Then, Examples".
+
+Comprador
+
+US01:
+
+    Feature: Sección Registro en la aplicación
+    Como usuario
+    Quiero poder crear una cuenta segura con mi correo electrónico y contraseña
+    Para acceder a la aplicación.
+
+    Scenario Outline: Se valida el registro del usuario
+    Given que el usuario ha descargado la aplicación y no tiene una cuenta creada
+    And el usuario ha ingresado a la sección de Login de la aplicación
+    When el usuario selecciona la opción de "Crear cuenta"
+    Then se le pide que ingrese su <correo electrónico> y una <contraseña> segura de al menos 8 caracteres.
+    And el sistema muestra un <mensaje> que el usuario pudo registrarse correctamente
+
+    Examples: INPUT
+        | Usuario  | Correo Electrónico   | Contraseña  |
+        | Usuario1 | usuario1@example.com | Password123 |
+        | Usuario2 | usuario2@example.com | SecurePass1 |
+        | Usuario3 | usuario3@example.com | Secret12345 |
+    Examples: OUTPUT
+        | mensaje |
+
+US02:
+
+    Feature: Sección Inicio de sesión en la aplicación
+     Como comprador registrado
+     Quiero iniciar sesión en la aplicación 
+     Para acceder a mi cuenta.
+
+    Scenario Outline: Se valida el Inicio de sesión del usuario
+    Given el usuario se haya registrado
+    And el usuario ha ingresado a la sección de Login de la aplicación
+    When el usuario selecciona la opción de "Iniciar Sesión"
+    Then se le pide que ingrese su <correo electrónico> y <contraseña>
+    And el sistema muestra un <mensaje> que el usuario pudo ingresar correctamente
+
+    Examples: INPUT
+        | Usuario  | Correo Electrónico   | Contraseña  |
+        | Usuario1 | usuario1@example.com | Password123 |
+        | Usuario2 | usuario2@example.com | SecurePass1 |
+        | Usuario3 | usuario3@example.com | Secret12345 |
+    Examples: OUTPUT
+        | mensaje |
+
+US03:
+
+    Feature: Sección recuperacion de contraseña en la aplicación
+    Como comprador registrado
+    Quiero poder restablecer mi contraseña si la olvido
+    Para acceder a mi cuenta.
+
+    Scenario Outline: Se valida el restablecimiento de contraseña de usuario
+    Given el usuario no se acuerde su contraseña
+    And el usuario ha ingresado a la sección de Login de la aplicación
+    When el usuario selecciona la opción de "Reset Password"
+    Then se le pide que ingrese su <codigo> y <contraseña nueva>
+    And el sistema muestra un <mensaje> que el usuario pudo restablecio su contraseña correctamente
+
+    Examples: INPUT
+        | Codigo    |  Contraseña  |
+        | 1a2b      |  Password123 |
+        | 2a2c      |  SecurePass1 |
+        | a11z      |  Secret12345 |
+    Examples: OUTPUT
+        | mensaje |
+
+US04:
+
+    Feature: Sección recuperacion de contraseña en la aplicación
+    Como comprador 
+    Quiero poder seleccionar productos 
+    personalizarlos (talla y color).
+
+    Scenario Outline: Se valida el restablecimiento de contraseña de usuario
+    Given el usuario no se acuerde su contraseña
+    And el usuario ha ingresado a la sección de Login de la aplicación
+    When el usuario selecciona la opción de "Reset Password"
+    Then se le pide que ingrese su <codigo> y <contraseña nueva>
+    And el sistema muestra un <mensaje> que el usuario pudo restablecio su contraseña correctamente
+
+    Examples: INPUT
+        | Codigo    |  Nueva Contraseña  |
+        | 1a2b      |  Password123 |
+        | 2a2c      |  SecurePass1 |
+        | a11z      |  Secret12345 |
+    Examples: OUTPUT
+        | mensaje |
+
+Vendedores
+
+US01:
+
+    Feature: Sección Publicación de Productos en la aplicación
+    Como vendedor
+    Quiero poder publicar productos en la plataforma, incluyendo información detallada como talla, color y marca
+    Para tener mejor visibilidada en la aplicación.
+
+    Scenario Outline: Se valida la publicación de productos del usuario
+    Given el usuario tenga productos para publicar
+    And el usuario ha ingresado a su cuenta
+    When el usuario selecciona la opción de "Publish Product"
+    Then se le pide que ingrese los detalles del producto <talla>, <color> y <marca>
+    And el sistema muestra un <mensaje> de publicacion con exito.
+
+    Examples: INPUT
+        | talla    |  color  |   marca  |
+        |   M      |  rojo  |  Nike  |
+        |   S     |  coral  |  Adidas  |
+        |   L     |  blue   |  AYNI  |
+    Examples: OUTPUT
+        | mensaje |
+
+US02:
+
+    Feature: Sección Edición de Producto en la aplicación
+    Como vendedor 
+    Quiero poder editar la información de productos que he publicado previamente
+    Para poder actualizar los datos del producto.
+
+    Scenario Outline: Se valida la Edición de Producto del usuario
+    Given el usuario tenga productos para editar
+    And el usuario ha ingresado a su panel
+    When el usuario selecciona la opción de "Editar Producto"
+    Then se le pide que ingrese los detalles a editar del producto <talla>, <color> y <marca>
+    And el sistema muestra un <mensaje> de publicacion con exito.
+
+    Examples: INPUT
+        | talla    |  color  |   marca  |
+        |   M      |  rojo  |  Nike  |
+        |   S     |  coral  |  Adidas  |
+        |   L     |  blue   |  AYNI  |
+    Examples: OUTPUT
+        | mensaje |
+
+US03
+
+    Feature: Sección Eliminacion de Producto en la aplicación
+    Como vendedor 
+    Quiero poder Eliminacion la información de productos que ya no estén disponibles en mi inventario.
+
+    Scenario Outline: Se valida la Edición de Producto del usuario
+    Given el usuario tenga productos con 0 de stock
+    And el usuario ha ingresado a su panel
+    When el usuario selecciona la opción de "Eliminar Producto"
+    Then se le pide que selecciones el producto a eliminar confirmar a eliminacion.
+    And el sistema muestra un <mensaje> de producto eliminado con exito.
+
+    Examples: INPUT
+        | Selecicon de Producto    |
+    Examples: OUTPUT
+        | mensaje |
+
+
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
