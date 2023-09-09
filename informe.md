@@ -87,7 +87,12 @@ Web Application:
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+En el siguiente enlace hacia Figma, se encuentran los Wireframes de la landing page de ReWear, se optó la subida de estos archivos en la nube, ya que reducirán el espacio usado
+https://www.figma.com/file/XxGTOhyTgyTxhOCTGGLy4b/ReWear?type=design&node-id=0%3A1&mode=design&t=l5T5stfrDtwGW9VY-1
+
 ### 4.3.2. Landing Page Mock-up
+En el siguiente enlace hacia Figma, se encuentran los Mock-ups de la landing page de ReWear, se optó la subida de estos archivos en la nube, ya que reducirán el espacio usado
+https://www.figma.com/file/XxGTOhyTgyTxhOCTGGLy4b/ReWear?type=design&node-id=0%3A1&mode=design&t=l5T5stfrDtwGW9VY-1
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
