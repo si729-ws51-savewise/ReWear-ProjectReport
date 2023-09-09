@@ -76,7 +76,7 @@ en ambos lados y toda persona pueda sentirse cómoda utilizando nuestra platafor
 |  Nro  |     Comprador     |     Enlace     | 	Resumen     |
 |:-----:|:-----------------:|:--------:|:----------------------------:|
 |   1   | 				    | 	       | 							  |
-|   2   |  				    |    	   | 							  |
+|   2   |  	Camila Valencia   |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/EbgC10Q2rlBJkKXiDIULMPkBRtlUIPaS_k_sw_fBl9v6Rg?e=3bq7TF  | 		Camila es una joven estudiante de 20 años, ha ido a ventas de garage y considera lo más importante saber el estado de la prenda, le parece bien la idea de contar con una aplicación la cual le indique que eventos disponibles existen  |
 |   3   |         	        |          |       	                      |
 
 **Segmento: Vendedores**
