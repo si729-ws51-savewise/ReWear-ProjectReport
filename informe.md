@@ -21,12 +21,27 @@ de búsqueda. También ofrece la opción de comprar artículos nuevos a precios 
 TheRealReal es una plataforma de lujo en línea que se especializa en la compra y venta de artículos de moda de alta gama y auténticos,
 se destaca por su autenticidad y verificación de productos de lujo, lo que garantiza que los artículos sean genuinos. También promueve
 la sostenibilidad al extender la vida útil de los productos de lujo.    
-3. Tradesy
+3. Tradesy:
 Tradesy es otra plataforma de compra y venta de ropa de segunda mano, pero lo autentico de esta plataforma que también puedes obtener
 ropa de diseñador hasta bolsos, zapatos y joyas. Se esfuerza por proporcionar una plataforma segura y confiable para comprar y vender
 productos de moda usados. También ofrece herramientas de autenticación para ayudar a garantizar la legitimidad de los artículos de lujo. 
 ### 2.1.1. Análisis competitivo
+<div align="center">
+  <img src="https://i.ibb.co/fpG9Zsq/Analisis-Competidores.png" alt="Analisis-Competidores" width="500px">
+</div>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+1. thredUP:
+Tenemos varias similitudes respecto a esta plataforma, en donde nosotros no solo realizaremos las publicaciones por nuestra plataforma
+sino también realizaremos ferias mensuales en donde será de mucha ayuda para los vendedores y compradores puedan obtener un servicio más
+personalizado, e incentivar la compra y venta ayudando a promocionar la plataforma. 
+2. TheRealReal:
+En cambio, nuestra plataforma esta mas destinada a un publico objetivo con mayor demanda porque los precios serán accesibles para
+cualquier persona, desde lo más económico hasta lo mas lujoso. 
+3. Tradesy:
+Nuestra plataforma tendrá la opción de suscripción dependiendo del usuario, ya sea comprador o vendedor, esta suscripción variará en
+descuentos únicos para el comprador y mayor visibilidad de los productos para los vendedores, para poder otorgarle una pequeña ayuda
+en ambos lados y toda persona pueda sentirse cómoda utilizando nuestra plataforma. 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
