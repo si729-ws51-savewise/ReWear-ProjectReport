@@ -72,6 +72,21 @@
 
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+
+En la siguiente sección, vamos a describir con precisión los programas y plataformas que empleamos para llevar a cabo nuestro proyecto ReWear
+
+GitHub: En este espacio, estableceremos el repositorio para llevar a cabo los progresos de nuestra Startup. Asimismo, facilita una supervisión más efectiva del trabajo en equipo, ya que permite visualizar el progreso de cada miembro mediante los commits.
+https://github.com/ 
+
+Git: Sistema de gestión de versiones más popular y es necesario para llevar a cabo los commits en Github.
+https://git-scm.com/downloads 
+
+Discord: Esta es una herramienta de mensajería que facilita la creación de grupos con personas seleccionadas. También ofrece funciones como llamadas, videollamadas, carga de archivos, entre otras. Utilizamos esta aplicación para comunicarnos eficazmente, coordinar tareas y resolver preguntas en grupo.
+https://discord.com/download 
+
+Visual Studio Code: Se trata de un editor de código que posibilita la programación en varios lenguajes y ofrece la posibilidad de ampliar sus capacidades mediante extensiones, lo que mejora la experiencia de trabajo en equipo.
+https://code.visualstudio.com/download 
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
