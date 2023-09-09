@@ -69,12 +69,17 @@
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-**Segmento: Vendedores**
-User persona vendedores
-![User-persona-vendedores](https://i.ibb.co/f4Mn0cr/User-persona.png")
-**Segmento: Compradores**
-User persona compradores
-![User-persona-compradores](https://i.ibb.co/FxG37bh/UP-Yulissa.png")
+
+* **Segmento: Vendedores**
+<div align="center">
+  <img src="https://i.ibb.co/f4Mn0cr/User-persona.png" alt="User_persona_Vendedores" width="500"/>
+</div>
+
+* **Segmento: Compradores**
+<div align="center">
+  <img src="https://i.ibb.co/FxG37bh/UP-Yulissa.png" alt="Juan_Calisaya_profile" width="500" />
+</div>
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
