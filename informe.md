@@ -13,6 +13,18 @@
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
+1. thredUP:
+ThredUP es una plataforma de moda de segunda mano en línea que se destaca por su amplia selección de ropa de segunda mano para cualquier 
+persona, en donde pueden comprar y vender una variedad de artículos. Ofrece una experiencia de compra fácil y conveniente con filtros 
+de búsqueda. También ofrece la opción de comprar artículos nuevos a precios con descuento. 
+2. TheRealReal:
+TheRealReal es una plataforma de lujo en línea que se especializa en la compra y venta de artículos de moda de alta gama y auténticos,
+se destaca por su autenticidad y verificación de productos de lujo, lo que garantiza que los artículos sean genuinos. También promueve
+la sostenibilidad al extender la vida útil de los productos de lujo.    
+3. Tradesy
+Tradesy es otra plataforma de compra y venta de ropa de segunda mano, pero lo autentico de esta plataforma que también puedes obtener
+ropa de diseñador hasta bolsos, zapatos y joyas. Se esfuerza por proporcionar una plataforma segura y confiable para comprar y vender
+productos de moda usados. También ofrece herramientas de autenticación para ayudar a garantizar la legitimidad de los artículos de lujo. 
 ### 2.1.1. Análisis competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
