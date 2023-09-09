@@ -51,17 +51,17 @@
 ### 4.2.3. SEO Tags and Meta Tags
 
 #Landing Page: 
--Title: Aplicación de prendas de vestir de segunda mano   
--Meta Tags: Aplicación para encontrar prendas de vestir de segunda mano con precios accesibles. 
--Description: En esta aplicacion podrás encontrar prendas de vestir de segunda mano. 
--Keywords: Prendas de vestir y Segunda mano.
--Author: ReWear
+- Title: Aplicación de prendas de vestir de segunda mano   
+- Meta Tags: Aplicación para encontrar prendas de vestir de segunda mano con precios accesibles. 
+- Description: En esta aplicacion podrás encontrar prendas de vestir de segunda mano. 
+- Keywords: Prendas de vestir y Segunda mano.
+- Author: ReWear
 #Web Application: 
--Title: Aplicación de prendas de vestir de segunda mano   
--Meta Tags: Aplicación para encontrar prendas de vestir de segunda mano con precios accesibles. 
--Description: En esta aplicacion podrás encontrar prendas de vestir de segunda mano. 
--Keywords: Prendas de vestir y Segunda mano.
--Author: ReWear
+- Title: Aplicación de prendas de vestir de segunda mano   
+- Meta Tags: Aplicación para encontrar prendas de vestir de segunda mano con precios accesibles. 
+- Description: En esta aplicacion podrás encontrar prendas de vestir de segunda mano. 
+- Keywords: Prendas de vestir y Segunda mano.
+- Author: ReWear
  
 ### 4.2.4. Searching Systems
 <div align="center">
