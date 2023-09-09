@@ -28,8 +28,10 @@
 
 # Capútlo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
 **Segmento: Compradores**
 ![to-be-compradores](https://i.ibb.co/sst3qMw/to-be-compradores.png)
+
 **Segmento: Vendedores**
 ![to-be-vendedores](https://i.ibb.co/q10QBVJ/to-be-vendedores.png")
 ## 3.2. User Stories
