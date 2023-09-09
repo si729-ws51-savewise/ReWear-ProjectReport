@@ -72,6 +72,25 @@ Nuestra aplicación ReWear ofrece a jóvenes amantes de la moda una plataforma p
 Sin embargo, hemos identificado un desafío crítico que afecta la satisfacción del cliente: la eficacia en la correspondencia entre lo que buscan y lo que encuentran en la aplicación. Dado que nos enfocamos en el mercado de la moda sostenible, es esencial que los usuarios encuentren prendas que se adapten a sus gustos y necesidades de manera rápida y precisa.¿Cómo podemos mejorar la eficiencia en la búsqueda y coincidencia de productos, garantizando que los clientes encuentren exactamente lo que están buscando en nuestra plataforma?¿Cómo podemos asegurarnos de que los usuarios tengan una experiencia de compra fluida y satisfactoria que los incentive a regresar?
 
 #### 1.2.2.2. Lean UX Assumptions
+
+¿Quién es el usuario?
+Los usuarios de ReWear son principalmente jóvenes adultos entre 18 y 35 años que tienen un interés genuino en la moda sostenible. Pueden ser estudiantes universitarios, jóvenes profesionales o cualquier persona que busque prendas de moda de alta calidad a precios asequibles. Estos usuarios pueden o no tener experiencia previa en la compra de ropa de segunda mano.
+
+¿Dónde encaja nuestro producto? ¿En su trabajo o vida?
+Nuestro producto, ReWear, se integra en la vida cotidiana de los usuarios que buscan opciones de moda asequibles y sostenibles. Se utiliza principalmente en su tiempo libre para explorar y adquirir prendas de moda de segunda mano. Si bien puede no estar directamente relacionado con su trabajo, ReWear puede ayudar a los usuarios a mantener un guardarropa actualizado y sostenible para cualquier ocasión.
+
+¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+Uno de los desafíos iniciales de ReWear es ganarse la confianza de los usuarios y atraer una base de usuarios sólida. Para abordar esto, implementamos estrategias de promoción en línea y confiamos en las recomendaciones y comentarios positivos de nuestros primeros usuarios para generar confianza en la plataforma.
+
+¿Cuándo y cómo es usado nuestro producto?
+ReWear se utiliza cuando los usuarios desean comprar ropa de moda de segunda mano. La aplicación se utiliza siguiendo estos pasos: buscar prendas, comparar precios, agregar elementos al carrito y completar la compra. Los usuarios pueden acceder a la aplicación en cualquier momento que deseen explorar opciones de moda sostenible.
+
+¿Qué características son importantes?
+Para los usuarios de ReWear, las características importantes incluyen una interfaz de usuario intuitiva y atractiva que facilite la búsqueda y la compra de prendas. Además, la actualización constante de las listas de productos y la confiabilidad en la seguridad de las transacciones son esenciales.
+
+¿Cómo debe verse y comportarse nuestro producto?
+La interfaz de usuario de ReWear debe ser fácil de usar y atractiva, con colores y diseño que reflejen la sostenibilidad y la moda. Además, la aplicación debe garantizar la actualización constante de los productos disponibles y brindar una experiencia de compra segura y confiable.
+
 #### 1.2.2.3 Lean UX Hypothesis Statements
 El objetivo de nuestra idea de negocio es proporcionar una plataforma accesible para la compra y venta de ropa y artículos de moda de segunda mano a través de la aplicación ReWear. Nuestra misión es facilitar que tanto los vendedores como los compradores encuentren un espacio conveniente y confiable para dar nueva vida a prendas y accesorios de moda previamente amados. Para ello, ofrecemos a los vendedores la posibilidad de cargar fotos y detalles de sus artículos, mientras que los compradores pueden explorar y adquirir estos productos directamente a través de la aplicación. Nuestra visión es promover un estilo de vida sostenible y económico, donde la moda de segunda mano sea accesible para todos.
 
