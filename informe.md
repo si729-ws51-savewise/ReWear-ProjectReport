@@ -68,6 +68,59 @@
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
+
+#### Entidad: Ubicación
+- **IDUbicacion** (Clave Primaria - INT)
+- Ciudad (VARCHAR(255) NOT NULL)
+- Estado (VARCHAR(255) NOT NULL)
+- País (VARCHAR(255) NOT NULL)
+- Código Postal (VARCHAR(10))
+- Calle (VARCHAR(255))
+- Número (INT)
+
+#### Entidad: Categoría
+- **IDCategoria** (Clave Primaria - INT)
+- Nombre de la Categoría (VARCHAR(255) NOT NULL)
+
+#### Entidad: Comprador
+- **IDComprador** (Clave Primaria - INT)
+- Nombre (VARCHAR(255) NOT NULL)
+- Correo Electrónico (VARCHAR(255) UNIQUE NOT NULL)
+- IDUbicación (INT) (Clave Foránea hacia Ubicación)
+
+#### Entidad: Vendedor
+- **IDVendedor** (Clave Primaria - INT)
+- Nombre (VARCHAR(255) NOT NULL)
+- Correo Electrónico (VARCHAR(255) UNIQUE NOT NULL)
+- IDUbicación (INT) (Clave Foránea hacia Ubicación)
+
+#### Entidad: Productos
+- **IDProducto** (Clave Primaria - INT)
+- Nombre (VARCHAR(255) NOT NULL)
+- IDCategoría (INT NOT NULL) (Clave Foránea hacia Categoría)
+- Precio (DECIMAL(10, 2) NOT NULL)
+- IDVendedor (INT) (Clave Foránea hacia Vendedor)
+
+#### Entidad: CarritoDeCompra
+- **IDCarrito** (Clave Primaria - INT)
+- IDComprador (INT) (Clave Foránea hacia Comprador)
+
+#### Tabla Intermedia: ProductosEnCarrito
+- **ID** (Clave Primaria - INT)
+- IDCarrito (INT) (Clave Foránea hacia CarritoDeCompra)
+- IDProducto (INT) (Clave Foránea hacia Productos)
+- Cantidad (INT)
+
+#### Entidad: Evento
+- **IDEvento** (Clave Primaria - INT)
+- Nombre (VARCHAR(50) NOT NULL)
+- Descripción (VARCHAR(50) NOT NULL)
+- Fecha (DATE NOT NULL)
+- Temática (VARCHAR(50) NOT NULL)
+- IDVendedor (INT) (Clave Foránea hacia Vendedor)
+
+![Diagrama de base de datos ReWear](https://i.ibb.co/9H9nwk9/BD-Rewear.png")
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
