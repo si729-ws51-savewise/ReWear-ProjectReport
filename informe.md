@@ -46,9 +46,19 @@
 ### 2.2.2. Registro de entrevistas
 
 **Segmento: Compradores**
+|  Nro  |     Comprador     | Mascota  |            Enlace            | 	Resumen     |
+|:-----:|:-----------------:|:--------:|:----------------------------:|:---------------:|
+|   1   | 				    | 	       | 							  |					|
+|   2   |  				    |    	   | 							  |					|
+|   3   |         	        |          |       	                      |  				| 
 
 **Segmento: Vendedores**
-
+|  Nro  |     Vendedor      | Mascota  |            Enlace            | 	Resumen     |
+|:-----:|:-----------------:|:--------:|:----------------------------:|:---------------:|
+|   1   | 				    | 	       | 							  |					|
+|   2   |  				    |    	   | 							  |					|
+|   3   |         	        |          |       	                      |  				|                      
+ 
 ### 2.2.3. Análisis de entrevistas
 
 
