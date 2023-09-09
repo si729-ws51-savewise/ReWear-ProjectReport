@@ -12,6 +12,12 @@ Dado que, actualmente estamos aprendiendo nuevas tecnologías, vemos la posibili
 </div>
 Mi nombre es Daniel, soy estudiante del cuarto ciclo de ingeniería de software. Antes de llevar la carrera tenía interés por la materia, aprendí conceptos básicos de programación con Python y Ruby. Además, me considero una persona responsable y empática, por esa razón tengo facilidad para desarrollar trabajos en grupo.
 
+* **Luis Sagastegui Rodriguez**
+<div align="center">
+  <img src="https://i.ibb.co/7yYn5sq/Imagen1.jpg" alt="Imagen1" width="250px" height="250px" />
+</div>
+Mi nombre es Jesus Sagastegui, tengo 20 años y estudio la carrera de Ingenieria de Software. Soy una persona con muchas metas a futuro y con mis objetivos claros, que siempre le gusta aprender algo nueva cada día y sobretodo me gusta trabajar en equipo. Tengo el conocimiento de muchos lenguajes de programacion que espero sean de ayuda para el trabajo colectivo del equipo en este ciclo academico.
+
 * **Fabrizio Torres Solano**
 <div align="center">
   <img src="https://i.ibb.co/59SDKJ1/Fabrizio.jpg" alt="FotoFabrizio" width="250px" height="250px" />
@@ -24,6 +30,7 @@ Mi nombre es Fabrizio, soy estudiante de ingeniería de software. Tengo conocimi
 
 Mi nombre es Juan Jesús Calisaya Sánchez, tengo 19 años y actualmente curso el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. 
 Tengo conocimientos en los lenguajes de programación C + +,  HTML, CSS y JavaScript. Además entre mis habilidades es ser empático con los demás que ayudará a la realización del proyecto.
+
 
 ## 1.2. Solution Profile
 
