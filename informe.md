@@ -17,8 +17,45 @@
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+**Segmento: Compradores**
+1. Preguntas sobre datos personales (Nombre, edad, ciudad, ocupación)
+2. ¿Qué tipo de prendas sueles buscar con más frecuencia en las ventas de garage?
+3. ¿Cuál es la frecuencia en la que acudes a una venta de garage o eventos de este tipo?
+4. ¿Cómo sueles enterarte de las ventas de garaje que se realizan en tu área, redes sociales?
+5. ¿Qué marcas te interesan más cuando vas a una venta de garage?
+6. ¿Has tenido alguna experiencia destacable o anécdota interesante relacionada con la compra de ropa en ventas de garaje?
+7. ¿Qué consideraciones son más importantes para ti al evaluar la calidad de la ropa en una venta de garaje?
+8. ¿Prefieres comprar ropa en ventas de garaje en persona o estás dispuesto a explorar opciones en línea?
+9. ¿Qué opinas de la posibilidad de contar con una aplicación web la cual te permite explorar múltiples prendas de ventas de garage de múltiples vendedores?
+10. ¿Qué opinas de la posibilidad de contar con una aplicación web la cual te permite explorar múltiples eventos físicos de ventas de garage?
+
+**Segmento: Vendedores**
+
+1. Preguntas sobre datos personales (Nombre, edad, ciudad, ocupación)
+2. ¿Cuáles son los tipos de productos de segunda mano que más vendes en tu tienda?
+3. ¿Qué marcas suelen ser las más populares entre tus clientes?
+4. ¿Qué tendencias o estilos de moda son los más demandados en tu tienda?
+5. ¿Con qué frecuencia realizas estos tipos de eventos de venta de ropa?
+6. ¿Qué medio utilizas para publicitar la venta de tus productos?
+7. ¿Cómo organizas la venta de tus productos, tienes algún tipo de control?
+8. ¿Qué opinas sobre la posibilidad de contar con una aplicación web la cual te permita mostrar tus productos?
+9. ¿Qué opinas sobre la posibilidad de contar con una aplicación web la cual te permita anunciar eventos físicos para tus clientes?
+10. ¿Qué opinas sobre la posibilidad de contar con una aplicación web la cual te permita gestionar la venta de tus productos?
+
 ### 2.2.2. Registro de entrevistas
+
+**Segmento: Compradores**
+
+**Segmento: Vendedores**
+
 ### 2.2.3. Análisis de entrevistas
+
+
+**Segmento: Compradores**
+
+**Segmento: Vendedores**
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
