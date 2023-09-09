@@ -83,7 +83,7 @@ en ambos lados y toda persona pueda sentirse cómoda utilizando nuestra platafor
 |  Nro  |     Vendedor      |     Enlace     | 	Resumen     |
 |:-----:|:-----------------:|:--------:|:----------------------------:|
 |   1   | 				    | 	       | 							  |
-|   2   |  				    |    	   | 							  |
+|   2   |  	Rodrigo Farias    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/EVpw4_usG4FJorQwA6Ie3zIBU8V5STYGfpGfgIIeGPtVww?e=n2cYqg 	   | 		Rodrigo es un joven de 22 años, lleva en el negocio de la venta de garage 5 meses y comenta que le ha ido bien desde la época post pandemia. Generalemente revende productos de las marcas Nike y Gap|
 |   3   |         	        |          |       	                      |			 
                   
  
