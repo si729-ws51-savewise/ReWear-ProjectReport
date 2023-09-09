@@ -128,8 +128,9 @@ Esta matriz se enfoca en las acciones específicas que los usuarios Vendedores d
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 <div align="center">
-  <img src="https://i.ibb.co/3Y4rYnX/Compradora-1.png" alt="Compradora-1" width="500" />
+  <img src="https://i.ibb.co/3Y4rYnX/Compradora-1.png"  width="500" />
 </div>
+
 ### 2.3.5. As-is Scenario Mapping
 * **Segmento Comprador**
 <div align="center">
