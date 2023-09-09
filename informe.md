@@ -12,6 +12,14 @@ Dado que, actualmente estamos aprendiendo nuevas tecnologías, vemos la posibili
 </div>
 Mi nombre es Daniel, soy estudiante del cuarto ciclo de ingeniería de software. Antes de llevar la carrera tenía interés por la materia, aprendí conceptos básicos de programación con Python y Ruby. Además, me considero una persona responsable y empática, por esa razón tengo facilidad para desarrollar trabajos en grupo.
 
+* **Fabrizio Torres Solano**
+<div align="center">
+  <img src="https://i.ibb.co/59SDKJ1/Fabrizio.jpg" alt="FotoFabrizio" width="250px" height="250px" />
+</div>
+Mi nombre es Fabrizio, soy estudiante de ingeniería de software. Tengo conocimientos de programación en Python y C++.Me considero una persona responsable, generosa, hábil y competitiva. En el trabajo en el que me encuentro, ayudaré a dar ideas para poder desarrollar de la manera óptima el trabajo y aportaré si alguien solicita ayuda.
+
+
+
 ## 1.2. Solution Profile
 
 ReWear es una aplicación dedicada a la venta y compra de Ropa de garage. Los usuarios vendedores podrán publicar los productos que tengan a su disposición, sus clientes podrán conversar con ellos para consultar sobre  detalles más específicos de las prendas. Los vendedores tendrán la posibilidad de crear eventos para físicos de venta para interactuar con los compradores. Además los vendedores contarán con un dashboard en el cual podrán llevar la gestión de todos los productos y ventas de su negocio.
@@ -58,10 +66,47 @@ El impacto en la contribución al medio ambiente puede variar, pero el potencial
 
 ### 1.2.2.Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+
+Nuestra aplicación ReWear ofrece a jóvenes amantes de la moda una plataforma para comprar y vender ropa de segunda mano. Los usuarios pueden explorar prendas, comparar precios y realizar compras de manera eficiente. Además, ofrecemos la posibilidad de obtener cupones de establecimientos asociados a través del servicio premium.
+
+Sin embargo, hemos identificado un desafío crítico que afecta la satisfacción del cliente: la eficacia en la correspondencia entre lo que buscan y lo que encuentran en la aplicación. Dado que nos enfocamos en el mercado de la moda sostenible, es esencial que los usuarios encuentren prendas que se adapten a sus gustos y necesidades de manera rápida y precisa.¿Cómo podemos mejorar la eficiencia en la búsqueda y coincidencia de productos, garantizando que los clientes encuentren exactamente lo que están buscando en nuestra plataforma?¿Cómo podemos asegurarnos de que los usuarios tengan una experiencia de compra fluida y satisfactoria que los incentive a regresar?
+
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3 Lean UX Hypothesis Statements
+El objetivo de nuestra idea de negocio es proporcionar una plataforma accesible para la compra y venta de ropa y artículos de moda de segunda mano a través de la aplicación ReWear. Nuestra misión es facilitar que tanto los vendedores como los compradores encuentren un espacio conveniente y confiable para dar nueva vida a prendas y accesorios de moda previamente amados. Para ello, ofrecemos a los vendedores la posibilidad de cargar fotos y detalles de sus artículos, mientras que los compradores pueden explorar y adquirir estos productos directamente a través de la aplicación. Nuestra visión es promover un estilo de vida sostenible y económico, donde la moda de segunda mano sea accesible para todos.
+
+
+Hipótesis de Negocio:
+
+1. Creemos que al ofrecer una plataforma gratuita para visualizar los productos, atraeremos a una mayor cantidad de vendedores interesados en utilizar nuestra aplicación. Sabremos que esto es cierto cuando veamos un aumento constante en la cantidad de vendedores registrados y productos disponibles.
+
+2. Creemos que al cobrar una tarifa mensual a los vendedores por utilizar la aplicación, generaremos ingresos suficientes para mantener y mejorar nuestros servicios. Sabremos que esto es cierto cuando alcancemos una tasa de retención de vendedores que justifique nuestra estructura de precios y cuando veamos un crecimiento sostenido en nuestros ingresos mensuales.
+
+3. Creemos que al proporcionar una interfaz de usuario intuitiva y atractiva, aumentaremos la retención de los compradores y fomentaremos la repetición de compras. Sabremos que esto es cierto cuando observemos un aumento en la frecuencia de compra y en el número de compradores que vuelven a utilizar la aplicación.
+
+Hipótesis del Usuario:
+
+1. Creemos que los vendedores estarán dispuestos a pagar una tarifa mensual para vender sus artículos en la aplicación porque les ofrecerá una plataforma conveniente y efectiva para llegar a compradores interesados en moda de segunda mano. Sabremos que esto es cierto cuando realicemos encuestas a vendedores y la mayoría muestre disposición a pagar por el servicio.
+
+2. Creemos que los compradores encontrarán valor en la amplia selección de productos de moda de segunda mano disponibles en la aplicación y estarán dispuestos a utilizarla regularmente. Sabremos que esto es cierto cuando veamos un aumento constante en la cantidad de compradores registrados y en el número de transacciones realizadas.
+
+3. Creemos que los compradores preferirán una experiencia de compra en la aplicación que sea sencilla, rápida y segura. Sabremos que esto es cierto cuando recopilemos comentarios positivos y observemos una disminución en la tasa de abandono del carrito de compras.
+
+
+
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo
+
+Nuestra audiencia objetivo se compone principalmente de hombres y mujeres de edades comprendidas entre los 18 y 35 años, residentes en áreas urbanas de todo el país. Estos individuos comparten una pasión por la moda sostenible y buscan activamente prendas de calidad a precios accesibles en el mercado de segunda mano.
+
+Nuestros usuarios tienen las siguientes características clave:
+
+1. Son conscientes de la importancia de la sostenibilidad y desean contribuir al medio ambiente a través de la moda de segunda mano.
+2. Buscan la oportunidad de adquirir prendas únicas y de calidad que reflejen su estilo personal.
+3. Valoran la conveniencia de una plataforma segura y confiable para comprar y vender ropa usada.
+4. Representan una amplia gama de perfiles, desde estudiantes universitarios en busca de opciones asequibles hasta jóvenes profesionales que desean ampliar su guardarropa de manera responsable.
+
+Nuestra aplicación ReWear está diseñada específicamente para atender las necesidades y deseos de esta audiencia diversa. Ofrecemos una amplia selección de prendas de moda de segunda mano a precios competitivos, promoviendo al mismo tiempo la sostenibilidad y la reutilización de ropa en un entorno seguro y conveniente, accesible desde dispositivos móviles o computadoras.
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
