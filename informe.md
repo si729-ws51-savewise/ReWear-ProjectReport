@@ -114,6 +114,11 @@ Hipótesis del Usuario:
 
 
 #### 1.2.2.4. Lean UX Canvas
+
+<div align="center">
+  <img src="https://i.ibb.co/M75tJp4/Lean-Ux-Canvas.jpg" alt="FotoDaniel" width="250px" height="250px" />
+</div>
+
 ## 1.3. Segmentos objetivo
 
 Nuestra audiencia objetivo se compone principalmente de hombres y mujeres de edades comprendidas entre los 18 y 35 años, residentes en áreas urbanas de todo el país. Estos individuos comparten una pasión por la moda sostenible y buscan activamente prendas de calidad a precios accesibles en el mercado de segunda mano.
