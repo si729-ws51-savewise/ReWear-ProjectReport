@@ -98,6 +98,8 @@ https://www.figma.com/file/XxGTOhyTgyTxhOCTGGLy4b/ReWear?type=design&node-id=0%3
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
+En el siguiente enlace hacia Figma, se encuentran los Mock-ups de la Web Applications de ReWear, se optó la subida de estos archivos en la nube, ya que reducirán el espacio usado
+https://www.figma.com/file/QF02Bas5sOLb5RbBylDGir/Angular-Material-(Material-3-Design-Component-Figma-Library-For-Angular)-(Community)?type=design&node-id=6%3A2&mode=design&t=NtnHNS4TjDEE8HOT-1
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
