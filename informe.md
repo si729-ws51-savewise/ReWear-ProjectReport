@@ -34,7 +34,7 @@
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
-## 4.1. Style Guidelines
+### 4.1.1. General Style Guidelines
 
 <div align="center">
   <img src="https://i.ibb.co/x8CK698/estilos.png"  width="500px" height="300px" />
@@ -46,7 +46,6 @@ Con respecto a Style Guidelines, estamos utilizando la tipografíaa Poppins, Est
 *	Hemos seleccionado los colores negro y blanco para tener contraste dentro de nuestra, la intención también es tener 
 una vista minimalista.
 
-### 4.1.1. General Style Guidelines
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
