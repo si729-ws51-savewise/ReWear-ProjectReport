@@ -93,8 +93,8 @@ Esta matriz se centra en las acciones que los usuarios Compradores pueden llevar
 * **Segmento Vendedor**
 
 <div align="center">
-  <img src="https://i.ibb.co/zHqzrV6/user-task-matrix-vendedores.jpg"  width="500" />
-</div>  
+  <img src="https://i.ibb.co/0Zz24NV/user-task-matrix-vendedores.jpg"  width="500" />
+</div>
 
 Esta matriz se enfoca en las acciones específicas que los usuarios Vendedores deben llevar a cabo en la aplicación ReWear. Los vendedores son aquellos usuarios que desean vender sus propios artículos de moda de segunda mano en la plataforma. Las tareas incluyen iniciar sesión, crear una cuenta, suscribirse a la aplicación (para vendedores), crear eventos, agregar/quitar productos, editar ofertas por campañas, desarrollar sistemas de entrega/intercambio e implementar sistemas de pagos. Al igual que en la matriz de Compradores, se especifica la frecuencia y la importancia de cada tarea, destacando las actividades esenciales para que los vendedores gestionen y promocionen sus productos en la aplicación.
 
