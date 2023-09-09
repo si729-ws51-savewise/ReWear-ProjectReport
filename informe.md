@@ -39,10 +39,36 @@
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
+<div align="center">
+  <img src="https://i.ibb.co/vVJM2x3/Concept-map.jpg" alt="Concept-map" width="500">
+</div>
 ### 4.2.2. Labeling Systems
+<div align="center">
+  <img src="https://i.ibb.co/njDKBGv/Concept-map-1.jpg" alt="Concept-map-1" width="500">
+</div>
 ### 4.2.3. SEO Tags and Meta Tags
+
+Landing Page: 
+	-Title: Aplicación de prendas de vestir de segunda mano   
+	-Meta Tags: Aplicación para encontrar prendas de vestir de segunda mano con precios accesibles. 
+	-Description: En esta aplicacion podrás encontrar prendas de vestir de segunda mano. 
+	-Keywords: Prendas de vestir y Segunda mano.
+	-Author: ReWear
+Web Application: 
+-Title: Aplicación de prendas de vestir de segunda mano   
+	-Meta Tags: Aplicación para encontrar prendas de vestir de segunda mano con precios accesibles. 
+	-Description: En esta aplicacion podrás encontrar prendas de vestir de segunda mano. 
+	-Keywords: Prendas de vestir y Segunda mano.
+	-Author: ReWear
+ 
 ### 4.2.4. Searching Systems
+<div align="center">
+  <img src="https://i.ibb.co/hmGCj7G/Concept-map-2.jpg" alt="Concept-map-2" width="500">
+</div>
 ### 4.2.5. Navigation Systems
+<div align="center">
+  <img src="https://i.ibb.co/B464xf7/Concept-map-3.jpg" alt="Concept-map-3" width="500">
+</div>
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
