@@ -109,12 +109,8 @@ https://www.figma.com/file/XxGTOhyTgyTxhOCTGGLy4b/ReWear?type=design&node-id=0%3
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+![Diagrama de base de datos ReWear](https://i.ibb.co/9H9nwk9/BD-Rewear.png")
 ### 4.7.2. Class Dictionary
-
-## 4.8. Database Design
-### 4.8.1. Database Diagram
-
-
 #### Entidad: Ubicación
 - **IDUbicacion** (Clave Primaria - INT)
 - Ciudad (VARCHAR(255) NOT NULL)
@@ -164,8 +160,79 @@ https://www.figma.com/file/XxGTOhyTgyTxhOCTGGLy4b/ReWear?type=design&node-id=0%3
 - Fecha (DATE NOT NULL)
 - Temática (VARCHAR(50) NOT NULL)
 - IDVendedor (INT) (Clave Foránea hacia Vendedor)
+## 4.8. Database Design
+### 4.8.1. Database Diagram
 
-![Diagrama de base de datos ReWear](https://i.ibb.co/9H9nwk9/BD-Rewear.png")
+```sql
+CREATE DATABASE Rewear;
+
+CREATE TABLE Ubicacion (
+    IDUbicacion INT PRIMARY KEY,
+    Ciudad VARCHAR(255) NOT NULL,
+    Estado VARCHAR(255) NOT NULL,
+    Pais VARCHAR(255) NOT NULL,
+    CodigoPostal VARCHAR(10),
+    Calle VARCHAR(255),
+    Numero INT
+);
+
+CREATE TABLE Categoria (
+    IDCategoria INT PRIMARY KEY,
+    NombreCategoria VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE Comprador (
+    IDComprador INT PRIMARY KEY,
+    Nombre VARCHAR(255) NOT NULL,
+    CorreoElectronico VARCHAR(255) UNIQUE NOT NULL,
+    IDUbicacion INT,
+    FOREIGN KEY (IDUbicacion) REFERENCES Ubicacion(IDUbicacion)
+);
+
+CREATE TABLE Vendedor (
+    IDVendedor INT PRIMARY KEY,
+    Nombre VARCHAR(255) NOT NULL,
+    CorreoElectronico VARCHAR(255) UNIQUE NOT NULL,
+    IDUbicacion INT,
+    FOREIGN KEY (IDUbicacion) REFERENCES Ubicacion(IDUbicacion)
+);
+
+CREATE TABLE Productos (
+    IDProducto INT PRIMARY KEY,
+    Nombre VARCHAR(255) NOT NULL,
+    IDCategoria INT NOT NULL,
+    Precio DECIMAL(10, 2) NOT NULL,
+    IDVendedor INT,
+    FOREIGN KEY (IDCategoria) REFERENCES Categoria(IDCategoria),
+    FOREIGN KEY (IDVendedor) REFERENCES Vendedor(IDVendedor)
+);
+
+CREATE TABLE CarritoDeCompra (
+    IDCarrito INT PRIMARY KEY,
+    IDComprador INT,
+    FOREIGN KEY (IDComprador) REFERENCES Comprador(IDComprador)
+);
+
+CREATE TABLE ProductosEnCarrito (
+    ID INT PRIMARY KEY,
+    IDCarrito INT,
+    IDProducto INT,
+    Cantidad INT,
+    FOREIGN KEY (IDCarrito) REFERENCES CarritoDeCompra(IDCarrito),
+    FOREIGN KEY (IDProducto) REFERENCES Productos(IDProducto)
+);
+
+CREATE TABLE Evento (
+    IDEvento INT PRIMARY KEY, -- Puedes quitar AUTO_INCREMENT si no es necesario
+    Nombre VARCHAR(50) NOT NULL,
+    Descripcion VARCHAR(50) NOT NULL,
+    Fecha DATE NOT NULL,
+    Tematica VARCHAR(50) NOT NULL,
+    IDVendedor INT,
+    FOREIGN KEY (IDVendedor) REFERENCES Vendedor(IDVendedor)
+);
+
+```
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
