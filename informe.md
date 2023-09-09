@@ -14,7 +14,7 @@ Mi nombre es Daniel, soy estudiante del cuarto ciclo de ingeniería de software.
 
 * **Fabrizio Torres Solano**
 <div align="center">
-  <img src="https://i.ibb.co/59SDKJ1/Fabrizio.jpg" alt="FotoFabrizio" width="500px" height="500px" />
+  <img src="https://i.ibb.co/59SDKJ1/Fabrizio.jpg" alt="FotoFabrizio" width="250px" height="250px" />
 </div>
 Mi nombre es Fabrizio, soy estudiante de ingeniería de software. Tengo conocimientos de programación en Python y C++.Me considero una persona responsable, generosa, hábil y competitiva. En el trabajo en el que me encuentro, ayudaré a dar ideas para poder desarrollar de la manera óptima el trabajo y aportaré si alguien solicita ayuda.
 
@@ -116,7 +116,7 @@ Hipótesis del Usuario:
 #### 1.2.2.4. Lean UX Canvas
 
 <div align="center">
-  <img src="https://i.ibb.co/M75tJp4/Lean-Ux-Canvas.jpg" alt="FotoDaniel" width="250px" height="250px" />
+  <img src="https://i.ibb.co/M75tJp4/Lean-Ux-Canvas.jpg" alt="FotoDaniel" width="700px" height="700px" />
 </div>
 
 ## 1.3. Segmentos objetivo
