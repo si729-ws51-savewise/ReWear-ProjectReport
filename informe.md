@@ -84,7 +84,14 @@
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
-
+* **Segmento Comprador**
+<div align="center">
+  <img src="https://i.ibb.co/nzfvHBG/as-is-compradores.jpg" width="500" />
+</div>
+* **Segmento Vendedor**
+<div align="center">
+  <img src="https://i.ibb.co/vBCf16V/as-is-vendedores.jpg" width="500" />
+</div>
 # Capútlo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
