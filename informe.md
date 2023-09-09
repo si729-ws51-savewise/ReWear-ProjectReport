@@ -75,14 +75,14 @@ en ambos lados y toda persona pueda sentirse cómoda utilizando nuestra platafor
 **Segmento: Compradores**
 |  Nro  |     Comprador     |     Enlace     | 	Resumen     |
 |:-----:|:-----------------:|:--------:|:----------------------------:|
-|   1   | 				    | 	       | 							  |
+|   1   | 	Maria Paredes			|  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EUj1tp60lFxAi0buyo22PwgBdRb_ESqbegl_5_ryORwv2Q?e=ohVv7N  | 		Maria es una jocen estudiante de 20 años, considera que las ventas de garage son una gran oportunidad para encontrar buenas prendas de vestir y que le gustaria tener una pagina web en la cual pueda visualizar todo tipo de vestimenta porque se le resultaria mas facil y organizado todo.		  |
 |   2   |  	Camila Valencia   |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/EbgC10Q2rlBJkKXiDIULMPkBRtlUIPaS_k_sw_fBl9v6Rg?e=3bq7TF  | 		Camila es una joven estudiante de 20 años, ha ido a ventas de garage y considera lo más importante saber el estado de la prenda, le parece bien la idea de contar con una aplicación la cual le indique que eventos disponibles existen  |
 |   3   |         	        |          |       	                      |
 
 **Segmento: Vendedores**
 |  Nro  |     Vendedor      |     Enlace     | 	Resumen     |
 |:-----:|:-----------------:|:--------:|:----------------------------:|
-|   1   | 				    | 	       | 							  |
+|   1   | 	Ana Ramirez			  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EVtrp79iECBBoWsxOKwJS_QBg3V2-JaBKbI7gogoRKEVSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=nc2GNk	   | 	Ana es una pequeña emprendedora que cuenta con una tienda de venta de garage por redes sociales, realiza una venta de garage en fisico una vez al mes y que le gustaria promocionar sus productos por alguna pagina web, de igual manera que las compras de estas.				  |
 |   2   |  	Rodrigo Farias    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/EVpw4_usG4FJorQwA6Ie3zIBU8V5STYGfpGfgIIeGPtVww?e=n2cYqg 	   | 		Rodrigo es un joven de 22 años, lleva en el negocio de la venta de garage 5 meses y comenta que le ha ido bien desde la época post pandemia. Generalemente revende productos de las marcas Nike y Gap|
 |   3   |         	        |          |       	                      |			 
                   
