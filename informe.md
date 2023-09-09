@@ -18,7 +18,12 @@ Mi nombre es Daniel, soy estudiante del cuarto ciclo de ingeniería de software.
 </div>
 Mi nombre es Fabrizio, soy estudiante de ingeniería de software. Tengo conocimientos de programación en Python y C++.Me considero una persona responsable, generosa, hábil y competitiva. En el trabajo en el que me encuentro, ayudaré a dar ideas para poder desarrollar de la manera óptima el trabajo y aportaré si alguien solicita ayuda.
 
+<div align="center">
+  <img src="https://i.ibb.co/xS29YZ1/Juan-Profile.png" alt="Juan_Calisaya_profile" width="250px" height="250px" />
+</div>
 
+Mi nombre es Juan Jesús Calisaya Sánchez, tengo 19 años y actualmente curso el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. 
+Tengo conocimientos en los lenguajes de programación C + +,  HTML, CSS y JavaScript. Además entre mis habilidades es ser empático con los demás que ayudará a la realización del proyecto.
 
 ## 1.2. Solution Profile
 
