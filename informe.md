@@ -92,7 +92,16 @@ en ambos lados y toda persona pueda sentirse cómoda utilizando nuestra platafor
 
 **Segmento: Compradores**
 
+-En lo que respecta al segmento Compradores, las entrevistadas apoyan la idea de una aplicacion que permita visualizar los productos de distintas tiendas en las cuales tambien se pueda realizar compras y
+sobretodo que sea de facil uso. Aunque tambien han sugerido un par de funcionalidades adicionales a la aplicacion. Ademas, a traves de estas entrevistas, se puede confirmar que la edad estimada para los 
+compradores es entre los 20-30 años. Por lo menos hay un porcentaje favoreciendo al sector femenino en cuanto a las personas que recurren a ventas de garage. Finalmente, mencionan que deberian darse la 
+oportunidad de ir en algun momento a una venta de garage porque te puedes llevar mas de una sorpresa. 
+
 **Segmento: Vendedores**
+
+-En lo que respecta al segmento Vendedores, los entrevistados les gustaria posees en algun momento alguna pagina web en donde puedan publicar sus productos y la comunicacion con sus clientes sea mas 
+directa. Creen que estaria mejor organizado y tambien les ayudaria a hacerse mas conocido en el mercado, ya que aportaria un valor significativo y complementa las tareas de varios sectores en el rubro.
+Analizando las respuestas de los entrevistados, asignamos puntajes a los principales valores que ellos califican que deberia tener nuestro servicio.  
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
