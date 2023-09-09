@@ -23,7 +23,7 @@ Mi nombre es Jesus Sagastegui, tengo 20 años y estudio la carrera de Ingenieria
   <img src="https://i.ibb.co/59SDKJ1/Fabrizio.jpg" alt="FotoFabrizio" width="250px" height="250px" />
 </div>
 Mi nombre es Fabrizio, soy estudiante de ingeniería de software. Tengo conocimientos de programación en Python y C++.Me considero una persona responsable, generosa, hábil y competitiva. En el trabajo en el que me encuentro, ayudaré a dar ideas para poder desarrollar de la manera óptima el trabajo y aportaré si alguien solicita ayuda.
-
+* **Juan Jesús Calisaya Sánchez**
 <div align="center">
   <img src="https://i.ibb.co/xS29YZ1/Juan-Profile.png" alt="Juan_Calisaya_profile" width="250px" height="250px" />
 </div>
