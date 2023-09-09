@@ -46,8 +46,6 @@ Con respecto a Style Guidelines, estamos utilizando la tipografíaa Poppins, Est
 *	Hemos seleccionado los colores negro y blanco para tener contraste dentro de nuestra, la intención también es tener 
 una vista minimalista.
 
-### 4.1.2. Web Style Guidelines
-
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 <div align="center">
