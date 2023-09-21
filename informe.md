@@ -81,49 +81,32 @@ El impacto en la contribución al medio ambiente puede variar, pero el potencial
 
 Nuestra aplicación ReWear ofrece a jóvenes amantes de la moda una plataforma para comprar y vender ropa de segunda mano. Los usuarios pueden explorar prendas, comparar precios y realizar compras de manera eficiente. Además, ofrecemos la posibilidad de obtener cupones de establecimientos asociados a través del servicio premium.
 
-Sin embargo, hemos identificado un desafío crítico que afecta la satisfacción del cliente: la eficacia en la correspondencia entre lo que buscan y lo que encuentran en la aplicación. Dado que nos enfocamos en el mercado de la moda sostenible, es esencial que los usuarios encuentren prendas que se adapten a sus gustos y necesidades de manera rápida y precisa.¿Cómo podemos mejorar la eficiencia en la búsqueda y coincidencia de productos, garantizando que los clientes encuentren exactamente lo que están buscando en nuestra plataforma?¿Cómo podemos asegurarnos de que los usuarios tengan una experiencia de compra fluida y satisfactoria que los incentive a regresar?
+A continuación, mencionaremos algunos problemas de nuestros segmentos:
+
+- Las personas que compran ropa de segunda mano o que siguen a la moda sostenible en el Perú buscan ventas de garaje cercanos. Actualmente, no existe una forma eficaz de localizar estas ventas y ver información de las prendas disponibles.
+- Las personas que compran ropa de segunda mano no encuentran lo que necesitan en las ventas de garaje.
+- Los usuarios que buscan ropa de segunda mano por aplicaciones, como las redes sociales, no encuentran variedad o prendas que se ajusten a sus necesidades.
+- Las personas que comprar prendas de segunda mano a menudo no encuentran eventos o ferias que promuevan a la moda sostenible.
+- Con frecuencia, las personas que venden ropa de segunda mano se encuentran con desafíos para atraer clientes, ya que tienen una presencia limitada en línea, carecen de visibilidad e información sobre sus prendas u otros productos.
+- Los comerciantes de ropa de segunda mano encuentran complicaciones al organizar eventos de venta al aire libre, lo que se traduce en una escasez de exposición y posibilidades de negocio.
 
 #### 1.2.2.2. Lean UX Assumptions
 
-¿Quién es el usuario?
-Los usuarios de ReWear son principalmente jóvenes adultos entre 18 y 35 años que tienen un interés genuino en la moda sostenible. Pueden ser estudiantes universitarios, jóvenes profesionales o cualquier persona que busque prendas de moda de alta calidad a precios asequibles. Estos usuarios pueden o no tener experiencia previa en la compra de ropa de segunda mano.
-
-¿Dónde encaja nuestro producto? ¿En su trabajo o vida?
-Nuestro producto, ReWear, se integra en la vida cotidiana de los usuarios que buscan opciones de moda asequibles y sostenibles. Se utiliza principalmente en su tiempo libre para explorar y adquirir prendas de moda de segunda mano. Si bien puede no estar directamente relacionado con su trabajo, ReWear puede ayudar a los usuarios a mantener un guardarropa actualizado y sostenible para cualquier ocasión.
-
-¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
-Uno de los desafíos iniciales de ReWear es ganarse la confianza de los usuarios y atraer una base de usuarios sólida. Para abordar esto, implementamos estrategias de promoción en línea y confiamos en las recomendaciones y comentarios positivos de nuestros primeros usuarios para generar confianza en la plataforma.
-
-¿Cuándo y cómo es usado nuestro producto?
-ReWear se utiliza cuando los usuarios desean comprar ropa de moda de segunda mano. La aplicación se utiliza siguiendo estos pasos: buscar prendas, comparar precios, agregar elementos al carrito y completar la compra. Los usuarios pueden acceder a la aplicación en cualquier momento que deseen explorar opciones de moda sostenible.
-
-¿Qué características son importantes?
-Para los usuarios de ReWear, las características importantes incluyen una interfaz de usuario intuitiva y atractiva que facilite la búsqueda y la compra de prendas. Además, la actualización constante de las listas de productos y la confiabilidad en la seguridad de las transacciones son esenciales.
-
-¿Cómo debe verse y comportarse nuestro producto?
-La interfaz de usuario de ReWear debe ser fácil de usar y atractiva, con colores y diseño que reflejen la sostenibilidad y la moda. Además, la aplicación debe garantizar la actualización constante de los productos disponibles y brindar una experiencia de compra segura y confiable.
+- Las personas que compran ropa de segunda mano en Perú buscan aplicaciones fáciles de usar que les proporcione información acerca de las ventas de garaje y de las prendas disponibles.
+- Los compradores de ropa de segunda mano están interesados en recibir ofertas exclusivas, descuentos, promociones en los productos y eventos a través de la aplicación.
+- En el Perú, los comerciantes de ropa de segunda mano están dispuestos a brindar información precisa sobre sus prendas o productos relacionados en la venta de garaje.
+- Los vendedores de ropa de segunda mano en el Perú desean promocionar sus prendas y otros productos relacionados a través de una aplicación web.
+- Los compradores de ropa de segunda mano buscan una aplicación que sea sencilla, intuitiva y completa, para lo cual les facilitara la rápida obtención de información sobre las ventas de garaje cercanos y prendas de vestir.
+- Los comerciantes de ropa de segunda mano están dispuestos a integrar una tienda online y pagar una tarifa por utilizar la plataforma online de venta.
 
 #### 1.2.2.3 Lean UX Hypothesis Statements
-El objetivo de nuestra idea de negocio es proporcionar una plataforma accesible para la compra y venta de ropa y artículos de moda de segunda mano a través de la aplicación ReWear. Nuestra misión es facilitar que tanto los vendedores como los compradores encuentren un espacio conveniente y confiable para dar nueva vida a prendas y accesorios de moda previamente amados. Para ello, ofrecemos a los vendedores la posibilidad de cargar fotos y detalles de sus artículos, mientras que los compradores pueden explorar y adquirir estos productos directamente a través de la aplicación. Nuestra visión es promover un estilo de vida sostenible y económico, donde la moda de segunda mano sea accesible para todos.
 
-
-Hipótesis de Negocio:
-
-1. Creemos que al ofrecer una plataforma gratuita para visualizar los productos, atraeremos a una mayor cantidad de vendedores interesados en utilizar nuestra aplicación. Sabremos que esto es cierto cuando veamos un aumento constante en la cantidad de vendedores registrados y productos disponibles.
-
-2. Creemos que al cobrar una tarifa mensual a los vendedores por utilizar la aplicación, generaremos ingresos suficientes para mantener y mejorar nuestros servicios. Sabremos que esto es cierto cuando alcancemos una tasa de retención de vendedores que justifique nuestra estructura de precios y cuando veamos un crecimiento sostenido en nuestros ingresos mensuales.
-
-3. Creemos que al proporcionar una interfaz de usuario intuitiva y atractiva, aumentaremos la retención de los compradores y fomentaremos la repetición de compras. Sabremos que esto es cierto cuando observemos un aumento en la frecuencia de compra y en el número de compradores que vuelven a utilizar la aplicación.
-
-Hipótesis del Usuario:
-
-1. Creemos que los vendedores estarán dispuestos a pagar una tarifa mensual para vender sus artículos en la aplicación porque les ofrecerá una plataforma conveniente y efectiva para llegar a compradores interesados en moda de segunda mano. Sabremos que esto es cierto cuando realicemos encuestas a vendedores y la mayoría muestre disposición a pagar por el servicio.
-
-2. Creemos que los compradores encontrarán valor en la amplia selección de productos de moda de segunda mano disponibles en la aplicación y estarán dispuestos a utilizarla regularmente. Sabremos que esto es cierto cuando veamos un aumento constante en la cantidad de compradores registrados y en el número de transacciones realizadas.
-
-3. Creemos que los compradores preferirán una experiencia de compra en la aplicación que sea sencilla, rápida y segura. Sabremos que esto es cierto cuando recopilemos comentarios positivos y observemos una disminución en la tasa de abandono del carrito de compras.
-
-
+- Si en nuestra aplicación fácil de usar ofrecemos información sobre las ventas de garaje cercanas y prendas disponibles, entonces los usuarios la encontraran valiosa y conveniente, lo que aumentará la retención usuarios en Perú.
+- Si ofrecemos ofertas exclusivas, descuentos y promociones en productos y eventos a través de la aplicación, entonces los compradores de ropa de segunda mano estarán más comprometidos y motivados a usar nuestra plataforma.
+- Si creamos una plataforma donde los vendedores de ropa de segunda mano en Perú estén dispuestos a proporcionar información precisa sobre sus prendas y artículos en ventas de garaje, entonces aumentará la confianza y la satisfacción de los compradores.
+- Si permitimos a los vendedores de ropa de segunda mano en Perú promocionar sus artículos y productos relacionados a través de una aplicación web, entonces se traducirá en una mayor visibilidad y oportunidades de venta.
+- Si desarrollamos una aplicación simple, intuitiva y completa que permita a los compradores de ropa de segunda mano en Perú acceder rápidamente a información sobre ventas de garaje cercanas y prendas de vestir, entonces generará mayor satisfacción y compromiso por parte de los usuarios.
+- Si ofrecemos la opción de integrar una tienda en línea para los comerciantes de ropa de segunda mano y cobramos una tarifa por utilizar la plataforma de venta en línea, entonces les proporcionará un canal adicional valioso para las ventas y la generación de ingresos.
 
 #### 1.2.2.4. Lean UX Canvas
 
