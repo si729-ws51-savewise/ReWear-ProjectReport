@@ -46,6 +46,7 @@ en ambos lados y toda persona pueda sentirse cómoda utilizando nuestra platafor
 ### 2.2.1. Diseño de entrevistas
 
 **Segmento: Compradores**
+
 1. Preguntas sobre datos personales (Nombre, edad, ciudad, ocupación)
 2. ¿Qué tipo de prendas sueles buscar con más frecuencia en las ventas de garage?
 3. ¿Cuál es la frecuencia en la que acudes a una venta de garage o eventos de este tipo?
@@ -54,8 +55,9 @@ en ambos lados y toda persona pueda sentirse cómoda utilizando nuestra platafor
 6. ¿Has tenido alguna experiencia destacable o anécdota interesante relacionada con la compra de ropa en ventas de garaje?
 7. ¿Qué consideraciones son más importantes para ti al evaluar la calidad de la ropa en una venta de garaje?
 8. ¿Prefieres comprar ropa en ventas de garaje en persona o estás dispuesto a explorar opciones en línea?
-9. ¿Qué opinas de la posibilidad de contar con una aplicación web la cual te permite explorar múltiples prendas de ventas de garage de múltiples vendedores?
-10. ¿Qué opinas de la posibilidad de contar con una aplicación web la cual te permite explorar múltiples eventos físicos de ventas de garage?
+9.	¿Qué aparatos tecnológicos utiliza ya sea laptop o computador o celular? 
+10.	¿Qué opinas de la posibilidad de contar con una aplicación web la cual te permite explorar múltiples prendas de ventas de garaje de múltiples vendedores?
+11.	¿Qué opinas de la posibilidad de contar con una aplicación web la cual te permite explorar múltiples eventos físicos de ventas de garaje?
 
 **Segmento: Vendedores**
 
@@ -66,27 +68,83 @@ en ambos lados y toda persona pueda sentirse cómoda utilizando nuestra platafor
 5. ¿Con qué frecuencia realizas estos tipos de eventos de venta de ropa?
 6. ¿Qué medio utilizas para publicitar la venta de tus productos?
 7. ¿Cómo organizas la venta de tus productos, tienes algún tipo de control?
-8. ¿Qué opinas sobre la posibilidad de contar con una aplicación web la cual te permita mostrar tus productos?
-9. ¿Qué opinas sobre la posibilidad de contar con una aplicación web la cual te permita anunciar eventos físicos para tus clientes?
-10. ¿Qué opinas sobre la posibilidad de contar con una aplicación web la cual te permita gestionar la venta de tus productos?
+8.	¿Qué aparatos tecnológicos utiliza ya sea laptop o computador o celular?
+9.	¿Qué opinas sobre la posibilidad de contar con una aplicación web la cual te permita mostrar tus productos?
+10.	¿Qué opinas sobre la posibilidad de contar con una aplicación web la cual te permita anunciar eventos físicos para tus clientes?
+11.	¿Qué opinas sobre la posibilidad de contar con una aplicación web la cual te permita gestionar la venta de tus productos?
 
 ### 2.2.2. Registro de entrevistas
 
 **Segmento: Compradores**
-|  Nro  |     Comprador     |     Enlace     | 	Resumen     |
-|:-----:|:-----------------:|:--------:|:----------------------------:|
-|   1   | 	Maria Paredes			|  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EUj1tp60lFxAi0buyo22PwgBdRb_ESqbegl_5_ryORwv2Q?e=ohVv7N  | 		Maria es una jocen estudiante de 20 años, considera que las ventas de garage son una gran oportunidad para encontrar buenas prendas de vestir y que le gustaria tener una pagina web en la cual pueda visualizar todo tipo de vestimenta porque se le resultaria mas facil y organizado todo.		  |
-|   2   |  	Camila Valencia   |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/EbgC10Q2rlBJkKXiDIULMPkBRtlUIPaS_k_sw_fBl9v6Rg?e=3bq7TF  | 		Camila es una joven estudiante de 20 años, ha ido a ventas de garage y considera lo más importante saber el estado de la prenda, le parece bien la idea de contar con una aplicación la cual le indique que eventos disponibles existen  |
-|   3   |         	        |          |       	                      |
+
+| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
+|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
+| 1 | Maria Paredes | 20 años | Lima | [0:00](https://acortar.link/JpxLhr) | [2:45](https://acortar.link/ccY9LT) |
+
+[![entrevistas 1er comprador](https://i.ibb.co/MBW2ZNm/1era-entrevista-comprador.png)](https://acortar.link/ccY9LT)
+
+Resumen: 
+María tiene 20 años, ella vive en Lima y estudia. Ella nos comenta que suele comprar tops, pantalones, casacas y vestidos en las ventas de garaje, usualmente compra 2 o 3 veces al mes. También nos comenta que ella suele encontrar las ventas de garaje por redes sociales como TikTok Instagram o encuentra alguna cuando sale. Además, nos comenta que no suele buscar ropa por la marca, pero le gusta la marca H&M. Por otro lado, nos cuenta una experiencia donde le gusto la ropa que vio por TikTok y cuando fue al local se y las prendas estaban por los 200 soles y gasto más de la cuenta. También nos comenta que en las ventas de garaje no hay ropa nueva y se tiene que ver si la ropa no esté tan desgastada o usada, y prefiere comprar la ropa en persona ya que puede medirse al momento la ropa, pero también ha comprado en línea. Nos menciona que le gusta la idea de contar con una aplicación web para ver las prendas y los múltiples locales que pueda ver, por la facilidad que se tendría. Además, le gusta e interesa mucho la idea de que se una aplicación tenga un apartado para encontrar eventos físicos cerca de ella ya que se encuentran varias tiendas. Y por último ella nos comenta que las personas se den la oportunidad de buscar ventas de garaje ya que puedes encontrar muchas cosas interesantes y que les podría gustar mucho.
+
+---
+
+| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
+|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
+| 2 | Camila Valencia | 20 años | Lima | [2:45](https://acortar.link/Vl1PJL) | [7:10](https://acortar.link/qwIqaA) |
+
+[![entrevistas 1er vendedor](https://i.ibb.co/PYzVbkp/2da-entrevista-comprador.png)](https://acortar.link/Vl1PJL)
+
+Resumen: 
+Ana es una pequeña emprendedora que cuenta con una tienda de venta de garage por redes sociales, realiza una venta de garage en fisico una vez al mes y que le gustaria promocionar sus productos por alguna pagina web, de igual manera que las compras de estas.
+
+---
+
+| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
+|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
+| 3 | Gabriel Perkovic | 19 años | Santiago de Surco | [7:06](https://acortar.link/GFs9gD) | [11:50](https://acortar.link/gQQPLl) |
+
+[![entrevistas 1er vendedor](https://i.ibb.co/b1vMqgP/3ra-entrevista-comprador.png)](https://acortar.link/GFs9gD)
+
+Resumen: 
+Completar...
+
+---
 
 **Segmento: Vendedores**
-|  Nro  |     Vendedor      |     Enlace     | 	Resumen     |
-|:-----:|:-----------------:|:--------:|:----------------------------:|
-|   1   | 	Ana Ramirez			  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202014249_upc_edu_pe/EVtrp79iECBBoWsxOKwJS_QBg3V2-JaBKbI7gogoRKEVSw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=nc2GNk	   | 	Ana es una pequeña emprendedora que cuenta con una tienda de venta de garage por redes sociales, realiza una venta de garage en fisico una vez al mes y que le gustaria promocionar sus productos por alguna pagina web, de igual manera que las compras de estas.				  |
-|   2   |  	Rodrigo Farias    | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/EVpw4_usG4FJorQwA6Ie3zIBU8V5STYGfpGfgIIeGPtVww?e=n2cYqg 	   | 		Rodrigo es un joven de 22 años, lleva en el negocio de la venta de garage 5 meses y comenta que le ha ido bien desde la época post pandemia. Generalemente revende productos de las marcas Nike y Gap|
-|   3   |         	        |          |       	                      |			 
-                  
- 
+
+| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
+|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
+| 1 | Ana Ramírez | 31 años | Lima | [0:00](https://acortar.link/aw8qQW) | [4:47](https://acortar.link/QyEEIX) |
+
+[![entrevistas 1er vendedor](https://i.ibb.co/h9zSstk/1era-entrevista-vendedores.png)](https://acortar.link/aw8qQW)
+
+Resumen: 
+Ana es una pequeña emprendedora que cuenta con una tienda de venta de garage por redes sociales, realiza una venta de garage en fisico una vez al mes y que le gustaria promocionar sus productos por alguna pagina web, de igual manera que las compras de estas.
+
+---
+
+| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
+|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
+| 2 | Rodrigo Porles | 22 años | Comas | [4:47](https://acortar.link/QyEEIX) | [10:08](https://acortar.link/jlgH7D) |
+
+[![entrevistas 1er vendedor](https://i.ibb.co/gvBjmpg/2da-entrevista-vendedores.png)](https://acortar.link/QyEEIX)
+
+Resumen:
+Rodrigo es un joven de 22 años, lleva en el negocio de la venta de garage 5 meses y comenta que le ha ido bien desde la época post pandemia. Generalemente revende productos de las marcas Nike y Gap
+
+---
+
+| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
+|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
+| 3 | Ana Ramírez | 31 años | Lima | [0:00](https://acortar.link/aw8qQW) | [4:47](https://acortar.link/QyEEIX) |
+
+[![entrevistas a vendedores](https://i.ibb.co/9cRDfsL/vendedores.png)](https://acortar.link/V28EYl)
+
+Resumen:
+completar..
+
+---
+
 ### 2.2.3. Análisis de entrevistas
 
 
