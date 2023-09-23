@@ -131,8 +131,8 @@ La clase "Product" representa los productos que están disponibles para su compr
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-
-![Diagrama de base de datos](https://i.ibb.co/nMHQ08G/Re-Wear-2023-09-22-12-13.png")
+https://my.vertabelo.com/doc/gYMSgpuNNVFtbxBnf3QjzcGrwYIvKWU1
+![Diagrama de base de datos](https://i.ibb.co/nMHQ08G/Re-Wear-2023-09-22-12-13.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
