@@ -111,130 +111,28 @@ https://www.figma.com/file/QF02Bas5sOLb5RbBylDGir/Angular-Material-(Material-3-D
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
-![Diagrama de base de datos ReWear](https://i.ibb.co/9H9nwk9/BD-Rewear.png")
+![Diagrama de base de datos ReWear](https://i.ibb.co/2y3Svp1/Main.jpg")
 ### 4.7.2. Class Dictionary
-#### Entidad: Ubicación
-- **IDUbicacion** (Clave Primaria - INT)
-- Ciudad (VARCHAR(255) NOT NULL)
-- Estado (VARCHAR(255) NOT NULL)
-- País (VARCHAR(255) NOT NULL)
-- Código Postal (VARCHAR(10))
-- Calle (VARCHAR(255))
-- Número (INT)
 
-#### Entidad: Categoría
-- **IDCategoria** (Clave Primaria - INT)
-- Nombre de la Categoría (VARCHAR(255) NOT NULL)
+#### Buyer (Comprador):
+La clase "Buyer" representa a los usuarios que actúan como compradores en el sistema "ReWear". Estos son individuos que están interesados en comprar ropa de segunda mano. La clase almacena información relevante sobre los compradores, como su identificación única, nombre completo, dirección de correo electrónico y un historial de compras que incluye los productos adquiridos. Los compradores también pueden utilizar el método `getPurchases()` para obtener una lista de sus compras anteriores en el sistema.
 
-#### Entidad: Comprador
-- **IDComprador** (Clave Primaria - INT)
-- Nombre (VARCHAR(255) NOT NULL)
-- Correo Electrónico (VARCHAR(255) UNIQUE NOT NULL)
-- IDUbicación (INT) (Clave Foránea hacia Ubicación)
+#### Seller (Vendedor):
+La clase "Seller" representa a los usuarios que actúan como vendedores en la plataforma "ReWear". Estos son individuos o tiendas que desean vender ropa de segunda mano a los compradores. La clase almacena información importante sobre los vendedores, como su identificación única, nombre completo, dirección de correo electrónico, número de teléfono de contacto y un registro de ventas que incluye los productos vendidos. Los vendedores también pueden utilizar el método `getSales()` para obtener una lista de sus ventas registradas en el sistema.
 
-#### Entidad: Vendedor
-- **IDVendedor** (Clave Primaria - INT)
-- Nombre (VARCHAR(255) NOT NULL)
-- Correo Electrónico (VARCHAR(255) UNIQUE NOT NULL)
-- IDUbicación (INT) (Clave Foránea hacia Ubicación)
+#### Purchase (Compra):
+La clase "Purchase" representa las compras realizadas por los compradores en "ReWear". Cada instancia de esta clase registra detalles de una compra, como una identificación única, fecha de compra, costo total y una lista de productos adquiridos. Estos productos están representados por instancias de la clase "Product". La información de compra se utiliza para mantener un historial de transacciones y facilitar la gestión de pedidos y devoluciones.
 
-#### Entidad: Productos
-- **IDProducto** (Clave Primaria - INT)
-- Nombre (VARCHAR(255) NOT NULL)
-- IDCategoría (INT NOT NULL) (Clave Foránea hacia Categoría)
-- Precio (DECIMAL(10, 2) NOT NULL)
-- IDVendedor (INT) (Clave Foránea hacia Vendedor)
+#### Sale (Venta):
+  La clase "Sale" representa las ventas realizadas por los vendedores en la plataforma "ReWear". Cada instancia de esta clase almacena información relacionada con una venta, como una identificación única, fecha de venta, monto total y una lista de productos vendidos. Al igual que en la clase "Purchase", los productos vendidos están representados por instancias de la clase "Product". La información de ventas se utiliza para realizar un seguimiento de las transacciones realizadas por los vendedores.
 
-#### Entidad: CarritoDeCompra
-- **IDCarrito** (Clave Primaria - INT)
-- IDComprador (INT) (Clave Foránea hacia Comprador)
+#### Product (Producto):  
+La clase "Product" representa los productos que están disponibles para su compra en "ReWear". Cada producto tiene una identificación única, un nombre descriptivo y un precio asociado. Los productos pueden ser prendas de ropa de segunda mano de diversas categorías. Esta clase es utilizada tanto por los compradores al seleccionar productos como por los vendedores al listar productos para su venta. Los productos se asocian con compras y ventas a través de las clases "Purchase" y "Sale".
 
-#### Tabla Intermedia: ProductosEnCarrito
-- **ID** (Clave Primaria - INT)
-- IDCarrito (INT) (Clave Foránea hacia CarritoDeCompra)
-- IDProducto (INT) (Clave Foránea hacia Productos)
-- Cantidad (INT)
-
-#### Entidad: Evento
-- **IDEvento** (Clave Primaria - INT)
-- Nombre (VARCHAR(50) NOT NULL)
-- Descripción (VARCHAR(50) NOT NULL)
-- Fecha (DATE NOT NULL)
-- Temática (VARCHAR(50) NOT NULL)
-- IDVendedor (INT) (Clave Foránea hacia Vendedor)
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-```sql
-CREATE DATABASE Rewear;
-
-CREATE TABLE Ubicacion (
-    IDUbicacion INT PRIMARY KEY,
-    Ciudad VARCHAR(255) NOT NULL,
-    Estado VARCHAR(255) NOT NULL,
-    Pais VARCHAR(255) NOT NULL,
-    CodigoPostal VARCHAR(10),
-    Calle VARCHAR(255),
-    Numero INT
-);
-
-CREATE TABLE Categoria (
-    IDCategoria INT PRIMARY KEY,
-    NombreCategoria VARCHAR(255) NOT NULL
-);
-
-CREATE TABLE Comprador (
-    IDComprador INT PRIMARY KEY,
-    Nombre VARCHAR(255) NOT NULL,
-    CorreoElectronico VARCHAR(255) UNIQUE NOT NULL,
-    IDUbicacion INT,
-    FOREIGN KEY (IDUbicacion) REFERENCES Ubicacion(IDUbicacion)
-);
-
-CREATE TABLE Vendedor (
-    IDVendedor INT PRIMARY KEY,
-    Nombre VARCHAR(255) NOT NULL,
-    CorreoElectronico VARCHAR(255) UNIQUE NOT NULL,
-    IDUbicacion INT,
-    FOREIGN KEY (IDUbicacion) REFERENCES Ubicacion(IDUbicacion)
-);
-
-CREATE TABLE Productos (
-    IDProducto INT PRIMARY KEY,
-    Nombre VARCHAR(255) NOT NULL,
-    IDCategoria INT NOT NULL,
-    Precio DECIMAL(10, 2) NOT NULL,
-    IDVendedor INT,
-    FOREIGN KEY (IDCategoria) REFERENCES Categoria(IDCategoria),
-    FOREIGN KEY (IDVendedor) REFERENCES Vendedor(IDVendedor)
-);
-
-CREATE TABLE CarritoDeCompra (
-    IDCarrito INT PRIMARY KEY,
-    IDComprador INT,
-    FOREIGN KEY (IDComprador) REFERENCES Comprador(IDComprador)
-);
-
-CREATE TABLE ProductosEnCarrito (
-    ID INT PRIMARY KEY,
-    IDCarrito INT,
-    IDProducto INT,
-    Cantidad INT,
-    FOREIGN KEY (IDCarrito) REFERENCES CarritoDeCompra(IDCarrito),
-    FOREIGN KEY (IDProducto) REFERENCES Productos(IDProducto)
-);
-
-CREATE TABLE Evento (
-    IDEvento INT PRIMARY KEY, -- Puedes quitar AUTO_INCREMENT si no es necesario
-    Nombre VARCHAR(50) NOT NULL,
-    Descripcion VARCHAR(50) NOT NULL,
-    Fecha DATE NOT NULL,
-    Tematica VARCHAR(50) NOT NULL,
-    IDVendedor INT,
-    FOREIGN KEY (IDVendedor) REFERENCES Vendedor(IDVendedor)
-);
-
-```
+![Diagrama de base de datos](https://i.ibb.co/nMHQ08G/Re-Wear-2023-09-22-12-13.png")
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
