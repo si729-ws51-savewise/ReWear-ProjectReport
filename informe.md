@@ -79,23 +79,23 @@ en ambos lados y toda persona pueda sentirse cómoda utilizando nuestra platafor
 
 | Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
 |:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
-| 1 | Maria Paredes | 20 años | Lima | [0:00](https://acortar.link/JpxLhr) | [2:45](https://acortar.link/ccY9LT) |
+| 1 | Camila Valencia | 20 años | Lima | [0:00](https://acortar.link/SMlv5V) | [2:45](https://acortar.link/ccY9LT) |
 
-[![entrevistas 1er comprador](https://i.ibb.co/MBW2ZNm/1era-entrevista-comprador.png)](https://acortar.link/ccY9LT)
+[![entrevistas 1er comprador](https://i.ibb.co/MBW2ZNm/1era-entrevista-comprador.png)](https://acortar.link/SMlv5V)
 
 Resumen: 
-María tiene 20 años, ella vive en Lima y estudia. Ella nos comenta que suele comprar tops, pantalones, casacas y vestidos en las ventas de garaje, usualmente compra 2 o 3 veces al mes. También nos comenta que ella suele encontrar las ventas de garaje por redes sociales como TikTok Instagram o encuentra alguna cuando sale. Además, nos comenta que no suele buscar ropa por la marca, pero le gusta la marca H&M. Por otro lado, nos cuenta una experiencia donde le gusto la ropa que vio por TikTok y cuando fue al local se y las prendas estaban por los 200 soles y gasto más de la cuenta. También nos comenta que en las ventas de garaje no hay ropa nueva y se tiene que ver si la ropa no esté tan desgastada o usada, y prefiere comprar la ropa en persona ya que puede medirse al momento la ropa, pero también ha comprado en línea. Nos menciona que le gusta la idea de contar con una aplicación web para ver las prendas y los múltiples locales que pueda ver, por la facilidad que se tendría. Además, le gusta e interesa mucho la idea de que se una aplicación tenga un apartado para encontrar eventos físicos cerca de ella ya que se encuentran varias tiendas. Y por último ella nos comenta que las personas se den la oportunidad de buscar ventas de garaje ya que puedes encontrar muchas cosas interesantes y que les podría gustar mucho.
+Camila es una joven estudiante de 20 años, Camila nos menciona que los jeans y casacas son las prendas que suele comprar, con una frecuencia de dos a tres veces por mes, y que se suele enterar por amigos o por las redes sociales como en Instagram que le comentan sobre ventas de garaje o eventos de este tipo más. También nos comenta que las maracas de su preferencia son Nike, American Eagle y Tommy Hilfiger. Además, ella considera que lo más importante es ver estado de la prenda y poder considerar en las cotizaciones o si tiene la posibilidad de arreglar, ya sea si está roto o tiene algún tipo de arreglo lo compra y lo arregla, en las ventas de garaje. Por otro lado, prefiere comprar en persona, porque siente que puede evaluar la prenda, pero también ha comprado en línea, y ha coordinado con la vendedora para evaluar las prendas y decidir comprar o no. A Camila le parece bien la idea de contar con una aplicación la cual le indique las prendas y sus características y que eventos disponibles existen dentro de su área, se le facilitaría las cosas.
 
 ---
 
 | Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
 |:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
-| 2 | Camila Valencia | 20 años | Lima | [2:45](https://acortar.link/Vl1PJL) | [7:10](https://acortar.link/qwIqaA) |
+| 2 | Maria Paredes | 20 años | Lima | [2:45](https://acortar.link/Vl1PJL) | [7:10](https://acortar.link/qwIqaA) |
 
 [![entrevistas 1er vendedor](https://i.ibb.co/PYzVbkp/2da-entrevista-comprador.png)](https://acortar.link/Vl1PJL)
 
 Resumen: 
-Ana es una pequeña emprendedora que cuenta con una tienda de venta de garage por redes sociales, realiza una venta de garage en fisico una vez al mes y que le gustaria promocionar sus productos por alguna pagina web, de igual manera que las compras de estas.
+María tiene 20 años, ella vive en Lima y estudia. Ella nos comenta que suele comprar tops, pantalones, casacas y vestidos en las ventas de garaje, usualmente compra dos o tres veces al mes. También nos comenta que ella suele encontrar las ventas de garaje por redes sociales como TikTok Instagram o encuentra alguna cuando sale. Además, nos comenta que no suele buscar ropa por la marca, pero le gusta la marca H&M. Por otro lado, nos cuenta una experiencia donde le gusto la ropa que vio por TikTok y cuando fue al local se y las prendas estaban por los 200 soles y gasto más de la cuenta. También nos comenta que en las ventas de garaje no hay ropa nueva y se tiene que ver si la ropa no esté tan desgastada o usada, y prefiere comprar la ropa en persona ya que puede medirse al momento la ropa, pero también ha comprado en línea. Nos menciona que le gusta la idea de contar con una aplicación web para ver las prendas y los múltiples locales que pueda ver, por la facilidad que se tendría. Además, le gusta e interesa mucho la idea de que se una aplicación tenga un apartado para encontrar eventos físicos cerca de ella ya que se encuentran varias tiendas. Y por último ella nos comenta que las personas se den la oportunidad de buscar ventas de garaje ya que puedes encontrar muchas cosas interesantes y que les podría gustar mucho.
 
 ---
 
@@ -106,7 +106,7 @@ Ana es una pequeña emprendedora que cuenta con una tienda de venta de garage po
 [![entrevistas 1er vendedor](https://i.ibb.co/b1vMqgP/3ra-entrevista-comprador.png)](https://acortar.link/GFs9gD)
 
 Resumen: 
-Completar...
+Gabriel Perkovic es un joven de 19 años, vive en Lima-Santiago de Surco y es estudiante, Gabriel suele buscar prendas como polos, poleras, short y bermudas, y suele ir por las prendas que no suele encontrar en tiendas normales, al menos una vez por mes. Además, él se suele enterar por redes sociales ya sea por Instagram, WhatsApp o cuando camina por las calles se topa con alguna venta de garaje. Nos menciona una anécdota, que cuando compro se dio cuenta que le sale lo mismo comprar en una tienda normal. Por otro lado, el prefiere compara las prendas en persona, pero si está dispuesto a comparar en línea ya que es las fácil buscar las prendas que necesita y se ahorra tiempo. El utiliza el celular, laptop y computadora. Y también, opina que le parece bien tener una aplicación web donde pueda ver las prendas y sus características además de poder ver eventos cercanos en su área, todo esta le facilitaría muchas cosas y tendría una mejor organización de su tiempo.
 
 ---
 
@@ -119,7 +119,7 @@ Completar...
 [![entrevistas 1er vendedor](https://i.ibb.co/h9zSstk/1era-entrevista-vendedores.png)](https://acortar.link/aw8qQW)
 
 Resumen: 
-Ana es una pequeña emprendedora que cuenta con una tienda de venta de garage por redes sociales, realiza una venta de garage en fisico una vez al mes y que le gustaria promocionar sus productos por alguna pagina web, de igual manera que las compras de estas.
+Ana Ramírez es una empresaria que vende ropa de segunda mano por redes sociales y hace ventas de garaje una vez al mes, tiene 31 años vive en la ciudad de Lima. Nos comenta que los productos mas solicitados en si tienda son los polos y zapatos, y las marcas mar solicitadas son H&M, Adidas, Zara o dependiendo de lo que tenga en stock en ese momento. Los estilos de moda que son demandas en su negocio son los polos de diseños antiguos, el estilo vintage, la tendencia de llevar ropa antigua está regresando. También nos menciona que realiza estos tipos de eventos de venta de ropa por lo menos una vez al mes y los medios para publicitar la venta de sus productos son más que nada Facebook e Instagram. Además, opina que sería muy interesante tener una aplicación web donde pueda publicar sus productos y sus ventas de garaje ya que podría llegar a más gente sobre sus prendas y eventos. Por último, dice que sería de mucha ayuda poder tener una aplicación web donde pueda gestionar la venta de sus productos, ya que ella hacer contra entrega en la venta y esta aplicación web le ayudaría mucho.
 
 ---
 
@@ -130,18 +130,20 @@ Ana es una pequeña emprendedora que cuenta con una tienda de venta de garage po
 [![entrevistas 1er vendedor](https://i.ibb.co/gvBjmpg/2da-entrevista-vendedores.png)](https://acortar.link/QyEEIX)
 
 Resumen:
-Rodrigo es un joven de 22 años, lleva en el negocio de la venta de garage 5 meses y comenta que le ha ido bien desde la época post pandemia. Generalemente revende productos de las marcas Nike y Gap
+Rodrigo Porles tiene 22 años, vive en el distrito de Comas y actualmente se dedica a la venta de ropa es su tienda. Nos menciona que lo más solicitado son las prendas deportivas como shorts, polos y casacas de las marcas Nike o Adidas en polos deportivos, también hace estos eventos una vez por semana. Del mismo modo él publica sus productos y eventos mediante página de Instagram, estados de WhatsApp para sus amigos. Además, organiza sus prendas según su categoría y de esa forma ve cuando hay stock o no para posteriormente adquirir más. Por otro lado, le resulta muy interesante de tener una aplicación web el cual te permita publicar y gestionar la venta de sus productos, ya que el cliente no tiene que venir necesariamente venir a mi garaje.
 
 ---
 
 | Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
 |:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
-| 3 | Ana Ramírez | 31 años | Lima | [0:00](https://acortar.link/aw8qQW) | [4:47](https://acortar.link/QyEEIX) |
+| 3 | Liliana Días Choroco | 37 años | Lima | [10:08](https://acortar.link/VlZZoe) | [12:34](https://acortar.link/jX9PP2) |
 
-[![entrevistas a vendedores](https://i.ibb.co/9cRDfsL/vendedores.png)](https://acortar.link/V28EYl)
+[![entrevistas a vendedores](https://i.ibb.co/9cRDfsL/vendedores.png)](https://acortar.link/VlZZoe
+)
 
 Resumen:
-completar..
+
+Liliana Días Choroco tiene 37 años vive en Lima y vende todo lo relacionado a la ropa, Liliana vende todo tipo de ropa, tanto para niños y adultos, las marcas mas vendidas en su tienda son Adidas y Nike, y el estilo con mas demanda es el oversize. Ella nos comenta, que realiza sus promociones de sus productos por redes sociales y que hace eventos de forma mensual. Además, organiza sus ventas mediante un cuaderno de control, en el apunta lo que esta vendiendo y lo que va a necesitar, ella utiliza celular como su herramienta. Ella opina que le parece buena la idea de una aplicación web la cual le permite mostrar y gestionar las ventas de sus productos para tener visibilidad y de publicar sus promociones o eventos, ya que sería más factible para tener más acogida.
 
 ---
 
