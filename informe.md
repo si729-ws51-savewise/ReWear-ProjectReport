@@ -149,19 +149,77 @@ Liliana Días Choroco tiene 37 años vive en Lima y vende todo lo relacionado a 
 
 ### 2.2.3. Análisis de entrevistas
 
-
 **Segmento: Compradores**
 
--En lo que respecta al segmento Compradores, las entrevistadas apoyan la idea de una aplicacion que permita visualizar los productos de distintas tiendas en las cuales tambien se pueda realizar compras y
-sobretodo que sea de facil uso. Aunque tambien han sugerido un par de funcionalidades adicionales a la aplicacion. Ademas, a traves de estas entrevistas, se puede confirmar que la edad estimada para los 
-compradores es entre los 20-30 años. Por lo menos hay un porcentaje favoreciendo al sector femenino en cuanto a las personas que recurren a ventas de garage. Finalmente, mencionan que deberian darse la 
-oportunidad de ir en algun momento a una venta de garage porque te puedes llevar mas de una sorpresa. 
+- Al 100% de los entrevistados les gusta ver, probar la ropa antes de comprar.
+
+- Al 100% de los entrevistados usan las redes sociales para ver ventas de garaje disponibles.
+
+- El 100% de los entrevistdos consideran buena idea, por la comodidad y flexivilidad de la compra, tener una aplicacion  les gusta la idea de tener una aplicación donde le permita explorar las distintas prendas de multiples vendedores de venta de garaje.
+
+- El 100% de los entrevistados les gusta la idea de tener una mapa donde puedan encontrar las ventas de garaje cercanos a su ubicación.
+
+**Demográfico:**
+- Edades de los compradores tienen entre 19 y 20 años.
+- Su ubicación es en Lima.
+
+**Frecuencia de Compra:**
+- Compran ropa con una frecuencia de dos a tres veces al mes.
+
+**Medios de Información:**
+- Las principales fuentes de información sobre ventas de garaje son las redes sociales como TikTok e Instagram, ademas de amigos o familiares.
+
+**Marcas Preferidas:**
+- Las marcas preferidas son H&M, Nike, American Eagle y Tommy Hilfiger.
+
+**Preferencias de Compra:**
+- Prefieren comprar en ventas de garaje debido a la posibilidad de encontrar prendas únicas a precios asequibles.
+- La posibilidad de probarse la ropa en persona es una ventaja importante.
+
+**Experiencia de Compra:**
+- Uno de los compradores tuvo una experiencia negativa al ver un producto en TikTok y luego encontrar un precio mucho más alto en la tienda física.
+
+**Intereses en una Aplicación Web:**
+- Existe un interés común en una aplicación web que permita ver prendas y múltiples locales para facilitar la búsqueda.
+- Además, les gustaría encontrar eventos físicos cercanos.
+
+**Opiniones sobre las Ventas de Garaje:**
+- Los compradores valoran las ventas de garaje como una oportunidad para encontrar prendas interesantes y únicas.
+
+---
 
 **Segmento: Vendedores**
 
--En lo que respecta al segmento Vendedores, los entrevistados les gustaria posees en algun momento alguna pagina web en donde puedan publicar sus productos y la comunicacion con sus clientes sea mas 
-directa. Creen que estaria mejor organizado y tambien les ayudaria a hacerse mas conocido en el mercado, ya que aportaria un valor significativo y complementa las tareas de varios sectores en el rubro.
-Analizando las respuestas de los entrevistados, asignamos puntajes a los principales valores que ellos califican que deberia tener nuestro servicio.  
+- El 100% de los entrevistados usan las redes sociales para promocionar sus productos.
+
+- Al 100% de los entrevistados les gustaría tener más visibilidad en su negocio de venta de ropa de segunda mano.
+
+- Al 100% de los entrevistados le gusta la idea de tener una aplicación web que les ayude a publicar las ventas de sus productos y anunciar sus eventos físicos.
+
+- Al 100% de los entrevistados le gusta la idea de tener una aplicación web donde pueda gestionar las ventas de sus productos.
+
+**Demográficos:**
+- Residencia en distintos distritos de Lima.
+- Edades de los vendedores varían entre 22 y 37 años.
+
+**Tipo de Ropa Vendida:**
+- Los vendedores ofrecen una variedad de ropa, desde prendas deportivas hasta ropa de segunda mano para niños y adultos.
+
+**Marcas y Estilos Populares:**
+- Marcas populares incluyen Nike, Adidas, H&M, y otras marcas conocidas.
+- El estilo "oversize" es especialmente demandado.
+
+**Recuencia de Ventas de Garaje:**
+- La mayoría de los vendedores realizan ventas de garaje de forma regular, ya sea semanal (1 vez) o mensualmente(2 a 3 veces).
+
+**Medios de Promoción:**
+- Las redes sociales, especialmente Instagram y Facebook, son los principales medios utilizados para promocionar los productos y eventos.
+
+**Organización de Inventario:**
+- Los vendedores tienden a organizar sus prendas por categoría o apuntes en cuadernos para llevar un control del stock disponible.
+
+**Interés en una Aplicación Web:**
+- Todos los vendedores muestran interés en una aplicación web que les permita publicar y gestionar sus productos y eventos, lo que les permitiría llegar a más clientes y facilitaría la gestión de ventas.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
