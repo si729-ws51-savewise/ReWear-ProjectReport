@@ -222,6 +222,64 @@ Liliana Días Choroco tiene 37 años vive en Lima y vende todo lo relacionado a 
 - Todos los vendedores muestran interés en una aplicación web que les permita publicar y gestionar sus productos y eventos, lo que les permitiría llegar a más clientes y facilitaría la gestión de ventas.
 
 ## 2.3. Needfinding
+
+**Arquetipos de Compradores:**
+
+**Maria Paredes**
+- Edad: 20 años
+- Ubicación: Lima
+- Frecuencia de Compra: 2-3 veces al mes
+- Medios de Información: Redes sociales (TikTok, Instagram)
+- Preferencias: Compra en ventas de garaje, valora la accesibilidad y busca ofertas.
+- Experiencia: Una vez tuvo una experiencia negativa al encontrar precios altos en una tienda física después de ver un producto en TikTok.
+
+**Camila Valencia**
+
+- Edad: 20 años
+- Ubicación: Lima
+- Frecuencia de Compra: 2-3 veces al mes
+- Medios de Información: Redes sociales, amigos
+- Preferencias: Jeans y casacas, prefiere marcas específicas (Nike, American Eagle, Tommy Hilfiger), valora el estado de las prendas.
+- Estrategia de Compra: Evalúa la posibilidad de arreglar prendas que necesitan reparación.
+
+**Gabriel Perkovic**
+- Edad: 19 años
+- Ubicación: Lima-Santiago de Surco
+- Frecuencia de Compra: Al menos una vez al mes
+- Medios de Información: Redes sociales (Instagram, WhatsApp), descubrimiento casual
+- Preferencias: Busca prendas únicas, no comunes en tiendas normales, valora la conveniencia de la compra en línea.
+- Dispositivos electrónicos: Celular, Computadora, Laptop
+
+**Arquetipos de Vendedores:**
+
+**Rodrigo Porles**
+
+- Edad: 22 años
+- Ubicación: Comas, Lima
+- Tipo de Ropa: Prendas deportivas (shorts, polos, casacas)
+- Marcas Populares: Nike, Adidas
+- Estrategias de Promoción: Redes sociales (Instagram, WhatsApp)
+- Organización de Inventario: Categorización por tipo de prenda.
+
+**Ana Ramírez**
+
+- Edad: 31 años
+- Ub icación: Lima
+- Tipo de Ropa: Ropa de segunda mano (polos, zapatos)
+- Marcas Populares: H&M, Adidas, Zara
+- Estilos Populares: Diseños antiguos, estilo vintage
+- Estrategias de Promoción: Facebook e Instagram
+
+**Liliana Días Choroco**
+
+- Edad: 37 años
+- Ubicación: Lima
+- Tipo de Ropa: Ropa para niños y adultos, variedad de marcas
+- Marcas Populares: Adidas, Nike
+- Estilos Populares: Oversize
+- Estrategias de Promoción: Redes sociales
+- Dispositivos electrónicos: Celular
+
 ### 2.3.1. User Personas
 
 * **Segmento: Vendedores**
