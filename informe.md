@@ -38,10 +38,20 @@ Escenario To Be del segmento vendedores
 ![to-be-vendedores](https://i.ibb.co/q10QBVJ/to-be-vendedores.png")
 
 ## 3.2. User Stories
-**Segmento: Compradores**
 | ID de Historia de Usuario | Título | Descripción | Criterios de Aceptación con Escenarios | ID de Épica |
 |--------------------------|--------|-------------|----------------------------------------|-------------|
-| US01 | Registro de Cuenta | Como comprador, quiero registrarme en la aplicación web para poder realizar compras. | - El usuario debe poder acceder a la página de registro. - Debe proporcionar su nombre, correo electrónico y contraseña. - Al enviar el formulario, se crea una cuenta y se redirige al usuario al inicio de sesión. | EP01: Autenticación y Registro de Usuarios |
+| HU01 | Registro de usuarios compradores en la plataforma | CComo usuario comprador que realiza compras de prendas de segunda mano no registrado deseo crearme una cuenta para poder acceder a las características de la app. | E01: Registro exitoso CA01: Dado que me encuentro en el formulario de registro de cuenta 
+Cuando ingrese un correo electrónico no registrado, una contraseña válida (mayor o igual a 8 caracteres que incluyan al menos una letra y un número) junto a la confirmación de contraseña. Y presione el botón “Registrarse” Entonces la aplicación me mostrará un mensaje indicando que estoy registrado, pero que tengo que confirmar mi cuenta abriendo el enlace de confirmación enviado a mi correo electrónico.
+E02: Registro inválido CA02: Dado que me encuentro en el formulario de registro de cuenta 
+Cuando complete mis datos, pero alguno o muchos de ellos sean incorrectos.
+Y presione el botón “Registrarse” 
+Entonces la aplicación me mostrará un mensaje relacionado con la solución para el error o errores cometidos. 
+E03: Verificación de la cuenta CA03: 
+Dado que el usuario recibe el código de verificación en su correo electrónico. 
+Cuando ingresa el código en el apartado de verificación.
+Y pulsa en el botón “OK”. 
+Entonces la aplicación móvil lo redirige al apartado de inicio.
+ | EP01: Autenticación y Registro de Usuarios |
 | US02 | Inicio de Sesión | Como comprador registrado, quiero iniciar sesión en la aplicación para acceder a mi cuenta. | - El usuario debe poder acceder a la página de inicio de sesión. - Debe ingresar su correo electrónico y contraseña. - Al enviar el formulario, se verifica la autenticidad de las credenciales y se redirige al usuario al panel de comprador. | EP01: Autenticación y Registro de Usuarios |
 | US03 | Recuperación de Contraseña | Como comprador registrado, quiero poder restablecer mi contraseña si la olvido. | - El usuario debe poder acceder a la opción de "Olvidé mi contraseña". - Debe proporcionar su correo electrónico registrado. - Se le enviará un enlace de restablecimiento de contraseña por correo electrónico. | EP01: Autenticación y Registro de Usuarios |
 | US04 | Selección de Producto | Como comprador, quiero poder seleccionar productos y personalizarlos (talla y color). | - Debe haber una lista de productos disponibles. - El usuario debe poder seleccionar un producto y personalizarlo eligiendo talla y color. - La selección debe reflejarse en la descripción del producto. | EP02: Compra de Productos |
@@ -54,10 +64,6 @@ Escenario To Be del segmento vendedores
 | US11 | Confirmación de Compra | Como comprador, quiero recibir una confirmación de mi compra una vez que haya completado el proceso de pago. | - Después de completar la transacción, el usuario debe recibir una pantalla de confirmación que incluya los detalles de la compra (número de pedido, fecha, productos, precio total, etc.). - Se debe enviar un correo electrónico de confirmación al usuario con la misma información. | EP04: Proceso de Compra |
 | US12 | Búsqueda de Ferias | Como comprador, quiero poder buscar y ver una lista de ferias en garajes físicos de ropa disponible cerca de mi ubicación. | - Debe haber una función de búsqueda de ferias por ubicación o por nombre. - Los resultados de la búsqueda deben mostrar una lista de ferias cercanas con detalles como nombre, fecha y lugar. - El usuario debe poder hacer clic en una feria para ver más información. | EP05: Visualización de Ferias |
 | US13 | Detalles de Feria | Como comprador, quiero poder ver detalles específicos de una feria, como la lista de vendedores y los productos disponibles en cada stand. | - Al hacer clic en una feria de la lista, el usuario debe ver una página de detalles con información sobre la feria, incluyendo una lista de vendedores y productos. - Debe haber una opción para filtrar productos por género y precio dentro de la feria. | EP05: Visualización de Ferias |
-
-**Segmento: Vendedores**
-| ID de Historia de Usuario | Título | Descripción | Criterios de Aceptación con Escenarios | ID de Épica |
-|--------------------------|--------|-------------|----------------------------------------|-------------|
 | US01 | Publicación de Productos | Como vendedor, quiero poder publicar productos en la plataforma, incluyendo información detallada como talla, color y marca. | - En el panel de vendedor, debe haber una opción para "Publicar Producto". - El vendedor debe completar un formulario con detalles del producto, incluyendo talla, color y marca. - Una vez completada la publicación, el producto debe aparecer en la lista de productos disponibles. | EP01: Gestión de Productos |
 | US02 | Edición de Producto | Como vendedor, quiero poder editar la información de productos que he publicado previamente. | - En el panel de vendedor, debe haber una opción para "Editar Producto". - El vendedor debe seleccionar un producto existente y actualizar los detalles, como talla, color y marca. - Los cambios realizados deben reflejarse en la información del producto en la plataforma. | EP01: Gestión de Productos |
 | US03 | Eliminación de Producto | Como vendedor, quiero poder eliminar productos que ya no estén disponibles en mi inventario. | - En el panel de vendedor, debe haber una opción para "Eliminar Producto". - El vendedor debe seleccionar un producto existente y confirmar la eliminación. - El producto debe desaparecer de la lista de productos disponibles. | EP01: Gestión de Productos |
