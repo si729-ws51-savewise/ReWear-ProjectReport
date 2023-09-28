@@ -77,9 +77,9 @@ en ambos lados y toda persona pueda sentirse cómoda utilizando nuestra platafor
 
 **Segmento: Compradores**
 
-| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
-|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
-| 1 | Camila Valencia | 20 años | Lima | [0:00](https://acortar.link/SMlv5V) | [2:45](https://acortar.link/ccY9LT) |
+| Entrevista | Nombre y Apellido |  Edad   | Distrito |           Timing inicial            |            Timing final             |
+|:----------:|:-----------------:|:-------:|:--------:|:-----------------------------------:|:-----------------------------------:|
+|     1      |  Camila Valencia  | 20 años |   Lima   | [0:00](https://acortar.link/SMlv5V) | [2:45](https://acortar.link/ccY9LT) |
 
 [![entrevistas 1er comprador](https://i.ibb.co/MBW2ZNm/1era-entrevista-comprador.png)](https://acortar.link/SMlv5V)
 
@@ -88,9 +88,9 @@ Camila es una joven estudiante de 20 años, Camila nos menciona que los jeans y 
 
 ---
 
-| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
-|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
-| 2 | Maria Paredes | 20 años | Lima | [2:45](https://acortar.link/Vl1PJL) | [7:10](https://acortar.link/qwIqaA) |
+| Entrevista | Nombre y Apellido |  Edad   | Distrito |           Timing inicial            |            Timing final             |
+|:----------:|:-----------------:|:-------:|:--------:|:-----------------------------------:|:-----------------------------------:|
+|     2      |   Maria Paredes   | 20 años |   Lima   | [2:45](https://acortar.link/Vl1PJL) | [7:10](https://acortar.link/qwIqaA) |
 
 [![entrevistas 1er vendedor](https://i.ibb.co/PYzVbkp/2da-entrevista-comprador.png)](https://acortar.link/Vl1PJL)
 
@@ -99,9 +99,9 @@ María tiene 20 años, ella vive en Lima y estudia. Ella nos comenta que suele c
 
 ---
 
-| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
-|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
-| 3 | Gabriel Perkovic | 19 años | Santiago de Surco | [7:06](https://acortar.link/GFs9gD) | [11:50](https://acortar.link/gQQPLl) |
+| Entrevista | Nombre y Apellido |  Edad   |     Distrito      |           Timing inicial            |             Timing final             |
+|:----------:|:-----------------:|:-------:|:-----------------:|:-----------------------------------:|:------------------------------------:|
+|     3      | Gabriel Perkovic  | 19 años | Santiago de Surco | [7:06](https://acortar.link/GFs9gD) | [11:50](https://acortar.link/gQQPLl) |
 
 [![entrevistas 1er vendedor](https://i.ibb.co/b1vMqgP/3ra-entrevista-comprador.png)](https://acortar.link/GFs9gD)
 
@@ -112,9 +112,9 @@ Gabriel Perkovic es un joven de 19 años, vive en Lima-Santiago de Surco y es es
 
 **Segmento: Vendedores**
 
-| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
-|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
-| 1 | Ana Ramírez | 31 años | Lima | [0:00](https://acortar.link/aw8qQW) | [4:47](https://acortar.link/QyEEIX) |
+| Entrevista | Nombre y Apellido |  Edad   | Distrito |           Timing inicial            |            Timing final             |
+|:----------:|:-----------------:|:-------:|:--------:|:-----------------------------------:|:-----------------------------------:|
+|     1      |    Ana Ramírez    | 31 años |   Lima   | [0:00](https://acortar.link/aw8qQW) | [4:47](https://acortar.link/QyEEIX) |
 
 [![entrevistas 1er vendedor](https://i.ibb.co/h9zSstk/1era-entrevista-vendedores.png)](https://acortar.link/aw8qQW)
 
@@ -123,9 +123,9 @@ Ana Ramírez es una empresaria que vende ropa de segunda mano por redes sociales
 
 ---
 
-| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
-|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
-| 2 | Rodrigo Porles | 22 años | Comas | [4:47](https://acortar.link/QyEEIX) | [10:08](https://acortar.link/jlgH7D) |
+| Entrevista | Nombre y Apellido |  Edad   | Distrito |           Timing inicial            |             Timing final             |
+|:----------:|:-----------------:|:-------:|:--------:|:-----------------------------------:|:------------------------------------:|
+|     2      |  Rodrigo Porles   | 22 años |  Comas   | [4:47](https://acortar.link/QyEEIX) | [10:08](https://acortar.link/jlgH7D) |
 
 [![entrevistas 1er vendedor](https://i.ibb.co/gvBjmpg/2da-entrevista-vendedores.png)](https://acortar.link/QyEEIX)
 
@@ -134,11 +134,11 @@ Rodrigo Porles tiene 22 años, vive en el distrito de Comas y actualmente se ded
 
 ---
 
-| Entrevista | Nombre y Apellido | Edad | Distrito | Timing inicial | Timing final |
-|:-:|:------------------:|:----:|:--------:|:--------------:|:-------------:|
-| 3 | Liliana Días Choroco | 37 años | Lima | [10:08](https://acortar.link/VlZZoe) | [12:34](https://acortar.link/jX9PP2) |
+| Entrevista |  Nombre y Apellido   |  Edad   | Distrito |            Timing inicial            |             Timing final             |
+|:----------:|:--------------------:|:-------:|:--------:|:------------------------------------:|:------------------------------------:|
+|     3      | Liliana Días Choroco | 37 años |   Lima   | [10:08](https://acortar.link/VlZZoe) | [12:34](https://acortar.link/jX9PP2) |
 
-[![entrevistas a vendedores](https://i.ibb.co/9cRDfsL/vendedores.png)](https://acortar.link/VlZZoe
+[!entrevistas a vendedores](https://i.ibb.co/9cRDfsL/vendedores.png)](https://acortar.link/VlZZoe
 )
 
 Resumen:
@@ -282,6 +282,8 @@ Liliana Días Choroco tiene 37 años vive en Lima y vende todo lo relacionado a 
 
 ### 2.3.1. User Personas
 
+A continuación presentamos una representación ficticia de los usuarios ideales de estos segmentos, creada a partir de los datos derivados de las entrevistas y la observación de su comportamiento.
+
 * **Segmento: Vendedores**
 <div align="center">
   <img src="https://i.ibb.co/f4Mn0cr/User-persona.png" alt="User_persona_Vendedores" width="500"/>
@@ -294,6 +296,8 @@ Liliana Días Choroco tiene 37 años vive en Lima y vende todo lo relacionado a 
 
 ### 2.3.2. User Task Matrix
 
+Esta herramienta nos ayuda a comprender la importancia de las diversas tareas que un usuario puede llevar a cabo dentro de la aplicación web. Esto permite priorizar y enfocarse en las actividades que tienen un mayor impacto en la experiencia del usuario.
+
 * **Segmento Comprador**
   
 <div align="center">
@@ -305,23 +309,31 @@ Esta matriz se centra en las acciones que los usuarios Compradores pueden llevar
 * **Segmento Vendedor**
 
 <div align="center">
-  <img src="https://i.ibb.co/0Zz24NV/user-task-matrix-vendedores.jpg"  width="500" />
+  <img src="https://i.ibb.co/0Zz24NV/user-task-matrix-vendedores.jpg"  width="500"  alt=""/>
 </div>
 
 Esta matriz se enfoca en las acciones específicas que los usuarios Vendedores deben llevar a cabo en la aplicación ReWear. Los vendedores son aquellos usuarios que desean vender sus propios artículos de moda de segunda mano en la plataforma. Las tareas incluyen iniciar sesión, crear una cuenta, suscribirse a la aplicación (para vendedores), crear eventos, agregar/quitar productos, editar ofertas por campañas, desarrollar sistemas de entrega/intercambio e implementar sistemas de pagos. Al igual que en la matriz de Compradores, se especifica la frecuencia y la importancia de cada tarea, destacando las actividades esenciales para que los vendedores gestionen y promocionen sus productos en la aplicación.
 
 ### 2.3.3. User Journey Mapping
 
+Esta herramienta nos facilita la identificación de las motivaciones, inquietudes y momentos clave que atraviesa un cliente desde que ingresa a la aplicación web hasta su salida.
+
 <div align="center">
   <img src="https://i.ibb.co/RND9ySM/journey-map-rewear.png"  width="500" />
 </div>
 
 ### 2.3.4. Empathy Mapping
+
+El empathy mapping es un instrumento visual que ayuda a comprender quién es el usuario, su comportamiento y el contexto en el que interactúa.
+
 <div align="center">
   <img src="https://i.ibb.co/3Y4rYnX/Compradora-1.png"  width="500" />
 </div>
 
 ### 2.3.5. As-is Scenario Mapping
+
+El mapa As-is proporciona una representación visual de cómo opera actualmente el proceso, identificando las decisiones, sentimientos y pensamientos que toman los usuarios.
+
 * **Segmento Comprador**
 <div align="center">
   <img src="https://i.ibb.co/nzfvHBG/as-is-compradores.jpg" width="500" />
