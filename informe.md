@@ -87,8 +87,47 @@ Web Application:
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
-En el siguiente enlace hacia Figma, se encuentran los Wireframes de la landing page de ReWear, se optó la subida de estos archivos en la nube, ya que reducirán el espacio usado
-https://www.figma.com/file/XxGTOhyTgyTxhOCTGGLy4b/ReWear?type=design&node-id=0%3A1&mode=design&t=l5T5stfrDtwGW9VY-1
+A continuacion, se presentara los WireFrame de la Landing Page:
+<div align="center">
+Página Home
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/VB3zLrx/w1.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Página Compradores 
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/jMfL7dX/Compradores-Re-Wear.png" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Página Vendedores
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/SXFyMph/Vendedores-Re-Wear.png" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Página Comentarios
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/2KBqGZj/Comentarios-Re-Wear.png" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Página Contacto
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/8ry4qmR/Contacto-Re-Wear.png" alt="Concept-map-3" width="500">
+</div>
+
 
 ### 4.3.2. Landing Page Mock-up
 En el siguiente enlace hacia Figma, se encuentran los Mock-ups de la landing page de ReWear, se optó la subida de estos archivos en la nube, ya que reducirán el espacio usado
