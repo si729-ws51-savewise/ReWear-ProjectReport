@@ -416,24 +416,85 @@ El objetivo principal del Sprint 1 es lograr la implementación de la landing pa
   </tr>
   <!---------------------------------------------------------------------- -->
   <tr>
-    <td rowspan="2" align="center"> US00 </td>
-    <td rowspan="2" align="center">  </td>
-    <td align="center">  </td>
-    <td align="center"> </td>
-    <td align="justify"> </td>
-    <td align="center">  </td>
-    <td align="center">   </td>
-    <td align="center"></td>
+    <td rowspan="3" align="center"> US10 </td>
+    <td rowspan="3" align="center"> Desplazarse fácilmente entre las secciones de la página web </td>
+    <td align="center">TA01</td>
+    <td align="center"> Agregar un navbar</td>
+    <td align="justify">Se debe agregar un navbar en el home que enlace las distintas secciones de la landing page </td>
+    <td align="center">  1</td>
+    <td align="center">  Juan Calisaya </td>
+    <td align="center">Done</td>
   </tr>
 
+   <tr>
+    <td align="center">TA02 </td>
+    <td align="center">Agregar un 'Toggle Button' </td>
+    <td align="center"> Se debe crear un Toggle Button el cual permita desplegar las opciones del navbar</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+    </tr>
+    <tr>
+    <td align="center"> TA03</td>
+    <td align="center">Responsive design</td>
+    <td align="center"> Se debe implementar código para que la sección home cumpla con el requisito de responsive design</td>
+    <td align="center"> 3</td>
+    <td align="center">  Fabrizio Torres</td>
+    <td align="center">Done</td>
+    </tr>
+   
   <tr>
-    <td align="center"> </td>
-    <td align="center"> </td>
-    <td align="center"> </td>
-    <td align="center"> </td>
-    <td align="center">  </td>
-    <td align="center"></td>
-  </tr>
+    <td rowspan="6" align="center"> US11 </td>
+    <td rowspan="6" align="center"> Sección de la página web para los segmentos de usuario </td>
+    <td align="center">TA04  </td>
+    <td align="center"> Crear Soppers Section</td>
+    <td align="justify"> Se debe crear una sección en la landing page para el segmento de 'Compradores', mostrando los beneficios que ofrece la startup</td>
+    <td align="center"> 2 </td>
+    <td align="center">  Juan Calisaya </td>
+    <td align="center">Done</td>
+    </tr>
+
+   <tr>
+     <td align="center">TA05  </td>
+    <td align="center"> Crear Retailers Section</td>
+    <td align="justify"> Se debe crear una sección en la landing page para el segmento de 'Vendedores', mostrando los beneficios que ofrece la startup</td>
+    <td align="center"> 2 </td>
+    <td align="center">  Luis Sagastegui </td>
+    <td align="center">Done</td>
+    </tr>
+    <tr>
+    <td align="center">TA06  </td>
+    <td align="center"> Crear sección de comentarios</td>
+    <td align="justify"> Se debe crear una sección en la landing page para mostrar los comentarios de los clientes que usaron la aplicación web</td>
+    <td align="center"> 2 </td>
+    <td align="center">  Luis Sagastegui </td>
+    <td align="center">Done</td>
+    </tr>
+    <tr>
+    <td align="center"> TA07</td>
+    <td align="center"> Crear sección de contacto </td>
+    <td align="center">Se debe crear una sección en la landing page para mostrar los datos de la startup y un formulario de contacto</td>
+    <td align="center"> 1</td>
+    <td align="center">Daniel Valverde  </td>
+    <td align="center">Done</td>
+    </tr>
+    <tr>
+    <td align="center"> TA08 </td>
+    <td align="center"> Crear sección footer</td>
+    <td align="justify"> Se debe crear una sección al final de la landing page para mostrar enlaces a las redes sociales y políticas de la startup</td>
+    <td align="center"> 1 </td>
+    <td align="center">Daniel Valverde </td>
+    <td align="center">Done</td>
+    </tr>
+    <tr>
+    <td align="center"> TA09</td>
+    <td align="center">Responsive design</td>
+    <td align="center"> Se debe implementar código para que la landing page cumpla con el requisito de responsive design</td>
+    <td align="center"> 4 </td>
+    <td align="center">  Fabrizio Torres</td>
+    <td align="center">Done</td>
+    </tr>
+    
 
 
 </table>
