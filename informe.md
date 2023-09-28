@@ -190,6 +190,44 @@ Eventos Publicados
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+##User Persona Usuario
+User goal: Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo seleccionar productos y personalizarlos en cuanto a la talla. 
+<div align="center">
+  <img src="https://i.ibb.co/2dMK2vj/wd1.jpg" alt="Concept-map-3" width="500">
+</div>
+
+  
+User goal: Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder filtrar productos por tipos de prendas y precio.  
+<div align="center">
+  <img src="https://i.ibb.co/fHWgSRH/wd2.jpg" alt="Concept-map-3" width="500">
+</div>
+
+User goal:Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder agregar productos a mi canasta de compra para comprarlos en cualquier momento. 
+
+<div align="center">
+  <img src="https://i.ibb.co/Kcgy8KS/wd3.jpg" alt="Concept-map-3" width="500">
+</div>
+
+
+##User Persona Vendedor
+User goal:Como vendedor de prendas de segunda mano registrado en la aplicación, deseo publicar productos en la plataforma, incluyendo detalles. 
+
+<div align="center">
+  <img src="https://i.ibb.co/W26LFmJ/wd4.jpg" alt="Concept-map-3" width="500">
+</div>
+
+User goal:Como vendedor de prendas de segunda mano registrado en la aplicación, deseo editar la información de productos que he publicado previamente.
+
+<div align="center">
+  <img src="https://i.ibb.co/tDjjbbz/wd5.jpg" alt="Concept-map-3" width="500">
+</div>
+
+User goal:Como vendedor de prendas de segunda mano registrado en la aplicación, deseo eliminar un producto previamente publicado
+
+<div align="center">
+  <img src="https://i.ibb.co/M1ZVrGY/wd6.jpg" alt="Concept-map-3" width="500">
+</div>
+
 ### 4.4.3. Web Applications Mock-ups
 <div align="center">
 Página Principal(Sección compradores)
