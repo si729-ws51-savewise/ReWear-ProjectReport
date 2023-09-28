@@ -96,6 +96,99 @@ https://www.figma.com/file/XxGTOhyTgyTxhOCTGGLy4b/ReWear?type=design&node-id=0%3
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+A continuacion se presentaran los Wireframes de la aplicación:
+<div align="center">
+Página Principal(Sección compradores)
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/VB3zLrx/w1.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Catálogo
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/zGTvnLc/w2.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Visualizar prenda seleccionada
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/1dRtzZB/w3.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Carrito de Compras
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/Ks38MtQ/w4.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Proceso de Pago
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/jMJMrNB/w5.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Sección Vendedores
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/2cQJfyc/w6-vend.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Agregar Productos
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/82xQkcC/w7-vend.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Productos Publicados
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/t3fdsKT/w8-vend.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Visualizar Pedidos
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/xjKpqSR/w9-vend.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Agregar Evento
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/Ntbf6Dk/w10-vend.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Eventos Publicados
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/2WMWfVV/w11-vend.jpg" alt="Concept-map-3" width="500">
+</div>
+
+
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
 En el siguiente enlace hacia Figma, se encuentran los Mock-ups de la Web Applications de ReWear, se optó la subida de estos archivos en la nube, ya que reducirán el espacio usado
