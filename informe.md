@@ -101,98 +101,214 @@ A continuacion se presentaran los Wireframes de la aplicación:
 <div align="center">
 Página Principal(Sección compradores)
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/VB3zLrx/w1.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 <div align="center">
 Catálogo
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/zGTvnLc/w2.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 <div align="center">
 Visualizar prenda seleccionada
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/1dRtzZB/w3.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 <div align="center">
 Carrito de Compras
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/Ks38MtQ/w4.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 <div align="center">
 Proceso de Pago
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/jMJMrNB/w5.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 <div align="center">
 Sección Vendedores
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/2cQJfyc/w6-vend.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 <div align="center">
 Agregar Productos
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/82xQkcC/w7-vend.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 <div align="center">
 Productos Publicados
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/t3fdsKT/w8-vend.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 <div align="center">
 Visualizar Pedidos
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/xjKpqSR/w9-vend.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 <div align="center">
 Agregar Evento
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/Ntbf6Dk/w10-vend.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 <div align="center">
 Eventos Publicados
 </div>
-<div></div>
+
 <div align="center">
   <img src="https://i.ibb.co/2WMWfVV/w11-vend.jpg" alt="Concept-map-3" width="500">
 </div>
-<div></div>
+
 
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
-En el siguiente enlace hacia Figma, se encuentran los Mock-ups de la Web Applications de ReWear, se optó la subida de estos archivos en la nube, ya que reducirán el espacio usado
-https://www.figma.com/file/QF02Bas5sOLb5RbBylDGir/Angular-Material-(Material-3-Design-Component-Figma-Library-For-Angular)-(Community)?type=design&node-id=6%3A2&mode=design&t=NtnHNS4TjDEE8HOT-1
+<div align="center">
+Página Principal(Sección compradores)
+</div>
+
+El primer mockup presenta una plantilla inicial que exhibe algunas prendas de ropa. Justo debajo de estas imágenes, se destacan algunos subtitulares principales: "ECO-FRIENDLY", que resalta la sostenibilidad de tus productos; "FORMAS DE PAGO", que informa a los usuarios sobre las opciones de pago disponibles; y "Ropa de calidad", enfocándose en la alta calidad de tus productos. 
+
+En la parte inferior de la página, se encuentra un subtitular llamado "REVISA NUESTROS ÚLTIMOS PRODUCTOS", que atrae la atención de los visitantes hacia las imágenes y los precios de los productos más recientes que ofreces, permitiéndoles explorar las novedades en tu tienda en línea. Esta disposición y diseño en tu mockup ofrecen una experiencia de usuario atractiva y fácil de navegar para aquellos interesados en tus productos de compra y venta de ropa.
+
+<div align="center">
+  <img src="https://i.ibb.co/jTHSZnf/we1.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Catálogo
+</div>
+
+En el segundo mockup, se presenta un catálogo de productos más detallado y organizado. Aquí, los usuarios pueden explorar tu amplia gama de productos con facilidad. El diseño incluye útiles filtros que permiten a los visitantes afinar su búsqueda. Estos filtros incluyen opciones para seleccionar productos específicos y filtrar por marca, lo que facilita encontrar lo que están buscando de manera eficiente.
+
+Además, se destaca la opción "Ordenar por popularidad", lo que proporciona a los clientes una forma conveniente de ver los productos más populares o mejor valorados en tu tienda. Este enfoque en la experiencia del usuario garantiza que los visitantes puedan encontrar y comprar los productos que más les interesen de manera rápida y sencilla en tu plataforma de compra y venta de productos.
+
+<div align="center">
+  <img src="https://i.ibb.co/nC2NXc8/we2.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Visualizar prenda seleccionada
+</div>
+
+En el tercer mockup, la experiencia del usuario se enfoca en la visualización detallada de un producto específico después de hacer clic en él. Aquí, los usuarios pueden obtener información más completa sobre el producto que están interesados en comprar. La página muestra una descripción detallada del producto, que puede incluir características, tallas disponibles, colores y cualquier otra información relevante.
+
+Justo debajo de la descripción del producto, se encuentra un botón destacado que dice "Agregar al carrito". Este botón permite a los usuarios tomar una acción rápida y agregar el producto a su carrito de compras sin problemas, lo que facilita el proceso de compra. Este diseño proporciona a los visitantes una experiencia de usuario intuitiva y eficiente para seleccionar y comprar productos en tu tienda en línea de compra y venta de productos.
+
+<div align="center">
+  <img src="https://i.ibb.co/d74dwPC/we3.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Carrito de Compras
+</div>
+
+En el cuarto mockup de la aplicación, los usuarios pueden agregar productos a su carrito de compras, y justo abajo encontrarán el botón para proceder al pago. Esto permite a los usuarios agregar productos fácilmente y luego avanzar rápidamente para completar su compra.
+
+<div align="center">
+  <img src="https://i.ibb.co/xJDXSkB/we4.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Proceso de Pago
+</div>
+
+En el quinto mockup, se presenta la pantalla donde los usuarios deben ingresar los datos de su tarjeta para completar la compra. Esta pantalla es crucial para finalizar el proceso de compra de manera segura y eficiente. Aquí, los usuarios encontrarán campos para ingresar información como el número de tarjeta, la fecha de vencimiento, el código de seguridad (CVV) y el nombre del titular de la tarjeta .
+
+Este quinto mockup asegura que los usuarios puedan completar el proceso de pago de manera conveniente y segura, lo que es fundamental para el éxito de tu plataforma de compra y venta de productos en línea.
+
+<div align="center">
+  <img src="https://i.ibb.co/dtzfVVy/we5.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Sección Vendedores
+</div>
+
+En el sexto mockup de la aplicación, la sección de vendedores presenta botones como "Agregar Producto","Productos Publicados", "Agregar Evento", "Eventos Publicados" y "Visualizar Pedidos" para facilitar la gestión de su tienda y productos.
+ 
+<div align="center">
+  <img src="https://i.ibb.co/6Nc008y/we6ve.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Agregar Productos
+</div>
+
+En el séptimo mockup de la aplicación, la pantalla de "Agregar Producto" está diseñada para que los vendedores puedan cargar imágenes y proporcionar detalles sobre un artículo, como su color, talla y precio, junto con una descripción. Al final de la página, los vendedores encontrarán la opción para "Publicar Producto", permitiéndoles poner a la venta el artículo que han configurado.
+
+<div align="center">
+  <img src="https://i.ibb.co/D4NNZ2K/we7ve.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Productos Publicados
+</div>
+
+En el octavo mockup de la aplicación, la pantalla de "Productos Publicados" muestra los artículos que el vendedor ha puesto a la venta, y cada uno de ellos está acompañado de botones para "Editar Producto" y "Eliminar Producto". Además, en la parte inferior de la pantalla se encuentran los botones "Regresar" y "Publicar Eventos" para facilitar la navegación y la gestión de productos por parte del vendedor.
+
+<div align="center">
+  <img src="https://i.ibb.co/2ZLZP6z/we8ve.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Visualizar Pedidos
+</div>
+
+En el noveno mockup de la aplicación, se presenta la pantalla de "Pedidos", donde el vendedor puede visualizar todos los pedidos de prendas que ha recibido. Esta pantalla proporciona al vendedor una vista completa de los pedidos realizados por los clientes, lo que facilita el seguimiento y la gestión de las solicitudes de compra.
+
+<div align="center">
+  <img src="https://i.ibb.co/yRvVRxG/we9ve.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Agregar Evento
+</div>
+
+En el décimo mockup de la aplicación, se presenta la pantalla de "Agregar Evento". En esta sección, el vendedor tiene la capacidad de cargar imágenes relacionadas con el evento, proporcionar una descripción detallada del mismo y especificar el lugar donde se llevará a cabo. Esto permite al vendedor promocionar y anunciar eventos de manera efectiva a los clientes interesados.
+
+<div align="center">
+  <img src="https://i.ibb.co/G36CjMn/we10ve.jpg" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Eventos Publicados
+</div>
+
+En el último mockup de la aplicación, se presenta la pantalla de "Eventos Publicados". En esta sección, se muestran los eventos que el vendedor ha publicado previamente, y se proporcionan opciones para "Editar Evento" y "Eliminar Evento". Esto permite al vendedor administrar y mantener actualizada la información sobre los eventos que ha anunciado en la plataforma.
+
+<div align="center">
+  <img src="https://i.ibb.co/zPG6typ/we11ve.jpg" alt="Concept-map-3" width="500">
+</div>
+
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
