@@ -1,18 +1,10 @@
-# Registro de Versiones del Informe
-| Versión | Fecha | Autor | Descripción de modificación |
-| :---: | :---: | ---- | ---- |
-| 0.1 | 28/08 | Emilia Durán | Formato de documento |
-
-# Project Report Collaboration Insights
-Link a repositorio de Project Report:
-https://github.com/si729-ws51-savewise/ReWear-ProjectReport
-
-# Student Outcome
-| Criterio específico | Acciones realizadas | Conclusiones | 
-| ---- | ---- | ---- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | - | - |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | - | - |
-
-# Bibliografía
-
 # Anexos
+
+### Anexo A: Videos
+
+|              Sección              |                                                Característica del video                                                 | Sobre el contenido                                         | Integración y entrega                                                                    |
+|:---------------------------------:|:-----------------------------------------------------------------------------------------------------------------------:|------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|      Needfinding interviews       |         Cantidad de videos: 2 <br> Nomenclatura: 2023-si729-ws51-SaveWise-needfinding-sprint <br> Formato: mp4          | Consolidados de las entrevistas realizadas a los segmentos | Compradores: https://n9.cl/compradores <br> Vendedores: https://n9.cl/vendedores-section |
+| Product Navigation (Landing page) | Cantidad de videos: 1 <br> Nomenclatura: 2023-si729-ws51-SaveWise-prototype-landing-navigation-sprint <br> Formato: mp4 | Navegación en landing page                                 | Landing page: https://n9.cl/presentacion_landing                                         |
+
+
