@@ -383,13 +383,13 @@ En el Sprint Planning 1 se planificó para la elaboración de la landing page de
 |               Time               |                                                                                                                               08:00 PM	                                                                                                                               |
 |             Location             |                                                                                                                          	Virtual (Discord)                                                                                                                           |
 |           Prepared By            |                                                                                                                          	  Daniel Valverde                                                                                                                           |
-|            Attendees             |                                                                                 Fabrizio / Juan Jesús Calisaya Sánchez / Josue Daniel Valverde Lopez / Sebastian Jesus              	                                                                                 |
+|            Attendees             |                                                                  Fabrizio Torres Solano / Juan Jesús Calisaya Sánchez / Josue Daniel Valverde Lopez / Luis Jesus Sagastegui Rodriguez              	                                                                  |
 |    Sprint 1 - Review Summary     | Se asignaron tasks para los integrantes del grupo para la elaboración de la landing page. Se acordó que la fecha de entrega de los tasks será hasta el 23 de septiembre de 2023                                                                                     	 |
 | Sprint 1 - Retrospective Summary |                              los miembros se mostraron conformes con las tareas y fechas asignadas en el sprint planning 1                                                                                                             	                              |
 |  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                       |
 |          Sprint 1 Goal           |                                         Despliegue de la landing page en su totalidad, en un lapso de 3 días                                                                                                               	                                          |
-|        Sprint 1 Velocity         |                                                                                                  15                                                                	                                                                                                  |
-|       Sum of Story Points        |                                                                                                                  4                                	                                                                                                                   |
+|        Sprint 1 Velocity         |                                                                                                            18                                            	                                                                                                            |
+|       Sum of Story Points        |                                                                                                        16                                                   	                                                                                                         |
 
 #### 5.2.1.2. Sprint Backlog 1
 El objetivo principal del Sprint 1 es lograr la implementación de la landing page del proyecto, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
@@ -518,6 +518,158 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 A continuación se muestra una línea de tiempo con el flujo de las ramas del proyecto, finalmente se unen todas las ramas en develop para el despliegue de la landing page.
 
 ![network](https://i.ibb.co/S3yZGQV/network.png)
+
+### 5.2.2. Sprint 2
+En esta sección, se detalla el proceso completo de implementación y despliegue de la aplicación web desarrollada con el framework Angular. Se aborda de manera grupal, detallando planificación del avance desde la concepción del Product Backlog hasta la puesta en producción de este componente en nuestro proyecto.
+### 5.2.2.1. Sprint Planning 2
+En el Sprint Planning 2 se planificó para la elaboración de la aplicación web del proyecto. Mediante una reunión grupal se determinaron y acordaron distintas tareas para su elaboración
+
+|             Sprint #             |                                                                                                                                  Sprint 2                                                                                                                                   | 
+|:--------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  **Sprint Planning Background**  |                                                                                                                                                                                                                                                                             |
+|               Date               |                                                                                                                                 	2023-09-25                                                                                                                                 |
+|               Time               |                                                                                                                                  6:00 PM	                                                                                                                                   |
+|             Location             |                                                                                                                             	Virtual (Discord)                                                                                                                              |
+|           Prepared By            |                                                                                                                      	 Juan Calisaya, Luis Sagastegui                                                                                                                       |
+|            Attendees             |                                                                     Fabrizio Torres Solano / Juan Jesús Calisaya Sánchez / Josue Daniel Valverde Lopez / Luis Jesus Sagastegui Rodriguez              	                                                                     |
+|    Sprint 2 - Review Summary     | Se asignaron tasks para los integrantes del grupo para la elaboración de la aplicación web. Se acordó que la fecha de culminación de los tasks será hasta el 26 de septiembre de 2023                                                                                     	 |
+| Sprint 2 - Retrospective Summary |                                    Los integrantes se mostraron conformes con la distribución y fechas de entrega de los tasks                                                                                                        	                                     |
+|  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                             |
+|          Sprint 2 Goal           |                                    Construcción y despliegue de la aplicación web en su totalidad, en un lapso de 3 días                                                                                                               	                                    |
+|        Sprint 2 Velocity         |                                                                                                                                                                         	                                                                                                 |
+|       Sum of Story Points        |                                                                                                                                                              	                                                                                                            |
+
+### 5.2.2.2. Sprint Backlog 2
+El objetivo principal del Sprint 2 es lograr la implementación de la aplicación web del proyecto, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US21: Ver Preguntas Frecuentes (FAQ) </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir preguntas</td>
+    <td align="justify"> Se añadirán las preguntas frecuentes en cards</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Sebastian Ramirez </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Redirección de secciones </td>
+    <td align="center"> Agregar un navbar para redirigirse otras secciones de la landing page</td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Ramirez</td>
+    <td align="center">Done</td>
+  </tr>
+
+
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US 17: Hacer una cita</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir campos de información</td>
+    <td align="center"> Se añaden los campos para que sean completados por el usuario y confirme con el boton "Nueva Cita" </td>
+    <td align="center"> 3</td>
+    <td align="center"> Juliana Yauricasa</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Seleccionar veterinaria</td>
+    <td align="center"> Se mostrará la información final de los detalles de la cita y un botón "Reservar" para confirmar la cita</td>
+    <td align="center"> 2</td>
+    <td align="center"> Juliana Yauricasa</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Muestra de las citas registradas </td>
+    <td align="center"> Se muestran en cards las citas registradas con su respectiva información </td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center"> Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center">  US 16: Apartado de recomendaciones </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Redirección de secciones </td>
+    <td align="center"> Agregar un navbar para redirigirse otras secciones de la landing page</td>
+    <td align="center"> 1</td>
+    <td align="center"> Renato Reyes</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Muestra de veterinarias recomendadas </td>
+    <td align="center"> Se agrega una foto de la veterinaria recomendada en la cual se puede hacer click para mostrar más detalles </td>
+    <td align="center"> 2</td>
+    <td align="center"> Renato Reyes</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Opciones disponibles</td>
+    <td align="center"> Se muestran opciones de los servicios que ofrece la veterinaria para poder elegir</td>
+    <td align="center"> 3</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center"> Done</td>
+  </tr>
+
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review.
+
+|                  Repository                   | Branch | Commit Id | Commit Message | Commit Message Body |  Committed on (Date)   |
+|:---------------------------------------------:|:------:|:---------:|:--------------:|:-------------------:|:----------------------:|
+| https://github.com/upc-coders/Frontend-MapVet |        |    	 	    |      	 	       |    ---      	 	     | 27/09/2023        	 	  |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+|                                               |   	    |    	 	    |      	 	       |    ---       	 	    | 27/09/2023         	 	 |
+
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+### 5.2.2.5. Execution Evidence for Sprint Review.
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+### 5.2.2.7.  Software Deployment Evidence for Sprint Review.
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
