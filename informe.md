@@ -348,8 +348,46 @@ En el último mockup de la aplicación, se presenta la pantalla de "Eventos Publ
 </div>
 
 ### 4.4.4. Web Applications User Flow Diagrams
+## User Persona Usuario
+User goal: Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo seleccionar productos y personalizarlos en cuanto a la talla. 
+<div align="center">
+  <img src="https://i.ibb.co/mqPy41T/wde1.jpg" alt="Concept-map-3" width="500">
+</div>
+
+  
+User goal: Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder filtrar productos por tipos de prendas y precio.  
+<div align="center">
+  <img src="https://i.ibb.co/7XqH7kH/wde2.jpg" alt="Concept-map-3" width="500">
+</div>
+
+User goal:Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder agregar productos a mi canasta de compra para comprarlos en cualquier momento. 
+
+<div align="center">
+  <img src="https://i.ibb.co/WKLQcLK/wde3.jpg" alt="Concept-map-3" width="500">
+</div>
+
+
+## User Persona Vendedor
+User goal:Como vendedor de prendas de segunda mano registrado en la aplicación, deseo publicar productos en la plataforma, incluyendo detalles. 
+
+<div align="center">
+  <img src="https://i.ibb.co/fkQCthb/wde4.jpg" alt="Concept-map-3" width="500">
+</div>
+
+User goal:Como vendedor de prendas de segunda mano registrado en la aplicación, deseo editar la información de productos que he publicado previamente.
+
+<div align="center">
+  <img src="https://i.ibb.co/HhjzTdb/wde5.jpg" alt="Concept-map-3" width="500">
+</div>
+
+User goal:Como vendedor de prendas de segunda mano registrado en la aplicación, deseo eliminar un producto previamente publicado
+
+<div align="center">
+  <img src="https://i.ibb.co/K5cBJBL/wde6.jpg" alt="Concept-map-3" width="500">
+</div>
 
 ## 4.5. Web Applications Prototyping
+A partir de los diseños de referencia previamente elaborados, se desarrolló un prototipo del producto en cuestión. Este producto empleará un sistema de navegación que se apoya en botones para facilitar la transición entre diferentes pantallas. En la versión móvil, estos botones se ubicarán en la parte inferior de la interfaz, mientras que en la versión de escritorio se encontrarán en el lado izquierdo de la pantalla. Asimismo, se incluirá un botón específico para retroceder a la pantalla anterior.
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
