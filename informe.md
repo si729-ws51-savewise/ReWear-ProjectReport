@@ -742,6 +742,13 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
  
 # Conclusiones
 ## Conclusiones y recomendaciones.
+-Como desarrollador de ReWear, estoy emocionado por el potencial de esta aplicación para revolucionar la forma en que las personas compran y venden ropa de segunda mano. La capacidad de crear una plataforma interactiva donde los usuarios pueden conectarse, comunicarse y realizar transacciones de manera efectiva es un logro tecnológico significativo. Estoy seguro de que ReWear no solo facilitará la vida de los usuarios, sino que también tendrá un impacto positivo en la sostenibilidad al promover la reutilización de prendas.
+
+-Al concluir este proyecto ReWear, me siento increíblemente satisfecho con la creación de una plataforma que puede brindar un valor real a los usuarios. La capacidad de conectar a vendedores y compradores de ropa de segunda mano de manera efectiva es una fuente de orgullo para mí.
+
+-ReWear es una herramienta valiosa para reducir el desperdicio textil y promover un consumo más responsable. Al dar una segunda vida a la ropa, estamos reduciendo la presión sobre los recursos naturales y ayudando a combatir el cambio climático. La incorporación de eventos físicos de venta también puede fomentar una mayor conciencia sobre la importancia de la moda sostenible en la comunidad.
+
+-Aunque el proyecto está concluido en su etapa inicial, reconozco que hay espacio para el crecimiento y la mejora continua. Estoy emocionado por las posibilidades de expansión, la incorporación de nuevas características y la retroalimentación de los usuarios para hacer que ReWear sea aún mejor en el futuro.
 ## Video About-the-Team.
 # Bibliografía
 # Anexos
