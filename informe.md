@@ -1074,3 +1074,85 @@ Los siguientes gráficos ofrecen una representación visual de las clonaciones r
 A continuación se muestra una línea de tiempo con el flujo de las ramas del proyecto, finalmente se unen todas las ramas en develop para el despliegue de la landing page.
 
 ![network](https://i.ibb.co/S3yZGQV/network.png)
+
+### 5.2.2. Sprint 2
+En esta sección, se detalla el proceso completo de implementación y despliegue de la aplicación web desarrollada con el framework Angular. Se aborda de manera grupal, detallando planificación del avance desde la concepción del Product Backlog hasta la puesta en producción de este componente en nuestro proyecto.
+### 5.2.2.1. Sprint Planning 2
+En el Sprint Planning 2 se planificó para la elaboración de la aplicación web del proyecto. Mediante una reunión grupal se determinaron y acordaron distintas tareas para su elaboración
+
+|             Sprint #             |                                                                                                                                  Sprint 2                                                                                                                                   | 
+|:--------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  **Sprint Planning Background**  |                                                                                                                                                                                                                                                                             |
+|               Date               |                                                                                                                                 	2023-09-25                                                                                                                                 |
+|               Time               |                                                                                                                                  6:00 PM	                                                                                                                                   |
+|             Location             |                                                                                                                             	Virtual (Discord)                                                                                                                              |
+|           Prepared By            |                                                                                                                      	 Juan Calisaya, Luis Sagastegui                                                                                                                       |
+|            Attendees             |                                                                     Fabrizio Torres Solano / Juan Jesús Calisaya Sánchez / Josue Daniel Valverde Lopez / Luis Jesus Sagastegui Rodriguez              	                                                                     |
+|    Sprint 2 - Review Summary     | Se asignaron tasks para los integrantes del grupo para la elaboración de la aplicación web. Se acordó que la fecha de culminación de los tasks será hasta el 26 de septiembre de 2023                                                                                     	 |
+| Sprint 2 - Retrospective Summary |                                    Los integrantes se mostraron conformes con la distribución y fechas de entrega de los tasks                                                                                                        	                                     |
+|  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                             |
+|          Sprint 2 Goal           |                                   Construcción y despliegue de la aplicación web en su totalidad, en un lapso de 10 días                                                                                                               	                                    |
+|        Sprint 2 Velocity         |                                                                                                                            35                 	                                                                                                                             |
+|       Sum of Story Points        |                                                                                                                                 34        	                                                                                                                                 |
+
+### 5.2.2.2. Sprint Backlog 2
+El objetivo principal del Sprint 2 es lograr la implementación de la aplicación web del proyecto, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review.
+
+|                  Repository                   |   Branch    | Commit Id | Commit Message | Commit Message Body |  Committed on (Date)   |
+|:---------------------------------------------:|:-----------:|:---------:|:--------------:|:-------------------:|:----------------------:|
+| https://github.com/si729-ws51-savewise/ReWear |    main     |   4d74bd3b09d6f7468ec51bac3202e678ee7ef98b 	 	    |feat: project created      	 	       |    ---      	 	     | 28/09/2023        	 	  |
+|                                               | 	ad-product |   95a6ea2fccd849532a7d2647f2be34aa46acfb35 	 	    | feat(add-product): added component for post products     	 	       |    ---       	 	    | 28/09/2023         	 	 |
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+### 5.2.2.5. Execution Evidence for Sprint Review.
+Evidencia de la ejecución 
+
+Login de usuarios
+
+![](https://i.ibb.co/2MVS1HC/login-rewear.jpg)
+
+Sign Up usuarios
+
+![](https://i.ibb.co/TcCWzZm/signup.jpg)
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+No se logró la documentación de  la aplicación para esta entrega. Se implementará para el siguiente entregable
+
+### 5.2.2.7.  Software Deployment Evidence for Sprint Review.
+No se logró el despliegue de la parte frontend de  la aplicación para esta entrega. Se implementará para el siguiente entregable
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Evidencias de colaboración:
+En el primer cuadro mostramos los commits realizados por los integrantes del grupo en un cuadro de barras
+
+![](https://i.ibb.co/Hdt7WTH/commits-rewear.png)
+
+Presentamos la linea de tiempo sobre la utilización de ramas en el proyecto
+![](https://i.ibb.co/5Y5NDg4/network-rewear.png)
