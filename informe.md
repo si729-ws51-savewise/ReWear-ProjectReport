@@ -38,6 +38,18 @@ Escenario To Be del segmento vendedores
 ![to-be-vendedores](https://i.ibb.co/q10QBVJ/to-be-vendedores.png")
 
 ## 3.2. User Stories
+Para elaborar user stories que pertenecen a un epic. A continuación, las epics que consideramos como equipo:
+
+| Código | Título | Epic | 
+|--------|--------|------|
+|EP01|Autenticación y Registro de usuarios|Como usuario de la plataforma quiero registrarme en la página web para poder acceder a los beneficios de la aplicación.|
+|EP02|Vistas y Control de la Pagina Web |Como posible usuario quiero poder desplazarme por la página web para visualizar todas las herramientas que me brinda. |
+|EP03|Gestión de Eventos |Como usuario quiero realizar la gestión de eventos con todas las herramientas para poder publicar y modificar futuros eventos. |
+|EP04|Compra y Manejo de Productos |Como usuario quiero poder comprar y manejar las distintas herramientas de los productos para poder realizar una compra exitosa. |
+|EP05|Gestión de herramientas de vendedor |Como usuario vendedor quiero poseer herramientas de gestión para que me ayuden al manejo de mis productos. |
+|EP06|Manejo de información del usuario |Como usuario quiero poder tener un completo manejo de mi información para poder visualizar y actualizar mis datos. |
+|EP07|Sistema de comunicación en el aplicativo |Como usuario quiero un sistema de comunicación para resolver posibles dudas o problemas.  |
+
 | ID de Historia de Usuario | Título | Descripción | Criterios de Aceptación con Escenarios | ID de Épica |
 |--------------------------|--------|-------------|----------------------------------------|-------------|
 | HU01 | Registro de usuarios compradores en la plataforma | CComo usuario comprador que realiza compras de prendas de segunda mano no registrado deseo crearme una cuenta para poder acceder a las características de la app. | **E01: Registro exitoso** 
