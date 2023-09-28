@@ -1652,3 +1652,13 @@ En el primer cuadro mostramos los commits realizados por los integrantes del gru
 
 Presentamos la linea de tiempo sobre la utilización de ramas en el proyecto
 ![](https://i.ibb.co/5Y5NDg4/network-rewear.png)
+
+
+##Conclusiones
+- Las herramientas utilzadas como UXPressia Nos ayudaron a indentificar mejor a nuestros segmentos, entenderlos y a partir de este punto elaborar una solución que sea de su beneficio.
+
+-Figma nos ayudó a prototipar nuestros productos de forma sencilla y con gran precisión. Elaboramos elementos como wireframes, mock ups y wireflows.
+
+- ReWear es una herramienta valiosa para reducir el desperdicio textil y promover un consumo más responsable. Al dar una segunda vida a la ropa, estamos reduciendo la presión sobre los recursos naturales y ayudando a combatir el cambio climático. La incorporación de eventos físicos de venta también puede fomentar una mayor conciencia sobre la importancia de la moda sostenible en la comunidad.
+
+- Aunque el proyecto no está concluido en su etapa inicial, reconozco que hay espacio para el crecimiento y la mejora continua. como startup nos sentimos emocionado por las posibilidades de expansión, la incorporación de nuevas características y la retroalimentación de los usuarios para hacer que ReWear sea aún mejor en el futuro.
