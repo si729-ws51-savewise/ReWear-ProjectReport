@@ -315,8 +315,21 @@ En el último mockup de la aplicación, se presenta la pantalla de "Eventos Publ
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+En el siguiente diagrama se detalla como interactúan los usuarios con el sistema de ReWear y con sistemas externos como E-mail y plataformas de pago.
+MODELO C4
+
+![context](https://i.ibb.co/kQ2thPt/context-diagram.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
+En el siguiente diagrama se muestra los contenedores del sistema. Se presenta una vision mas amplia de la arquitectura de software.
+
+![container](https://i.ibb.co/Z89qSpY/container-diagram.png)
+
 ### 4.6.3. Software Architecture Components Diagrams
+En el siguiente diagrama se presenta los detalles de tecnología e implementación de los contenedores.
+
+![components](https://i.ibb.co/Y7LVNMm/components-diagram.png)
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
