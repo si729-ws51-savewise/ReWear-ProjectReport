@@ -29,6 +29,8 @@
 # Capútlo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 
+El mapa To-Be crea una representación visual que muestra exactamente cómo debería funcionar el proceso, qué decisiones se deben tomar y qué resultados se pueden lograr.
+
 **Segmento: Compradores**
 Escenario To Be del segmento compradores
 ![to-be-compradores](https://i.ibb.co/sst3qMw/to-be-compradores.png)
@@ -81,37 +83,48 @@ A continuacion, la realizacion de los user stories con sus criterios de aceptaci
 | US25 | Eliminación de Evento de Venta  | Como vendedor de prendas de segunda mano registrado en la aplicación, deseo eliminar eventos en la plataforma. | **E01: eliminación de eventos** **CA01:** Dado que me encuentro en el panel de eliminación de eventos. Cuando seleccione el evento el cual deseo eliminar. Y presione sobre el botón “Eliminar evento”. Entonces el evento desaparecerá del panel de eventos disponibles. | EP03: Gestion de Eventos |
 
 ## 3.3. Impact Mapping
-![impact-map-rewear](https://i.ibb.co/qMmrcwQ/impact-map-rewear.png")
+
+El mapeo de impacto es una metodología colaborativa que facilita la planificación de productos y proyectos al definir metas comerciales con claridad. Además, visualiza de manera efectiva las estrategias y recursos necesarios para lograr esos objetivos.
+A continuación mostramos los mapas de impacto incluyendo ambos segmentos.
+
+![impact-1](https://i.ibb.co/10vxpzk/impact-map-1.png)
+
+![impact-2](https://i.ibb.co/xhY5BkS/impact-map-2.png)
+
+![impact-3](https://i.ibb.co/q0BfJwz/impact-map-3.png)
+
+![impact-4](https://i.ibb.co/FBy1ygw/impact-map-4.png)
+
 
 ## 3.4. Product Backlog
 
-| Número de Orden | ID de Historia de Usuario |Titulo | Descripción | Story Points (2/4/6/8)|
-|-----------------|--------------------------|--------|-------------|--------------|
-| 1 | US01 | Registro de usuarios compradores en la plataforma| Como usuario comprador que realiza compras de prendas de segunda mano no registrado deseo crearme una cuenta para poder acceder a las características de la aplicación. | 8 |
-| 2 | US02 | Registro de usuarios vendedores en la plataforma |Como vendedor de prendas de segunda mano no registrado en la aplicación, deseo crearme una cuenta, para poder acceder a las características de la aplicación. | 8 |
-| 3 | US03 | Inicio de sesión de usuarios compradores en la plataforma| Como usuario comprador que realiza compras de prendas de segunda mano registrado en la aplicación, deseo iniciar sesión en la aplicación. | 8 |
-| 4 | US04 | Inicio de sesión de usuarios vendedores en la plataforma| Como usuario vendedor de prendas de segunda mano registrado en la aplicación, deseo iniciar sesión en la aplicación. | 8 |
-| 5 | US16 | Revisión de Pedido | Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder revisar mi pedido antes de confirmarlo. | 8 |
-| 6 | US17 | Selección de Método de pago| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder seleccionar un método de pago. | 8 |
-| 7 | US19 | Publicación de Productos| Como vendedor de prendas de segunda mano registrado en la aplicación, deseo publicar productos en la plataforma, incluyendo detalles. | 8 |
-| 8 | US23 | Publicación de Eventos de Venta| Como vendedor de prendas de segunda mano registrado en la aplicación, deseo publicar eventos en la plataforma. | 8 |
-| 9 | US05 | Recuperación de contraseña para usuarios registrados| Como usuario registrado en la página web, deseo poder restablecer mi contraseña si la olvido. | 6 |
-| 10 | US08 | Añadir a la canasta | Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder agregar productos a mi canasta de compra para comprarlos en cualquier momento. | 6 |
-| 11 | US14 | Iniciar chat con vendedor |Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder agregar productos a mi canasta de compra para comprarlos en cualquier momento.| 6 |
-| 12 | US20 | Edición de Productos| Como vendedor de prendas de segunda mano registrado en la aplicación, deseo editar la información de productos que he publicado previamente. | 6 |
-| 13 | US21 | Eliminación de Productos| Como vendedor de prendas de segunda mano registrado en la aplicación, deseo editar la información de productos que he publicado previamente. | 6 |
-| 14 | US24 | Edición de Evento de Venta | Como vendedor de prendas de segunda mano registrado en la aplicación, deseo editar eventos en la plataforma. | 6 |
-| 15 | US25 | Eliminación de Evento de Venta| Como vendedor de prendas de segunda mano registrado en la aplicación, deseo eliminar eventos en la plataforma. | 6 |
-| 16 | US06 | Selección de Producto| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo seleccionar productos y personalizarlos en cuanto a la talla. | 4 |
-| 17 | US07 | Filtrado de Productos| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder filtrar productos por tipos de prendas y precio. | 4 |
-| 18 | US15 | Notificaciones de mensajes| Como usuario comprador de prendas de segunda mano registrado en la aplicación, quiero recibir notificaciones cuando reciba un mensaje de un vendedor. | 4 |
-| 19 | US18 | Búsqueda de Ferias| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder buscar y ver una lista de ferias en garajes físicos de ropa disponible cerca de mi ubicación. | 4 |
-| 20 | US22 | Visualización de Pedidos| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder buscar y ver una lista de ferias en garajes físicos de ropa disponible cerca de mi ubicación. | 4 |
-| 21 | US09 | Añadir a mis favoritos| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder buscar y ver una lista de ferias en garajes físicos de ropa disponible cerca de mi ubicación. | 2 |
-| 22 | US10 | Desplazarse fácilmente entre las secciones de la página web | Como usuario quiero desplazarme entre las secciones de la página web para visualizar la información importante para mí. | 2 |
-| 23 | US11 | Sección de la página web para los segmentos de usuario|Como usuario quiero ver una sección de la página web con información relacionada al segmento que corresponde para ver sus beneficios. | 2 |
-| 24 | US12| Visualizar información personal | Como usuario registrado en la aplicación, deseo visualizar mi información para confirmar mis datos personales. | 2 |
-| 25 | US13 | Actualizar información personal | Como usuario quiero actualizar mi información para que la plataforma muestre mis datos actuales. | 2 |
+| Número de Orden | ID de Historia de Usuario |Titulo | Descripción | Story Points (2/4/6/8) |
+|-----------------|--------------------------|--------|-------------|------------------------|
+| 1 | US01 | Registro de usuarios compradores en la plataforma| Como usuario comprador que realiza compras de prendas de segunda mano no registrado deseo crearme una cuenta para poder acceder a las características de la aplicación. | 8                      |
+| 2 | US02 | Registro de usuarios vendedores en la plataforma |Como vendedor de prendas de segunda mano no registrado en la aplicación, deseo crearme una cuenta, para poder acceder a las características de la aplicación. | 8                      |
+| 3 | US03 | Inicio de sesión de usuarios compradores en la plataforma| Como usuario comprador que realiza compras de prendas de segunda mano registrado en la aplicación, deseo iniciar sesión en la aplicación. | 2                      |
+| 4 | US04 | Inicio de sesión de usuarios vendedores en la plataforma| Como usuario vendedor de prendas de segunda mano registrado en la aplicación, deseo iniciar sesión en la aplicación. | 2                      |
+| 5 | US16 | Revisión de Pedido | Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder revisar mi pedido antes de confirmarlo. | 8                      |
+| 6 | US17 | Selección de Método de pago| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder seleccionar un método de pago. | 8                      |
+| 7 | US19 | Publicación de Productos| Como vendedor de prendas de segunda mano registrado en la aplicación, deseo publicar productos en la plataforma, incluyendo detalles. | 8                      |
+| 8 | US23 | Publicación de Eventos de Venta| Como vendedor de prendas de segunda mano registrado en la aplicación, deseo publicar eventos en la plataforma. | 8                      |
+| 9 | US05 | Recuperación de contraseña para usuarios registrados| Como usuario registrado en la página web, deseo poder restablecer mi contraseña si la olvido. | 6                      |
+| 10 | US08 | Añadir a la canasta | Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder agregar productos a mi canasta de compra para comprarlos en cualquier momento. | 6                      |
+| 11 | US14 | Iniciar chat con vendedor |Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder agregar productos a mi canasta de compra para comprarlos en cualquier momento.| 6                      |
+| 12 | US20 | Edición de Productos| Como vendedor de prendas de segunda mano registrado en la aplicación, deseo editar la información de productos que he publicado previamente. | 6                      |
+| 13 | US21 | Eliminación de Productos| Como vendedor de prendas de segunda mano registrado en la aplicación, deseo editar la información de productos que he publicado previamente. | 6                      |
+| 14 | US24 | Edición de Evento de Venta | Como vendedor de prendas de segunda mano registrado en la aplicación, deseo editar eventos en la plataforma. | 6                      |
+| 15 | US25 | Eliminación de Evento de Venta| Como vendedor de prendas de segunda mano registrado en la aplicación, deseo eliminar eventos en la plataforma. | 6                      |
+| 16 | US06 | Selección de Producto| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo seleccionar productos y personalizarlos en cuanto a la talla. | 4                      |
+| 17 | US07 | Filtrado de Productos| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder filtrar productos por tipos de prendas y precio. | 4                      |
+| 18 | US15 | Notificaciones de mensajes| Como usuario comprador de prendas de segunda mano registrado en la aplicación, quiero recibir notificaciones cuando reciba un mensaje de un vendedor. | 4                      |
+| 19 | US18 | Búsqueda de Ferias| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder buscar y ver una lista de ferias en garajes físicos de ropa disponible cerca de mi ubicación. | 4                      |
+| 20 | US22 | Visualización de Pedidos| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder buscar y ver una lista de ferias en garajes físicos de ropa disponible cerca de mi ubicación. | 4                      |
+| 21 | US09 | Añadir a mis favoritos| Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo poder buscar y ver una lista de ferias en garajes físicos de ropa disponible cerca de mi ubicación. | 2                      |
+| 22 | US10 | Desplazarse fácilmente entre las secciones de la página web | Como usuario quiero desplazarme entre las secciones de la página web para visualizar la información importante para mí. | 8                      |
+| 23 | US11 | Sección de la página web para los segmentos de usuario|Como usuario quiero ver una sección de la página web con información relacionada al segmento que corresponde para ver sus beneficios. | 8                      |
+| 24 | US12| Visualizar información personal | Como usuario registrado en la aplicación, deseo visualizar mi información para confirmar mis datos personales. | 2                      |
+| 25 | US13 | Actualizar información personal | Como usuario quiero actualizar mi información para que la plataforma muestre mis datos actuales. | 2                      |
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
