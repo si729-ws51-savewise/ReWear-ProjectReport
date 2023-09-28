@@ -190,7 +190,7 @@ Eventos Publicados
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-##User Persona Usuario
+## User Persona Usuario
 User goal: Como usuario comprador de prendas de segunda mano registrado en la aplicación, deseo seleccionar productos y personalizarlos en cuanto a la talla. 
 <div align="center">
   <img src="https://i.ibb.co/2dMK2vj/wd1.jpg" alt="Concept-map-3" width="500">
@@ -209,7 +209,7 @@ User goal:Como usuario comprador de prendas de segunda mano registrado en la apl
 </div>
 
 
-##User Persona Vendedor
+## User Persona Vendedor
 User goal:Como vendedor de prendas de segunda mano registrado en la aplicación, deseo publicar productos en la plataforma, incluyendo detalles. 
 
 <div align="center">
