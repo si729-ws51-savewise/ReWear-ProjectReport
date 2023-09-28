@@ -3,7 +3,8 @@
 - **Sección:** WS51
 - **Profesor:** Ángel Augusto Velásquez
 
-### Informe del Trabajo Final
+### Informe del Trabajo Final 
+![Acceder al informe](https://github.com/si729-ws51-savewise/ReWear-ProjectReport/blob/main/Informe.md)
 - **Startup:** SaveWise
 - **Producto:** ReWear
 
