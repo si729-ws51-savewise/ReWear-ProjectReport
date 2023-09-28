@@ -89,7 +89,7 @@ Web Application:
 ### 4.3.1. Landing Page Wireframe
 A continuacion, se presentara los WireFrame de la Landing Page:
 <div align="center">
-Página Home
+Wireframe Home
 </div>
 
 <div align="center">
@@ -97,7 +97,7 @@ Página Home
 </div>
 
 <div align="center">
-Página Compradores 
+Wireframe Compradores 
 </div>
 
 <div align="center">
@@ -105,7 +105,7 @@ Página Compradores
 </div>
 
 <div align="center">
-Página Vendedores
+Wireframe Vendedores
 </div>
 
 <div align="center">
@@ -113,7 +113,7 @@ Página Vendedores
 </div>
 
 <div align="center">
-Página Comentarios
+Wireframe Comentarios
 </div>
 
 <div align="center">
@@ -121,7 +121,7 @@ Página Comentarios
 </div>
 
 <div align="center">
-Página Contacto
+Wireframe Contacto
 </div>
 
 <div align="center">
@@ -130,8 +130,49 @@ Página Contacto
 
 
 ### 4.3.2. Landing Page Mock-up
-En el siguiente enlace hacia Figma, se encuentran los Mock-ups de la landing page de ReWear, se optó la subida de estos archivos en la nube, ya que reducirán el espacio usado
-https://www.figma.com/file/XxGTOhyTgyTxhOCTGGLy4b/ReWear?type=design&node-id=0%3A1&mode=design&t=l5T5stfrDtwGW9VY-1
+
+A continuacion, se presentara los Mock-up de la Landing Page:
+
+<div align="center">
+Mock-up Home
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/GWmS6Mp/MHome-Re-Wear.png" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Mock-up Compradores
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/Bn6q2Qq/MCompradores-Re-Wear.png" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Mock-up Vendedores
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/wr5HghL/MVendedores-Re-Wear.png" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Mock-up Comentarios
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/D8HXzVB/MComentarios-Re-Wear.png" alt="Concept-map-3" width="500">
+</div>
+
+<div align="center">
+Mock-up Contacto
+</div>
+
+<div align="center">
+  <img src="https://i.ibb.co/h9Gr9fS/MContacto-Re-Wear.png" alt="Concept-map-3" width="500">
+</div>
+
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
