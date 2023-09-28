@@ -122,20 +122,20 @@ Estas ramas facilitan la preparación de nuestro proyecto para la última fase d
 
 **Convenciones Release Branches:**
 
-| Release | Descripción |
-|-------------|-------------|
-| Release 0.1.0     | Comenzar con la versión del desarrollo inicial de nuestro landing page. |
-| Release 1.0.0     | Se realiza la implementación de la API pública. |
-| Release 1.1.0     | Se ha implementado una nueva funcionalidad en la API pública que es compatible con versiones anteriores.  |
-| Release 1.1.1     | Se corrigen bug o errores compatibles con las versiones anteriores. |
-| Release 2.0.0     | Se implementan funciones incompatibles con versiones anteriores en la API pública. |
+| Release       | Descripción                                                                                              |
+|---------------|----------------------------------------------------------------------------------------------------------|
+| Release 0.1.0 | Comenzar con la versión del desarrollo inicial de nuestro landing page.                                  |
+| Release 1.0.0 | Se realiza la implementación de la API pública.                                                          |
+| Release 1.1.0 | Se ha implementado una nueva funcionalidad en la API pública que es compatible con versiones anteriores. |
+| Release 1.1.1 | Se corrigen bug o errores compatibles con las versiones anteriores.                                      |
+| Release 2.0.0 | Se implementan funciones incompatibles con versiones anteriores en la API pública.                       |
 
 **Hotfix branches:**
 Son utilizadas para abordar rápidamente problemas o errores en la versión actual de producción. Estas ramas se crean a partir de la main Branch. Una vez solucionado el problema se fusionará.
 
-| Hotfix | Descripción |
-|-------------|-------------|
-| Hotfix 1.1.0 | Alguna funcionalidad de la API pública esta marcada como obsoleta. |
+| Hotfix       | Descripción                                                                                                |
+|--------------|------------------------------------------------------------------------------------------------------------|
+| Hotfix 1.1.0 | Alguna funcionalidad de la API pública esta marcada como obsoleta.                                         |
 | Hotfix 1.1.1 | Se introduce nuevas funciones o metodos para la corrección de errores compatibles con versiones anteriores |
 
 **Conventional Commits:**
@@ -597,8 +597,8 @@ En el Sprint Planning 2 se planificó para la elaboración de la aplicación web
 | Sprint 2 - Retrospective Summary |                                    Los integrantes se mostraron conformes con la distribución y fechas de entrega de los tasks                                                                                                        	                                     |
 |  **Sprint Goal & User Stories**  |                                                                                                                                                                                                                                                                             |
 |          Sprint 2 Goal           |                                    Construcción y despliegue de la aplicación web en su totalidad, en un lapso de 3 días                                                                                                               	                                    |
-|        Sprint 2 Velocity         |                                                                                                                                                                         	                                                                                                 |
-|       Sum of Story Points        |                                                                                                                                                              	                                                                                                            |
+|        Sprint 2 Velocity         |                                                                                                                                      	                                                                                                                                      |
+|       Sum of Story Points        |                                                                                                                                      	                                                                                                                                      |
 
 ### 5.2.2.2. Sprint Backlog 2
 El objetivo principal del Sprint 2 es lograr la implementación de la aplicación web del proyecto, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
