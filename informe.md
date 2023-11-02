@@ -1615,40 +1615,135 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
     <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
   </tr>
   <!---------------------------------------------------------------------- -->
-  
 </table>
 
 ### 5.2.2.3. Development Evidence for Sprint Review.
 
-|                  Repository                   |   Branch    | Commit Id | Commit Message | Commit Message Body |  Committed on (Date)   |
-|:---------------------------------------------:|:-----------:|:---------:|:--------------:|:-------------------:|:----------------------:|
-| https://github.com/si729-ws51-savewise/ReWear |    main     |   4d74bd3b09d6f7468ec51bac3202e678ee7ef98b 	 	    |feat: project created      	 	       |    ---      	 	     | 28/09/2023        	 	  |
-|                                               | 	ad-product |   95a6ea2fccd849532a7d2647f2be34aa46acfb35 	 	    | feat(add-product): added component for post products     	 	       |    ---       	 	    | 28/09/2023         	 	 |
+|                       Repository                       |         Branch          |                                     Commit Id                                     |                                                        Commit Message                                                        | Commit Message Body |  Committed on (Date)  |
+|:------------------------------------------------------:|:-----------------------:|:---------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:---------------------:|
+| https://github.com/si729-ws51-savewise/rewear-frontend |         develop         |                    c0c369a40b91e49d5a96828757ea6edc392cefa8	 	                    |                                                feat: project created      	 	                                                |    ---      	 	     | 22/10/2023        	 	 |
+|                                                        |         develop         |                    e14e36483fcddc7db8f1afebc1306f981c88f163 	                     |                                          Added basic script for json-server     	 	                                          |    ---      	 	     | 24/10/2023        	 	 |
+|                                                        |         develop         |                    f6d032551ea6d1105e39f99a05e8f27dbe009183 	                     |                                          Added clothing items to the db.json    	 	                                          |    ---      	 	     | 24/10/2023        	 	 |
+|                                                        |         develop         |          0f7ef1968d27e1c0dd9310bcde11f739ccc874f9                     	           |                             feat(rewear): added basic structure of project                  	 	                              |    ---      	 	     | 25/10/2023        	 	 |
+|                                                        |         develop         |      285ddf8b6c04e3cde2421dfaeae69e9403c32f84                             	       |                              feat(rewear): added dependencies                               	 	                              |    ---      	 	     | 25/10/2023        	 	 |
+|                                                        |      feature/home       |      a25277884e33dfac0ffee09938c495d4d43ccbc7                             	       |                                  feat(home): fixed navbar                               	 	                                  |    ---      	 	     | 25/10/2023        	 	 |
+|                                                        |     feature/shared      |      62f121a66ca9bf60f7f21fd04be7d18cbb1bd4fb                              	      |                             feat(shared): added base service                                	 	                              |    ---      	 	     | 25/10/2023        	 	 |
+|                                                        | feature/shopper-product |    49b44f28a56b46562403fd14dadda1cb5598039e                                  	    |                                Created products component                                	 	                                 |    ---      	 	     | 30/10/2023        	 	 |
+|                                                        |     feature/shared      |  c2b5f48a909d07f97a5fb63de189bdd47c8d1499                                     	   |                             Implemented enviroment variables                                 	 	                             |    ---      	 	     | 30/10/2023        	 	 |
+|                                                        |     feature/shared      |  2ab4d025ce432abbacfc4d4f082b45a6c253f324                                     	   |                Updated base.api.ts basePath to use the enviroment variable                                	 	                |    ---      	 	     | 30/10/2023        	 	 |
+|                                                        |    feature/retailer     |  9575f63dc93976e8e6da93fbc1e85290f095de20                                     	   |                   feat(develop): added retailer components                                             	 	                   |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product |  20a284de137e8a5a543ffbe6716cabeafe826e40                                     	   |                         Added products section title                                             	 	                         |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product |  eaeda4b011026ce283377358799fe2f0ffd1ff14                                      	  |                 Added shopper components for sidebar testing                                             	 	                 |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product | 02b536ef909f7730f0fa5bfdc5cedc4f823830b5                                       	  |                      Switch from an sidenav to a toolbar                                            	 	                      |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        |     feature/shopper     | 0bdb5100ad94a30201b38bd8d2a1b4d2757b33c1                                       	  |             Maked it so the products view gets loaded by default                                            	 	              |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product | d7da59456741c547abad5929558fadf9518e866b                                       	  |                Added on hover effects to the products images                                             	 	                 |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product | 2247fb42a6a2544a2ce21e17842c570c14cdc9a5                                       	  | Added grid list to show all the other products and formated the titlesss                                                	 	  |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product | 9639500ede58440494346105ddd69a6d5a8290cd                                       	  | Created product detail component and import it to the project                                                            	 	 |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/retailer-events |  6e0e1e54602b8989cf320c65a934de6e40311dc2                                      	  |         feat(events): added events retailer components                                                           	 	         |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        | feature/retailer-events |  108159fdd132610a2bded1121106453978bfb953                                      	  |        feat(events): added events retailer components                                                            	 	         |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        |    feature/retailer     |  7a0fd8034dc6215233eff16e53f47e666ea9f060                                      	  |    feat(retailer): added retailer toolbar and dependencies                                                            	 	    |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        |      feature/home       | d09250192716910ffa37d8bdfe643afa621e68a5                                       	  |                  feat(home): added home view                                                           	 	                   |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        |      feature/home       | 748e5a1eedb2b21e2d0a5e1caf22321cf885f875                                       	  |                 feat(home): added home styles                                                            	 	                 |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        |  feature/shopper-chat   | b7d3e1f0ffefe828c98fc11cf6c0ce95133534ad                                       	  |               feat(shopper): added shopper chat                                                            	 	               |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        | feature/shopper-events  | c4460b5b289e9790d139725b4f62a59ed4a5b59c                                        	 |              feat(events): added shopper events                                                            	 	               |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        | feature/shopper-events  | e046a7ab274d60ab4c82fee7d2615f2cb462c0fd                                        	 |                feat(events):added event styles                                                            	 	                |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        | feature/shopper-events  | 68257e01bf6436a401262000e4ebaf7a6520d362                                        	 |                 feat(events):added responsive                                                            	 	                 |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        | feature/shopper-events  | 67f297b5892bfa597fac56c7bdd2164cdf8ad561                                        	 |              feat(events):added responsive style                                                            	 	              |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        | feature/shopper-events  | b6ec905c17490521a2afe9feb692ba8b6471e22e                                       	  |                 feat(events):added components                                                           	 	                  |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        | feature/shopper-events  | 5eef0d77c7d588b8c44075a83c30353883506e6f                                        	 |              feat(events):added components events                                                           	 	              |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        |         develop         | 8a110fb10cbd1a726a5dad3084d8cb090a00877c                                       	  |              feat(log-in):added log-in component                                                            	 	              |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        |         develop         |  3051cbc2fa7a4fb4708bbe7681012f95996ff617                                      	  |             feat(sign-up):added sign-up component                                                            	 	             |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        |         develop         |  1848768d84081d60f51c4d397bf8b39ce7e277ee                                      	  |  feat(routing and styles):added routing and styles component                                                           	 	   |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        |         develop         | 36b719bcdd930aac4a17b4b05ceee3f5aac0ec3a                                       	  |            feat(app-component):added app component                                                           	 	             |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        |         develop         | edcaf63cc26980732f0340423427c13927588ffd                                       	  |            feat(firebase):added firebase component                                                           	 	             |    ---      	 	     | 2/11/2023        	 	  |
+
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
-Evidencia de la ejecución 
+En este segundo sprint, hemos completado con éxito la implementación de la página web de Rewear. 
+Todos los miembros del equipo han cumplido con sus tareas asignadas, lo que ha permitido la realización y puesta en marcha del aplicación web.
+A continuación, se muestran algunas de las pantallas clave de la página web.
 
-Login de usuarios
+Vista Home de la aplicación web, se muestra un título de presentación y debajo dos enlaces a las vistas correspondientes de los segementos objetivo
 
-![](https://i.ibb.co/2MVS1HC/login-rewear.jpg)
+[![home-rewear-app.png](https://i.postimg.cc/25M7TVnc/home-rewear-app.png)](https://postimg.cc/gwyh2cS8)
 
-Sign Up usuarios
+[![home-rewear-app2.png](https://i.postimg.cc/V6tBhmRY/home-rewear-app2.png)](https://postimg.cc/1n9qnx2T)
 
-![](https://i.ibb.co/TcCWzZm/signup.jpg)
+Vista Shoppers, se muestra un toolbar de opciones de acceso a productos, eventos y chat
+
+[![rewear-s-p.png](https://i.postimg.cc/KcLJqrqn/rewear-s-p.png)](https://postimg.cc/G9LF9Y12)
+
+[![rewear-s-e.png](https://i.postimg.cc/wTpFSyZn/rewear-s-e.png)](https://postimg.cc/yWLFRdVT)
+
+[![rewear-s-c.png](https://i.postimg.cc/5ywgXbYP/rewear-s-c.png)](https://postimg.cc/K38BVX5L)
+
+Vista Retailers,  se muestra un toolbar de opciones de acceso a publicación de products y eventos. Además panel de administración y chat
+
+[![rewear-r-p.png](https://i.postimg.cc/KjXQcRzk/rewear-r-p.png)](https://postimg.cc/1nHDJRDs)
+
+[![rewear-r-e.png](https://i.postimg.cc/XJBQ0wV6/rewear-r-e.png)](https://postimg.cc/G8rkFT8X)
+
+[![rewear-r-c.png](https://i.postimg.cc/N0zpVNvx/rewear-r-c.png)](https://postimg.cc/hJVLQ1jJ)
+
+Vista Login, se registra el inicio de sesión de un usuario con sus credenciales
+
+[![fire-login.jpg](https://i.postimg.cc/Dw5CQvCH/fire-login.jpg)](https://postimg.cc/21bFrDN7)
+
+Vista Sign up, registro de usuario por primera vez
+
+[![fire-signup.jpg](https://i.postimg.cc/3x3SD4Z2/fire-signup.jpg)](https://postimg.cc/qzZXP7S7)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
-No se logró la documentación de  la aplicación para esta entrega. Se implementará para el siguiente entregable
+
+Durante el segundo sprint, hemos logrado un progreso sustancial en la documentación de nuestros servicios web.
+Hemos documentado varios puntos de acceso (Endpoints) que son esenciales para el funcionamiento de nuestra aplicación.
+
+**Endpoints Documentados**
+
+|  Endpoint	   | Verbo HTTP | Parámetros |                            
+|:------------:|:----------:|:----------:|
+|  /products   |    GET     |    ---     | 
+| /products/id |    GET     |     id     | 
+|   /events    |    GET     |    ---     |    
+|    /users    |    GET     |    ---     |  
+|  /products   |    POST    |    ---     |   
+|   /events    |    POST    |    ---     | 
+
 
 ### 5.2.2.7.  Software Deployment Evidence for Sprint Review.
-No se logró el despliegue de la parte frontend de  la aplicación para esta entrega. Se implementará para el siguiente entregable
+
+Para el despliegue del aplicativo utilizamos Firebase, la cual es una plataforma de desarrollo en la nube la cual nos 
+permite hacer público el proyecto, se configuró principalmente a través de comandos en Webstorm y luego accedemos al link 
+que nos provee en su interfaz
+
+[![firebase.png](https://i.postimg.cc/q7zG8866/firebase.png)](https://postimg.cc/rd2WTRJq)
+
+También utilizamos firebase para la autenticación de usuarios y su regsitro en sign up, se muestran los usuarios que se 
+registraron y su credenciales públicas
+
+[![firebase-auth.jpg](https://i.postimg.cc/wMJfDDPQ/firebase-auth.jpg)](https://postimg.cc/m1Lys1TP)
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
+En el segundo sprint, nuestro equipo se enfocó en la implementación del frontend y la revisión y mejora del informe.
+Utilizamos la metodología Gitflow y seguimos un formato Markdown para la colaboración, y los cinco miembros del equipo
+participaron de manera efectiva. Durante este período, se llevaron a cabo las tareas de desarrollo del frontend y se 
+realizaron las correcciones necesarias en el informe y la página de inicio.
 
-Evidencias de colaboración:
-En el primer cuadro mostramos los commits realizados por los integrantes del grupo en un cuadro de barras
+A continuación presentamos un gráfico el cual muestra la cantidad de commits realizados por los integrantes del equipo
 
-![](https://i.ibb.co/Hdt7WTH/commits-rewear.png)
+[![rewear-pulse.png](https://i.postimg.cc/BncvMyDd/rewear-pulse.png)](https://postimg.cc/k2G95TTc)
 
-Presentamos la linea de tiempo sobre la utilización de ramas en el proyecto
-![](https://i.ibb.co/5Y5NDg4/network-rewear.png)
+En este gráfico se presenta el tráfico de uso del repositorio, es decir la veces que fue clonado y visitado
+
+[![rewear-traffic.png](https://i.postimg.cc/3w8x6BFW/rewear-traffic.png)](https://postimg.cc/sMLzG58R)
+
+Por último, el gráfico relacionado a la línea de tiempo de los commits realizados en distintas ramas y su integración
+a la rama principal 'develop'.
+
+[![network-r-1.png](https://i.postimg.cc/DzxwKXx6/network-r-1.png)](https://postimg.cc/p9nHfpb5)
+
+[![network-r-2.png](https://i.postimg.cc/DwKZQFWr/network-r-2.png)](https://postimg.cc/6yYtwkfq)
+
+
