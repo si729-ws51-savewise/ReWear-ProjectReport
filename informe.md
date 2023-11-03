@@ -1615,6 +1615,129 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
     <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
   </tr>
   <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> US02 </td>
+    <td rowspan="2" align="center"> Registro de usuarios en la plataforma </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Agregar formulario de datos</td>
+    <td align="justify"> Se crea un formulario con las validaciones necesarias para que el usuario ingrese datos como sus nombres y correo electronico</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Jesus Sagastegui </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Agregar autenticación de usuarios </td>
+    <td align="center"> Al registrarse un usuario este debe ser guardado para que pueda iniciar sesión con sus credenciales </td>
+    <td align="center"> 2</td>
+    <td align="center"> Jesus Sagastegui </td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US06 </td>
+    <td rowspan="3" align="center">	Selección de Producto </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear componente de productos </td>
+    <td align="center"> En este componente se crea la vista para los compradores con todos los productos disponibles </td>
+    <td align="center"> 2</td>
+    <td align="center"> Adrian Melgar</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Mostrar detalle de producto</td>
+    <td align="center"> Cuando se seleccione un producto este mostrará sus detalles </td>
+    <td align="center"> 2</td>
+    <td align="center"> Adrian Melgar</td>
+    <td align="center"> In-Process</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Agregar al carrito de compras </td>
+    <td align="center"> Se muestra un boton para añadir los productos seleccionados al carrito de compras </td>
+    <td align="center"> 2</td>
+    <td align="center"> Adrian Melgar</td>
+    <td align="center"> In-Process</td>
+  </tr>
+
+   <tr>
+    <td rowspan="1" align="center"> US14 </td>
+    <td rowspan="1" align="center"> Iniciar chat con vendedor  </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Muestra de vendedores disponibles para chatear</td>
+    <td align="center">Se muestran en cards, los nombres de los contactos dispoinbles y un botón para empezar la conversación</td>
+    <td align="center"> 2</td>
+    <td align="center"> Fabrizio Torres </td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="2" align="center"> US18 </td>
+    <td rowspan="2" align="center"> Búsqueda de Ferias  </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Se muestran en los eventos </td>
+    <td align="center"> Se crean cards para mostrar los eventos disponibles, creados por los vendedores</td>
+    <td align="center"> 1</td>
+    <td align="center"> Fabrizio Torres   </td>
+    <td align="center">Done</td>
+  </tr>   
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Agrega interacción al card de evento </td>
+    <td align="center"> Se agrega un botón para confirmar asistencia de un comprador</td>
+    <td align="center"> 1</td>
+    <td align="center"> Fabrizio Torres</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> US19 </td>
+    <td rowspan="2" align="center"> Publicación de Productos </td>
+    <td align="center"> TA01 </td>
+    <td align="center">  Se crea un formulario para ingresar datos del producto</td>
+    <td align="center"> Se implementa un formulario con las validaciones necesarias el cual  detalles del producto a realizar</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>   
+
+  <tr>
+      <td align="center"> TA02 </td>
+    <td align="center"> Se aagrega lógica al componente </td>
+    <td align="center"> Se crea un método POST para que los datos del formualario se envien a la base de datos </td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> US23 </td>
+    <td rowspan="2" align="center"> Publicación de Eventos de Venta </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Se crea un formulario para ingresar datos del evento</td>
+    <td align="center"> Se implementa un formulario con las validaciones necesarias el cual  detalles del evento a publicar</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>   
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Se aagrega lógica al componente </td>
+    <td align="center"> Se crea un método POST para que los datos del formualario se envien a la base de datos </td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center"> Done</td>
+  </tr>
+
+
+  
+
 </table>
 
 ### 5.2.2.3. Development Evidence for Sprint Review.
@@ -1664,6 +1787,8 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
 En este segundo sprint, hemos completado con éxito la implementación de la página web de Rewear. 
 Todos los miembros del equipo han cumplido con sus tareas asignadas, lo que ha permitido la realización y puesta en marcha del aplicación web.
 A continuación, se muestran algunas de las pantallas clave de la página web.
+
+En el siguiente enlace se accede a la aplicación desplegada: https://rewear-38461.web.app/home 
 
 Vista Home de la aplicación web, se muestra un título de presentación y debajo dos enlaces a las vistas correspondientes de los segementos objetivo
 
@@ -1717,6 +1842,8 @@ Hemos documentado varios puntos de acceso (Endpoints) que son esenciales para el
 Para el despliegue del aplicativo utilizamos Firebase, la cual es una plataforma de desarrollo en la nube la cual nos 
 permite hacer público el proyecto, se configuró principalmente a través de comandos en Webstorm y luego accedemos al link 
 que nos provee en su interfaz
+
+Link de la Aplicación desplegada con Firebase: https://rewear-38461.web.app/home
 
 [![firebase.png](https://i.postimg.cc/q7zG8866/firebase.png)](https://postimg.cc/rd2WTRJq)
 
