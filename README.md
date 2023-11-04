@@ -82,7 +82,7 @@ Conventional Commits
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 
-1.1.1. [Descripción de la Startup](/informe.md#111-descripción-de-la-startup)
+1.1.1. [Descripción de la Startup](/Informe.md#111-descripción-de-la-startup)
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
