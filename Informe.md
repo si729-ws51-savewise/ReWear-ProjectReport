@@ -10,30 +10,11 @@
 ## Integrantes
 | Alumno  | Código    |
 |----------|----------|
-| Juan Jesus Calisaya Sanchez	        | u202121935 |
+| Adrian Gonzalo Melgar Takahashi	        | U201819465 |
+| Sebastian Alonso Bustinza Muñoz    | u202123362 |
 | Luis Jesus Sagastegui Rodriguez	    | u202014249 |
 | Fabrizio Torres Solano              | u202014944 |
 | Josue Daniel Valverde Lopez         | u202121440 |
-
-# Registro de Versiones del Informe
-| Versión |  Fecha   | Autor                                                                                 | Descripción de modificación                                                                                                                                              |
-|:-------:|:--------:|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   0.1   | 28/08/23 | Emilia Durán                                                                          | Formato de documento                                                                                                                                                     |
-|   0.2   | 1/09/23  | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                 | Pelfil de integrantes<br>Descripción Profile Start Up<br>Antecedentes y Problematica                                                                                     |
-|   0.3   | 03/09/23 | Emilia Durán<br>Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya | Lean UX Process<br>Segmento objetivo<br>Competidores                                                                                                                     |
-|   0.4   | 04/09/23 | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                 | Diseño, Registro y Analisis de Entrevistas<br>Needfinding<br>User Personas                                                                                               |
-|   0.5   | 06/09/23 | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                 | User Task Matrix<br>User Journey Mapping<br>As-is Scenario Mapping<br>To-Be Scenario Mapping                                                                             |
-|   0.6   | 08/09/23 | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                 | Style Guidelines<br>Information Architecture<br>Landing Page UI Design<br> Web Applications UX/UI Design                                                                 |
-|   0.7   | 09/09/23 | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                 | Web Applications Prototyping<br>Software Object-Oriented Design<br>Database Design<br>Software Configuration Management<br>Software Configuration Management<br>Sprint 1 |
-|   0.8   | 16/09/23 | Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                 | Correccion del problem statement<br>Completar assumptions<br>hypothesis statement<br>registro de entrevistas<br>análisis de entrevistas                                  |
-|   0.9   | 20/09/23 | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                 | Completado y correccion del user stories<br>Impact Mapping<br>Product backlog<br>Student Outcome<br>Registro de versiones<br>Software Development Configuration          |
-|   1.0   | 23/09/23 | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                 | Completado y correccion del user stories<br>Impact Mapping<br>Product backlog<br>Student Outcome<br>Registro de versiones<br>Software Development Configuration          |
-|   1.1   | 26/09/23 | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                 | Sprint 2                                 
-# Student Outcome
-| Criterio específico | Acciones realizadas | Conclusiones | 
-| ---- | ---- | ---- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Luis Jesus Sagastegui Rodriguez:** En compañía de mis compañeros de equipo, pudimos generar una idea innovadora, la cual es la presente en el proyecto, además de debatir ideas sobre como hacer que tenga algún plus adicional.  **Josue Daniel Valverde Lopez:** Debido a las reuniones y a la asesoría del profesor se logró la elección de este proyecto innovador con el fin de mejorar nuestra hablidades y expandir nuestros conocimientos y no enfocarnos en solo proyectos anteriores. **Fabrizio Torres Solano:** En las constantes reuniones que teníamos, en un comienzo nos centrábamos en identificar nuestros posibles competidores, analizando las funcionalidades quebrinda e identificando sus puntos fuertes y débiles para poder generar ideas innovadoras que puedan ser eficientes contra dichos competidores. **Juan Jesús Calisaya Sánchez:** Participando en las reuniones con mis compañeros de equipo, pude aportar ideas factibles que apoyaron al desarrollo del proyecto. Impulsé las iniciativas de mis compañeros y ayudé a solucionar las problemáticas presentadas durante la elaboración de esta entrega.  | **Luis Jesus Sagastegui Rodriguez:** El trabajo en equipo es de suma importancia para poder plantear mejores ideas innovadoras y así poder solucionar alguna problemática de la actualidad.  **Josue Daniel Valverde Lopez:** Gracias a las reuniones que hice con mis compañeros, se pudo elegir un proyecto de idea innovadora con el fin de poder mejorar nuestras habilidades y conocimientos en la programación. **Fabrizio Torres Solano:** En las constantes reuiones se pudo escoger la idea central de este trabajo y poder dar una que otra idea que alimente al proyecto de forma benéfica. **Juan Jesús Calisaya Sánchez:** En las diversas reuniones, se soltaron diversas ideas en las que pude participar y apoyar para el desarrollo del proyecto.|
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Luis Jesus Sagastegui Rodriguez:** Para mejorar la comunicación y mantener una elocuencia para el desarrollo y explicación del producto se realiza entrevistas y charlas grupales para mejorar la habilidad de expresarse con otras personas ya sea fuera o dentro de la universidad. **Josue Daniel Valverde Lopez:** Elabore el desarrollo de mi entrevista a cliente y desarrollo de mockup y prototipo. El desarrollo de estas actividades fue de forma coordinada con mis compañeros y en constante comunicación por si existiera algún corrección o confirmación de la información y formato subida al trabajo. **Fabrizio Torres Solano:** Junto a mis compañeros elaboramos entrevistas para realizar, analizar y plasmar las ideas generales de lo que serán las bases para nuestra idea de StartUp en futuras entregas. **Juan Jesús Calisaya Sánchez:** Mantuve una comunicación constante con mi equipo, informando del progreso de mis tareas asignadas, mis rangos de disponibilidad y comentando acerca de las decisiones tomadas sobre el proyecto. Así también realizé mi entrevista asignada y participé en el video depresentación de esta entrega. |  **Luis Jesus Sagastegui Rodriguez:** Reconozco que es muy importante hablar correctamente a un público como lo pueden ser en las entrevistas a personas aleatorias , además que también es importante la comunicación del equipo para coordinar lo que se preguntará. **Josue Daniel Valverde Lopez:** Es importante mejorar la comunicación y tener una elocuencia para la explicación detallada del producto hacia quienes lo utilizarán. **Fabrizio Torres Solano:** Junto a mis compañeros elegimos las preguntas que haríamos a cada segmento que nos correspondiente, y con esta entrevista me llegó a ampliar la visión que tenía sobre el producto. **Juan Jesús Calisaya Sánchez:** Es bueno mantener la comunicación con el equipo y mantener siempre informado sobre el progreso de mis tareas asignadas, los momentos en los que estoy disponible y ayudando con algunas decisiones. |
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -60,14 +41,21 @@ Mi nombre es Jesus Sagastegui, tengo 20 años y estudio la carrera de Ingenieria
   <img src="https://i.ibb.co/59SDKJ1/Fabrizio.jpg" alt="FotoFabrizio" width="250px" height="250px" />
 </div>
 Mi nombre es Fabrizio, soy estudiante de ingeniería de software. Tengo conocimientos de programación en Python y C++.Me considero una persona responsable, generosa, hábil y competitiva. En el trabajo en el que me encuentro, ayudaré a dar ideas para poder desarrollar de la manera óptima el trabajo y aportaré si alguien solicita ayuda.
-* **Juan Jesús Calisaya Sánchez**
+
+* **Sebastian Alonso Bustinza Muñoz**
 <div align="center">
-  <img src="https://i.ibb.co/xS29YZ1/Juan-Profile.png" alt="Juan_Calisaya_profile" width="250px" height="250px" />
+  <img src="https://i.ibb.co/WcdR9Bg/Whats-App-Image-2023-11-03-at-12-30-08.jpg" width="250px" height="250px" />
 </div>
 
-Mi nombre es Juan Jesús Calisaya Sánchez, tengo 19 años y actualmente curso el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas.
-Tengo conocimientos en los lenguajes de programación C + +,  HTML, CSS y JavaScript. Además entre mis habilidades es ser empático con los demás que ayudará a la realización del proyecto.
+Mi nombre es Sebastian Alonso Bustinza Muñoz, tengo 21 años, estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas, elegí la carrera porque cuando era niño me encantaba la idea de viajar a otro mundo, siempre soñé con poder crear un mundo virtual y me gustaría especializarme en realidad virtual. Tengo conocimientos de programación en C, C++, 
+Python, SQL, NoSQL, MongoDB, conocimientos de Excel, PowerBI, redacción de textos y presentaciones, básico de Java. Me gusta trabajar en equipo y conocer mucha gente.
 
+
+* **Adrian Gonzalo Melgar Takahashi**
+<div align="center">
+  <img src="https://i.ibb.co/WcdR9Bg/Whats-App-Image-2023-11-03-at-12-30-08.jpg" width="250px" height="250px" />
+</div>
+Soy un entusiasta de la tecnología en diversas facetas, y también disfruto colaborar en proyectos en equipo. En cuanto a mis habilidades, sobresale mi experiencia en liderazgo, conocimientos en metodologías ágiles, competencia en codificación utilizando lenguajes como HTML, CSS, JavaScript y Python, y experiencia en la gestión de bases de datos como MySQL, SQL Server y MongoDB.
 
 ## 1.2. Solution Profile
 
@@ -1635,50 +1623,261 @@ El objetivo principal del Sprint 2 es lograr la implementación de la aplicació
     <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
   </tr>
   <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="2" align="center"> US02 </td>
+    <td rowspan="2" align="center"> Registro de usuarios en la plataforma </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Agregar formulario de datos</td>
+    <td align="justify"> Se crea un formulario con las validaciones necesarias para que el usuario ingrese datos como sus nombres y correo electronico</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Jesus Sagastegui </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Agregar autenticación de usuarios </td>
+    <td align="center"> Al registrarse un usuario este debe ser guardado para que pueda iniciar sesión con sus credenciales </td>
+    <td align="center"> 2</td>
+    <td align="center"> Jesus Sagastegui </td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US06 </td>
+    <td rowspan="3" align="center">	Selección de Producto </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear componente de productos </td>
+    <td align="center"> En este componente se crea la vista para los compradores con todos los productos disponibles </td>
+    <td align="center"> 2</td>
+    <td align="center"> Adrian Melgar</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Mostrar detalle de producto</td>
+    <td align="center"> Cuando se seleccione un producto este mostrará sus detalles </td>
+    <td align="center"> 2</td>
+    <td align="center"> Adrian Melgar</td>
+    <td align="center"> In-Process</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Agregar al carrito de compras </td>
+    <td align="center"> Se muestra un boton para añadir los productos seleccionados al carrito de compras </td>
+    <td align="center"> 2</td>
+    <td align="center"> Adrian Melgar</td>
+    <td align="center"> In-Process</td>
+  </tr>
+
+   <tr>
+    <td rowspan="1" align="center"> US14 </td>
+    <td rowspan="1" align="center"> Iniciar chat con vendedor  </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Muestra de vendedores disponibles para chatear</td>
+    <td align="center">Se muestran en cards, los nombres de los contactos dispoinbles y un botón para empezar la conversación</td>
+    <td align="center"> 2</td>
+    <td align="center"> Fabrizio Torres </td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="2" align="center"> US18 </td>
+    <td rowspan="2" align="center"> Búsqueda de Ferias  </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Se muestran en los eventos </td>
+    <td align="center"> Se crean cards para mostrar los eventos disponibles, creados por los vendedores</td>
+    <td align="center"> 1</td>
+    <td align="center"> Fabrizio Torres   </td>
+    <td align="center">Done</td>
+  </tr>   
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Agrega interacción al card de evento </td>
+    <td align="center"> Se agrega un botón para confirmar asistencia de un comprador</td>
+    <td align="center"> 1</td>
+    <td align="center"> Fabrizio Torres</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> US19 </td>
+    <td rowspan="2" align="center"> Publicación de Productos </td>
+    <td align="center"> TA01 </td>
+    <td align="center">  Se crea un formulario para ingresar datos del producto</td>
+    <td align="center"> Se implementa un formulario con las validaciones necesarias el cual  detalles del producto a realizar</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>   
+
+  <tr>
+      <td align="center"> TA02 </td>
+    <td align="center"> Se aagrega lógica al componente </td>
+    <td align="center"> Se crea un método POST para que los datos del formualario se envien a la base de datos </td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> US23 </td>
+    <td rowspan="2" align="center"> Publicación de Eventos de Venta </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Se crea un formulario para ingresar datos del evento</td>
+    <td align="center"> Se implementa un formulario con las validaciones necesarias el cual  detalles del evento a publicar</td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>   
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Se aagrega lógica al componente </td>
+    <td align="center"> Se crea un método POST para que los datos del formualario se envien a la base de datos </td>
+    <td align="center"> 2</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center"> Done</td>
+  </tr>
+
+
   
+
 </table>
 
 ### 5.2.2.3. Development Evidence for Sprint Review.
 
-|                  Repository                   |   Branch    | Commit Id | Commit Message | Commit Message Body |  Committed on (Date)   |
-|:---------------------------------------------:|:-----------:|:---------:|:--------------:|:-------------------:|:----------------------:|
-| https://github.com/si729-ws51-savewise/ReWear |    main     |   4d74bd3b09d6f7468ec51bac3202e678ee7ef98b 	 	    |feat: project created      	 	       |    ---      	 	     | 28/09/2023        	 	  |
-|                                               | 	ad-product |   95a6ea2fccd849532a7d2647f2be34aa46acfb35 	 	    | feat(add-product): added component for post products     	 	       |    ---       	 	    | 28/09/2023         	 	 |
+|                       Repository                       |         Branch          |                                     Commit Id                                     |                                                        Commit Message                                                        | Commit Message Body |  Committed on (Date)  |
+|:------------------------------------------------------:|:-----------------------:|:---------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-------------------:|:---------------------:|
+| https://github.com/si729-ws51-savewise/rewear-frontend |         develop         |                    c0c369a40b91e49d5a96828757ea6edc392cefa8	 	                    |                                                feat: project created      	 	                                                |    ---      	 	     | 22/10/2023        	 	 |
+|                                                        |         develop         |                    e14e36483fcddc7db8f1afebc1306f981c88f163 	                     |                                          Added basic script for json-server     	 	                                          |    ---      	 	     | 24/10/2023        	 	 |
+|                                                        |         develop         |                    f6d032551ea6d1105e39f99a05e8f27dbe009183 	                     |                                          Added clothing items to the db.json    	 	                                          |    ---      	 	     | 24/10/2023        	 	 |
+|                                                        |         develop         |          0f7ef1968d27e1c0dd9310bcde11f739ccc874f9                     	           |                             feat(rewear): added basic structure of project                  	 	                              |    ---      	 	     | 25/10/2023        	 	 |
+|                                                        |         develop         |      285ddf8b6c04e3cde2421dfaeae69e9403c32f84                             	       |                              feat(rewear): added dependencies                               	 	                              |    ---      	 	     | 25/10/2023        	 	 |
+|                                                        |      feature/home       |      a25277884e33dfac0ffee09938c495d4d43ccbc7                             	       |                                  feat(home): fixed navbar                               	 	                                  |    ---      	 	     | 25/10/2023        	 	 |
+|                                                        |     feature/shared      |      62f121a66ca9bf60f7f21fd04be7d18cbb1bd4fb                              	      |                             feat(shared): added base service                                	 	                              |    ---      	 	     | 25/10/2023        	 	 |
+|                                                        | feature/shopper-product |    49b44f28a56b46562403fd14dadda1cb5598039e                                  	    |                                Created products component                                	 	                                 |    ---      	 	     | 30/10/2023        	 	 |
+|                                                        |     feature/shared      |  c2b5f48a909d07f97a5fb63de189bdd47c8d1499                                     	   |                             Implemented enviroment variables                                 	 	                             |    ---      	 	     | 30/10/2023        	 	 |
+|                                                        |     feature/shared      |  2ab4d025ce432abbacfc4d4f082b45a6c253f324                                     	   |                Updated base.api.ts basePath to use the enviroment variable                                	 	                |    ---      	 	     | 30/10/2023        	 	 |
+|                                                        |    feature/retailer     |  9575f63dc93976e8e6da93fbc1e85290f095de20                                     	   |                   feat(develop): added retailer components                                             	 	                   |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product |  20a284de137e8a5a543ffbe6716cabeafe826e40                                     	   |                         Added products section title                                             	 	                         |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product |  eaeda4b011026ce283377358799fe2f0ffd1ff14                                      	  |                 Added shopper components for sidebar testing                                             	 	                 |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product | 02b536ef909f7730f0fa5bfdc5cedc4f823830b5                                       	  |                      Switch from an sidenav to a toolbar                                            	 	                      |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        |     feature/shopper     | 0bdb5100ad94a30201b38bd8d2a1b4d2757b33c1                                       	  |             Maked it so the products view gets loaded by default                                            	 	              |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product | d7da59456741c547abad5929558fadf9518e866b                                       	  |                Added on hover effects to the products images                                             	 	                 |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product | 2247fb42a6a2544a2ce21e17842c570c14cdc9a5                                       	  | Added grid list to show all the other products and formated the titlesss                                                	 	  |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/shopper-product | 9639500ede58440494346105ddd69a6d5a8290cd                                       	  | Created product detail component and import it to the project                                                            	 	 |    ---      	 	     | 31/10/2023        	 	 |
+|                                                        | feature/retailer-events |  6e0e1e54602b8989cf320c65a934de6e40311dc2                                      	  |         feat(events): added events retailer components                                                           	 	         |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        | feature/retailer-events |  108159fdd132610a2bded1121106453978bfb953                                      	  |        feat(events): added events retailer components                                                            	 	         |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        |    feature/retailer     |  7a0fd8034dc6215233eff16e53f47e666ea9f060                                      	  |    feat(retailer): added retailer toolbar and dependencies                                                            	 	    |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        |      feature/home       | d09250192716910ffa37d8bdfe643afa621e68a5                                       	  |                  feat(home): added home view                                                           	 	                   |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        |      feature/home       | 748e5a1eedb2b21e2d0a5e1caf22321cf885f875                                       	  |                 feat(home): added home styles                                                            	 	                 |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        |  feature/shopper-chat   | b7d3e1f0ffefe828c98fc11cf6c0ce95133534ad                                       	  |               feat(shopper): added shopper chat                                                            	 	               |    ---      	 	     | 1/11/2023        	 	  |
+|                                                        | feature/shopper-events  | c4460b5b289e9790d139725b4f62a59ed4a5b59c                                        	 |              feat(events): added shopper events                                                            	 	               |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        | feature/shopper-events  | e046a7ab274d60ab4c82fee7d2615f2cb462c0fd                                        	 |                feat(events):added event styles                                                            	 	                |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        | feature/shopper-events  | 68257e01bf6436a401262000e4ebaf7a6520d362                                        	 |                 feat(events):added responsive                                                            	 	                 |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        | feature/shopper-events  | 67f297b5892bfa597fac56c7bdd2164cdf8ad561                                        	 |              feat(events):added responsive style                                                            	 	              |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        | feature/shopper-events  | b6ec905c17490521a2afe9feb692ba8b6471e22e                                       	  |                 feat(events):added components                                                           	 	                  |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        | feature/shopper-events  | 5eef0d77c7d588b8c44075a83c30353883506e6f                                        	 |              feat(events):added components events                                                           	 	              |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        |         develop         | 8a110fb10cbd1a726a5dad3084d8cb090a00877c                                       	  |              feat(log-in):added log-in component                                                            	 	              |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        |         develop         |  3051cbc2fa7a4fb4708bbe7681012f95996ff617                                      	  |             feat(sign-up):added sign-up component                                                            	 	             |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        |         develop         |  1848768d84081d60f51c4d397bf8b39ce7e277ee                                      	  |  feat(routing and styles):added routing and styles component                                                           	 	   |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        |         develop         | 36b719bcdd930aac4a17b4b05ceee3f5aac0ec3a                                       	  |            feat(app-component):added app component                                                           	 	             |    ---      	 	     | 2/11/2023        	 	  |
+|                                                        |         develop         | edcaf63cc26980732f0340423427c13927588ffd                                       	  |            feat(firebase):added firebase component                                                           	 	             |    ---      	 	     | 2/11/2023        	 	  |
+
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
-Evidencia de la ejecución 
+En este segundo sprint, hemos completado con éxito la implementación de la página web de Rewear. 
+Todos los miembros del equipo han cumplido con sus tareas asignadas, lo que ha permitido la realización y puesta en marcha del aplicación web.
+A continuación, se muestran algunas de las pantallas clave de la página web.
 
-Login de usuarios
+En el siguiente enlace se accede a la aplicación desplegada: https://rewear-38461.web.app/home 
 
-![](https://i.ibb.co/2MVS1HC/login-rewear.jpg)
+Vista Home de la aplicación web, se muestra un título de presentación y debajo dos enlaces a las vistas correspondientes de los segementos objetivo
 
-Sign Up usuarios
+[![home-rewear-app.png](https://i.postimg.cc/25M7TVnc/home-rewear-app.png)](https://postimg.cc/gwyh2cS8)
 
-![](https://i.ibb.co/TcCWzZm/signup.jpg)
+[![home-rewear-app2.png](https://i.postimg.cc/V6tBhmRY/home-rewear-app2.png)](https://postimg.cc/1n9qnx2T)
+
+Vista Shoppers, se muestra un toolbar de opciones de acceso a productos, eventos y chat
+
+[![rewear-s-p.png](https://i.postimg.cc/KcLJqrqn/rewear-s-p.png)](https://postimg.cc/G9LF9Y12)
+
+[![rewear-s-e.png](https://i.postimg.cc/wTpFSyZn/rewear-s-e.png)](https://postimg.cc/yWLFRdVT)
+
+[![rewear-s-c.png](https://i.postimg.cc/5ywgXbYP/rewear-s-c.png)](https://postimg.cc/K38BVX5L)
+
+Vista Retailers,  se muestra un toolbar de opciones de acceso a publicación de products y eventos. Además panel de administración y chat
+
+[![rewear-r-p.png](https://i.postimg.cc/KjXQcRzk/rewear-r-p.png)](https://postimg.cc/1nHDJRDs)
+
+[![rewear-r-e.png](https://i.postimg.cc/XJBQ0wV6/rewear-r-e.png)](https://postimg.cc/G8rkFT8X)
+
+[![rewear-r-c.png](https://i.postimg.cc/N0zpVNvx/rewear-r-c.png)](https://postimg.cc/hJVLQ1jJ)
+
+Vista Login, se registra el inicio de sesión de un usuario con sus credenciales
+
+[![fire-login.jpg](https://i.postimg.cc/Dw5CQvCH/fire-login.jpg)](https://postimg.cc/21bFrDN7)
+
+Vista Sign up, registro de usuario por primera vez
+
+[![fire-signup.jpg](https://i.postimg.cc/3x3SD4Z2/fire-signup.jpg)](https://postimg.cc/qzZXP7S7)
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
-No se logró la documentación de  la aplicación para esta entrega. Se implementará para el siguiente entregable
+
+Durante el segundo sprint, hemos logrado un progreso sustancial en la documentación de nuestros servicios web.
+Hemos documentado varios puntos de acceso (Endpoints) que son esenciales para el funcionamiento de nuestra aplicación.
+
+**Endpoints Documentados**
+
+|  Endpoint	   | Verbo HTTP | Parámetros |                            
+|:------------:|:----------:|:----------:|
+|  /products   |    GET     |    ---     | 
+| /products/id |    GET     |     id     | 
+|   /events    |    GET     |    ---     |    
+|    /users    |    GET     |    ---     |  
+|  /products   |    POST    |    ---     |   
+|   /events    |    POST    |    ---     | 
+
 
 ### 5.2.2.7.  Software Deployment Evidence for Sprint Review.
-No se logró el despliegue de la parte frontend de  la aplicación para esta entrega. Se implementará para el siguiente entregable
+
+Para el despliegue del aplicativo utilizamos Firebase, la cual es una plataforma de desarrollo en la nube la cual nos 
+permite hacer público el proyecto, se configuró principalmente a través de comandos en Webstorm y luego accedemos al link 
+que nos provee en su interfaz
+
+Link de la Aplicación desplegada con Firebase: https://rewear-38461.web.app/home
+
+[![firebase.png](https://i.postimg.cc/q7zG8866/firebase.png)](https://postimg.cc/rd2WTRJq)
+
+También utilizamos firebase para la autenticación de usuarios y su regsitro en sign up, se muestran los usuarios que se 
+registraron y su credenciales públicas
+
+[![firebase-auth.jpg](https://i.postimg.cc/wMJfDDPQ/firebase-auth.jpg)](https://postimg.cc/m1Lys1TP)
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
+En el segundo sprint, nuestro equipo se enfocó en la implementación del frontend y la revisión y mejora del informe.
+Utilizamos la metodología Gitflow y seguimos un formato Markdown para la colaboración, y los cinco miembros del equipo
+participaron de manera efectiva. Durante este período, se llevaron a cabo las tareas de desarrollo del frontend y se 
+realizaron las correcciones necesarias en el informe y la página de inicio.
 
-Evidencias de colaboración:
-En el primer cuadro mostramos los commits realizados por los integrantes del grupo en un cuadro de barras
+A continuación presentamos un gráfico el cual muestra la cantidad de commits realizados por los integrantes del equipo
 
-![](https://i.ibb.co/Hdt7WTH/commits-rewear.png)
+[![rewear-pulse.png](https://i.postimg.cc/BncvMyDd/rewear-pulse.png)](https://postimg.cc/k2G95TTc)
 
-Presentamos la linea de tiempo sobre la utilización de ramas en el proyecto
-![](https://i.ibb.co/5Y5NDg4/network-rewear.png)
+En este gráfico se presenta el tráfico de uso del repositorio, es decir la veces que fue clonado y visitado
 
+[![rewear-traffic.png](https://i.postimg.cc/3w8x6BFW/rewear-traffic.png)](https://postimg.cc/sMLzG58R)
 
-##Conclusiones
-- Las herramientas utilzadas como UXPressia Nos ayudaron a indentificar mejor a nuestros segmentos, entenderlos y a partir de este punto elaborar una solución que sea de su beneficio.
+Por último, el gráfico relacionado a la línea de tiempo de los commits realizados en distintas ramas y su integración
+a la rama principal 'develop'.
 
--Figma nos ayudó a prototipar nuestros productos de forma sencilla y con gran precisión. Elaboramos elementos como wireframes, mock ups y wireflows.
+[![network-r-1.png](https://i.postimg.cc/DzxwKXx6/network-r-1.png)](https://postimg.cc/p9nHfpb5)
 
-- ReWear es una herramienta valiosa para reducir el desperdicio textil y promover un consumo más responsable. Al dar una segunda vida a la ropa, estamos reduciendo la presión sobre los recursos naturales y ayudando a combatir el cambio climático. La incorporación de eventos físicos de venta también puede fomentar una mayor conciencia sobre la importancia de la moda sostenible en la comunidad.
+[![network-r-2.png](https://i.postimg.cc/DwKZQFWr/network-r-2.png)](https://postimg.cc/6yYtwkfq)
 
-- Aunque el proyecto no está concluido en su etapa inicial, reconozco que hay espacio para el crecimiento y la mejora continua. como startup nos sentimos emocionado por las posibilidades de expansión, la incorporación de nuevas características y la retroalimentación de los usuarios para hacer que ReWear sea aún mejor en el futuro.
