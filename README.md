@@ -81,10 +81,9 @@ Conventional Commits
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
-### 1.1.1. Descripción de la Startup
-SaveWise es un grupo de estudiantes de la carrera de ingeniría de software, una de las principales
-características que identifica a este grupo es el interés y el impulso de ventas de producto reutilizables para reducir los daños ambientales.
-Dado que, actualmente estamos aprendiendo nuevas tecnologías, vemos la posibilidad de aplicar estos conocimientos en una solución que impacte positivamente en la sociedad. Por esta razón, juntando las características que identifican al grupo, además de la necesidad de influir positivamente en la sociedad y animales se creó "ReWear" una aplicación web para la venta y compra de ropa de segunda mano.
+
+1.1.1. [Descripción de la Startup](/develop/informe.md#111-descripción-de-la-startup)
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 * **Daniel Valverde Lopez**
