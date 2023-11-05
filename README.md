@@ -41,6 +41,7 @@
 |   2.1   | 01/11/23 | Adrian Melgar | Added user endpoint evidence                  
 |   2.2   | 02/10/23 | Adrian Melgar | Updated user services documentation evidence 
 |   2.3   | 03/10/23 | Adrian Melgar | Added extra image showing the commits in the backend repo 
+|   2.4   | 03/10/23 | Adrian Melgar | Updated evidence for sprint review
 |   2.5   | 05/10/23 | Fabrizio Torres<br>Adrian Melgar<br>Sebastian Bustinza <br>Josue Valverde <br> Jesus Rodriguez | Sprint 3                      |     
 
 # Student Outcome
