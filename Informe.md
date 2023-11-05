@@ -55,7 +55,7 @@ Python, SQL, NoSQL, MongoDB, conocimientos de Excel, PowerBI, redacción de text
 
 * **Adrian Gonzalo Melgar Takahashi**
 <div align="center">
-  <img src="https://i.ibb.co/WcdR9Bg/Whats-App-Image-2023-11-03-at-12-30-08.jpg" width="250px" height="250px" />
+  <img src="https://i.postimg.cc/SxyHc2DJ/2.jpg" width="250px" height="350px" />
 </div>
 Soy un entusiasta de la tecnología en diversas facetas, y también disfruto colaborar en proyectos en equipo. En cuanto a mis habilidades, sobresale mi experiencia en liderazgo, conocimientos en metodologías ágiles, competencia en codificación utilizando lenguajes como HTML, CSS, JavaScript y Python, y experiencia en la gestión de bases de datos como MySQL, SQL Server y MongoDB.
 
