@@ -2181,22 +2181,37 @@ Web Service:
             <td>api/v1/products</td>
         </tr>
         <tr>
-            <td rowspan="4">Profile</td>
+            <td rowspan="7">User</td>
         </tr>
         <tr>
             <td>POST</td>
             <td>No tiene</td>
-            <td>api/v1/profiles</td>
+            <td>api/v1/users</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}/login</td>
         </tr>
         <tr>
             <td>GET</td>
-            <td>{companyId}</td>
-            <td>api/v1/profiles/{profileId}</td>
-        </tr>
-         <tr>
-            <td>GET</td>
             <td>No tiene</td>
-            <td>api/v1/profiles</td>
+            <td>api/v1/users</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}</td>
         </tr>
         <tr>
             <td rowspan="4">Events</td>
