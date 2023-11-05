@@ -38,7 +38,10 @@
 |   0.9   | 20/09/23 | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                          | Completado y correccion del user stories<br>Impact Mapping<br>Product backlog<br>Student Outcome<br>Registro de versiones<br>Software Development Configuration          |
 |   1.0   | 23/09/23 | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                          | Completado y correccion del user stories<br>Impact Mapping<br>Product backlog<br>Student Outcome<br>Registro de versiones<br>Software Development Configuration          |
 |   1.1   | 26/09/23 | Fabrizio Torres<br>Luis Sagastegui<br>Josue Valverde<br>Juan Calisaya                          | Sprint 2                                   |      
-|   1.2   | 22/10/23 | Fabrizio Torres<br>Adrian Melgar<br>Sebastian Bustinza <br>Josue Valverde <br> Jesus Rodriguez | Sprint 3                                      |     
+|   2.1   | 01/11/23 | Adrian Melgar | Added user endpoint evidence                  
+|   2.2   | 02/10/23 | Adrian Melgar | Updated user services documentation evidence 
+|   2.3   | 03/10/23 | Adrian Melgar | Added extra image showing the commits in the backend repo 
+|   2.5   | 05/10/23 | Fabrizio Torres<br>Adrian Melgar<br>Sebastian Bustinza <br>Josue Valverde <br> Jesus Rodriguez | Sprint 3                      |     
 
 # Student Outcome
 
