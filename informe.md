@@ -10,10 +10,13 @@
 ## Integrantes
 | Alumno  | Código    |
 |----------|----------|
-| Juan Jesus Calisaya Sanchez	        | u202121935 |
+| Adrian Gonzalo Melgar Takahashi	        | U201819465 |
+| Sebastian Alonso Bustinza Muñoz    | u202123362 |
 | Luis Jesus Sagastegui Rodriguez	    | u202014249 |
 | Fabrizio Torres Solano              | u202014944 |
 | Josue Daniel Valverde Lopez         | u202121440 |
+
+Repositorio del reporte: https://github.com/si729-ws51-savewise/ReWear-ProjectReport 
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -40,13 +43,21 @@ Mi nombre es Jesus Sagastegui, tengo 20 años y estudio la carrera de Ingenieria
   <img src="https://i.ibb.co/59SDKJ1/Fabrizio.jpg" alt="FotoFabrizio" width="250px" height="250px" />
 </div>
 Mi nombre es Fabrizio, soy estudiante de ingeniería de software. Tengo conocimientos de programación en Python y C++.Me considero una persona responsable, generosa, hábil y competitiva. En el trabajo en el que me encuentro, ayudaré a dar ideas para poder desarrollar de la manera óptima el trabajo y aportaré si alguien solicita ayuda.
-* **Juan Jesús Calisaya Sánchez**
+
+* **Sebastian Alonso Bustinza Muñoz**
 <div align="center">
-  <img src="https://i.ibb.co/xS29YZ1/Juan-Profile.png" alt="Juan_Calisaya_profile" width="250px" height="250px" />
+  <img src="https://i.ibb.co/WcdR9Bg/Whats-App-Image-2023-11-03-at-12-30-08.jpg" width="250px" height="250px" />
 </div>
 
-Mi nombre es Juan Jesús Calisaya Sánchez, tengo 19 años y actualmente curso el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas.
-Tengo conocimientos en los lenguajes de programación C + +,  HTML, CSS y JavaScript. Además entre mis habilidades es ser empático con los demás que ayudará a la realización del proyecto.
+Mi nombre es Sebastian Alonso Bustinza Muñoz, tengo 21 años, estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas, elegí la carrera porque cuando era niño me encantaba la idea de viajar a otro mundo, siempre soñé con poder crear un mundo virtual y me gustaría especializarme en realidad virtual. Tengo conocimientos de programación en C, C++, 
+Python, SQL, NoSQL, MongoDB, conocimientos de Excel, PowerBI, redacción de textos y presentaciones, básico de Java. Me gusta trabajar en equipo y conocer mucha gente.
+
+
+* **Adrian Gonzalo Melgar Takahashi**
+<div align="center">
+  <img src="https://i.ibb.co/WcdR9Bg/Whats-App-Image-2023-11-03-at-12-30-08.jpg" width="250px" height="250px" />
+</div>
+Soy un entusiasta de la tecnología en diversas facetas, y también disfruto colaborar en proyectos en equipo. En cuanto a mis habilidades, sobresale mi experiencia en liderazgo, conocimientos en metodologías ágiles, competencia en codificación utilizando lenguajes como HTML, CSS, JavaScript y Python, y experiencia en la gestión de bases de datos como MySQL, SQL Server y MongoDB.
 
 
 ## 1.2. Solution Profile
