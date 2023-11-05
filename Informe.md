@@ -55,7 +55,7 @@ Python, SQL, NoSQL, MongoDB, conocimientos de Excel, PowerBI, redacción de text
 
 * **Adrian Gonzalo Melgar Takahashi**
 <div align="center">
-  <img src="https://i.ibb.co/WcdR9Bg/Whats-App-Image-2023-11-03-at-12-30-08.jpg" width="250px" height="250px" />
+  <img src="https://i.postimg.cc/SxyHc2DJ/2.jpg" width="250px" height="350px" />
 </div>
 Soy un entusiasta de la tecnología en diversas facetas, y también disfruto colaborar en proyectos en equipo. En cuanto a mis habilidades, sobresale mi experiencia en liderazgo, conocimientos en metodologías ágiles, competencia en codificación utilizando lenguajes como HTML, CSS, JavaScript y Python, y experiencia en la gestión de bases de datos como MySQL, SQL Server y MongoDB.
 
@@ -2093,6 +2093,20 @@ Presentación del sprint review, se exhiben a través de una tabla los registros
 |                                                                | feature/products                	 | 9c6df5006a7363c661fc4374ead564bff1b80bdd                                        	 	 | feat(products): added product command from resource to assembler                                       	 	 |    ---       	 	    | 04/11/2023         	 	 |
 |                                                                | feature/products                	 | 195f86be49c43570afe8729809339483f0652c0a                                        	 	 |       feat(products): added product resource from entity                                        	 	        |    ---       	 	    | 04/11/2023         	 	 |
 |                                                                | feature/products                	 | 959915dcdff0b5909b176a2c2cd01059a9c236ba                                        	 	 |            feat(products): added product controller                                        	 	             |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/profiles                	 | e34ed785ae203c327e2b1f2dcd72ffe2d67da681                                        	 	 |            Changed application properties                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | f7b1bc78c93aad1192e7d24076709c14a3fd9d77                                        	 	 |            Added User Aggregate                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | d5ea2be0c01deba50e569bd1e52d73d27b7b3435                                        	 	 |            Added User Commands                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | 5933fb5e6e8bfd5115e2ab65501c345d531466ce                                        	 	 |            Added User Queries                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | 34e5968514f2d59157a9138055945adca2d55f87                                      	 	 |            Added User Services                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | fa7c795c4aed4924d820f323686b85d577be5f2f                                      	 	 |            Added User UserRepository                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | cc4863f6eb264425b4fd60ffe7b87e418abc1e61                                      	 	 |            Implemented user endpoints                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | cc4863f6eb264425b4fd60ffe7b87e418abc1e61                                      	 	 |            Implemented user endpoints                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | 560769920412def6cab787f695650cf0e9e18e5d                                      	 	 |            Implemented user update by id and user deleate by id                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | bf6bdb9cbbb322a2267320754edcc57c0f1ea903                                      	 	 |            Changed application properties db information back to the deployed version                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | 345df1e95a3a52be8ec5a8a0fe8dd4991ba625c8                                      	 	 |            Added a small summary for each user endpoint                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | feature/profiles                	 | 5ad9889c9f32c1a78ba972025429ace89c004cc9                                      	 	 |            Fixed spelling for User controller desciption                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+|                                                                | develop                	 | acb3f79acef795a753cfc411a0d1673990535adc                                      	 	 |            Updated login endpoint route                                        	 	             |    ---       	 	    | 05/11/2023         	 	 |
+
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -2124,7 +2138,25 @@ https://rewear-platform.zeabur.app/swagger-ui/index.html
 Evidencia de Conexión a Base de datos desplegada
 [![db-connection-rewear.png](https://i.postimg.cc/j2WM4cbW/db-connection-rewear.png)](https://postimg.cc/ctS7sQ6Z)
 
-* Endpoint /profiles
+* Endpoint /user
+  
+[![a](https://i.postimg.cc/MG048jJx/a.png)](https://postimg.cc/GB2zFtpS)
+[![b](https://i.postimg.cc/Qt0yFGMy/b.png)](https://postimg.cc/BLPgzzHT)
+[![c](https://i.postimg.cc/zvQ2kCKw/c.png)](https://postimg.cc/kRxyJtjD)
+[![d](https://i.postimg.cc/WzzfrWFb/d.png)](https://postimg.cc/n98kf1G6)
+[![e](https://i.postimg.cc/52LKwF0v/e.png)](https://postimg.cc/PCfMHJ1r)
+[![f](https://i.postimg.cc/h4ZYgB6J/f.png)](https://postimg.cc/xqH5yW0Y)
+[![g](https://i.postimg.cc/SNXvxPbg/g.png)](https://postimg.cc/Tp69kCwb)
+[![h](https://i.postimg.cc/cJW9T4gz/h.png)](https://postimg.cc/SnZfx4GL)
+[![i](https://i.postimg.cc/c4V5gcs0/i.png)](https://postimg.cc/ZCxLXpBM)
+[![j](https://i.postimg.cc/GpjMfwvm/j.png)](https://postimg.cc/cKrMKzDp)
+[![f](https://i.postimg.cc/h4ZYgB6J/f.png)](https://postimg.cc/xqH5yW0Y)
+[![k](https://i.postimg.cc/LX6yKCVB/k.png)](https://postimg.cc/xkhGLPhc)
+[![l](https://i.postimg.cc/G27XcF70/l.png)](https://postimg.cc/1nFGBq1M)
+[![m](https://i.postimg.cc/prmqym4m/m.png)](https://postimg.cc/n9tvPhHx)
+[![n](https://i.postimg.cc/9FsR6L23/n.png)](https://postimg.cc/Tpq3mqhQ)
+
+
 * Endpoint /events
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
@@ -2163,22 +2195,37 @@ Web Service:
             <td>api/v1/products</td>
         </tr>
         <tr>
-            <td rowspan="4">Profile</td>
+            <td rowspan="7">User</td>
         </tr>
         <tr>
             <td>POST</td>
             <td>No tiene</td>
-            <td>api/v1/profiles</td>
+            <td>api/v1/users</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}/login</td>
         </tr>
         <tr>
             <td>GET</td>
-            <td>{companyId}</td>
-            <td>api/v1/profiles/{profileId}</td>
-        </tr>
-         <tr>
-            <td>GET</td>
             <td>No tiene</td>
-            <td>api/v1/profiles</td>
+            <td>api/v1/users</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{userId}</td>
+            <td>api/v1/users/{userId}</td>
         </tr>
         <tr>
             <td rowspan="4">Events</td>
@@ -2266,10 +2313,11 @@ A continuación el gráfico de barras de la cantidad de commits por integrante
 Registro de commits en las ramas creadas para el desarrollo del backend
 
 [![commits-back.png](https://i.postimg.cc/sX6b9KMS/commits-back.png)](https://postimg.cc/dkCWJ2mt)
+[![1](https://i.postimg.cc/63SBm52d/1.png)](https://postimg.cc/XGfMZWgJ)
 
 Lista de dependencias usadas en el proyecto backend
 
-[![dependencies-java.png](https://i.postimg.cc/5yXTPvzr/dependencies-java.png)](https://postimg.cc/p5tsrmqQ)
+[![dependencies-java.png](https://i.postimg.cc/5yXTPvzr/dependencies-java.png)](https://postimg.cc/p5tsrmqQ
 
 Cronología de los commits y la integración a la rama principal 'Develop'
 
@@ -2411,3 +2459,14 @@ podriamos mejorar pero en general le gusto mucho la pagina web.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 ## 5.4. Video About-the-Product.
+En esta sección, se muestra el video "About the product", que demuestra el propósito, las ventajas y las características de la aplicación desarrollada por el equipo.
+
+Enlace youtube: https://youtu.be/LZRO5nPhfnE
+Enlace Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/EU1QU_esrdpGooIPKQVsQX4BtfL2sSrPBDnR7AtkBwfLvA?e=A9XSMk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+* Video About the team
+
+El video resume el proceso laboral llevado a cabo por el equipo, en el que los miembros presentan las tareas que llevaron a cabo para lograr los objetivos establecidos en el curso. Es importante resaltar que los integrantes del grupo destacan la importancia de la comunicación oral y escrita como una forma efectiva de compartir ideas y comunicar el progreso del proyecto.
+
+Enlace youtube: https://youtu.be/4Vq1LxGR6vc
+Enlace Microsoft Stream: https://upcedupe-my.sharepoint.com/personal/u201819465_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201819465%5Fupc%5Fedu%5Fpe%2FDocuments%2Fabout%2Dthe%2Dteam%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
