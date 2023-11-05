@@ -2346,12 +2346,67 @@ permite moverse libremente, no sale ni un anuncio, existe consistencia en todo m
 sencillo, es difícil cometer un error, uno se va acostumbrando al uso de la página, no se siente limitado y sugiere usar 
 más colores vivos.
 
+**Segmento: Vendedores**
+
+| Entrevista |     Nombre y Apellido     |  Edad   |  Distrito  |        Timing inicial        |         Timing final         |
+|:----------:|:-------------------------:|:-------:|:----------:|:----------------------------:|:----------------------------:|
+|     1      |       Gloria Chavez       | 20 años |  Magdalena | [0:00](https://n9.cl/qgtvy)  | [7:05](https://n9.cl/qgtvy)  |
+
+[![Entrevista-Gloria-Chavez.png](https://i.postimg.cc/GpCyN7d8/Entrevista-Gloria-Chavez.png)](https://postimg.cc/rDfsR9dM)
+
+Resumen:
+
+Gloria Chavez tiene 20 años de edad, ella cuenta con una pagina en Instagram en donde suele vender sus ropas usadas y que 
+ya no le brindan ningun uso. Al usar nuestra aplicacion se encontraba muy comoda utilizandolo ya que las instruccines eran
+claras. Tambien comento que era un aplicativo muy didactico y de facil uso, con caracteristicas muy completas respecto a la 
+publicacion de productos. Tambien comento que le parecio muy buena idea el apartado de eventos ya que muy pocas veces se 
+generan eventos de venta de vestimenta de segunda mano y que seria de gran ayuda, ya que contactaria con mas gente. 
+
+
+| Entrevista |      Nombre y Apellido       |  Edad   |  Distrito  |        Timing inicial        |         Timing final         |
+|:----------:|:----------------------------:|:-------:|:----------:|:----------------------------:|:----------------------------:|
+|     2      |        Monica Mendoza        | 42 años | San Miguel | [7:05](https://n9.cl/qgtvy)  | [14:53](https://n9.cl/qgtvy) |
+
+[![Entrevista-Monica-Mendoza.png](https://i.postimg.cc/nzxG4VCW/Entrevista-Monica-Mendoza.png)](https://postimg.cc/Z9fNZSPP)
+
+Resumen:
+
+Monica Mendoza es un pequeña empresaria pero que solo realiza ventas de manera presencial, no esta muy familiarizada con la
+tecnologia por lo que al comienzo le costo un poco adaptarse a la aplicacion web. Pero le gusto que sea muy simple, por lo que
+es mas facil de navegar entre las vistas e instrucciones. Le gusta la combinacion de colores que cuenta la pagina porque son 
+colores llamativos para cualquier usuario y sobretodo amigable. Siente que es una pagina completa y necesaria para realizar
+las tareas especificas de cualquier vendedor. 
+
+| Entrevista |      Nombre y Apellido       |  Edad   |  Distrito  |        Timing inicial        |         Timing final         |
+|:----------:|:----------------------------:|:-------:|:----------:|:----------------------------:|:----------------------------:|
+|      3     |         Luz Sanchez          | 50 años |   Callao   | [14:53](https://n9.cl/qgtvy) | [33:15](https://n9.cl/qgtvy) |
+
+[![Entrevista-Luz-Sanchez.png](https://i.postimg.cc/7P2qGxg4/Entrevista-Luz-Sanchez.png)](https://postimg.cc/xqnwBVxp)
+
+Resumen:
+
+Luz Sanchez de 50 años de edad cuenta con una tienda fisica de vestimenta, pero tambien atiende de manera virtual por Facebook y 
+WhatsApp. Ella al comienzo de la entrevista, comentó que no le atraia mucho los colores de la landing debido a que no se podia 
+apreciar del todo por los colores pasteles de fondo. Luego de ello, le gustó la organizacion de la pagina web y que contaba con
+todas las caracteristicas posible para poder realizar una venta. Nos brindaba tambien varios consejos en donde podriamos mejorar, 
+tanto en las publicaciones de eventos y de productos. 
+
+
+
 * Análisis de entrevistas del segmento compradores:
 En las tres entrevistas, es decir el 100% de los usuarios elogiaron la claridad en la ubicación dentro de la interfaz y
 la lógica en el flujo de tareas de la aplicación. Todos destacaron la libertad de movimiento y la consistencia en el diseño,
 lo que facilitó su experiencia. Además, uno de los usuarios mencionó la velocidad de la acción en línea y la falta de anuncios.
 También encontraron que es fácil corregir errores y reconocer opciones. Sin embargo, expresaron sugerencias para mejorar la
 estética del diseño, como el uso de paletas de colores más vibrantes, elementos gráficos modernos y colores llamativos, otro sugirió la incorporación de colores vivos.
+
+* Análisis de entrevistas del segmento vendedores:
+En las tres entrevistas realizadas a las diferentes personas, obtuvimos buenos comentarios respecto a la organización que teniamos
+de la página web. Tambien que contababamos con las herramientas necesarias para poder cumplir con las expectativas de cualquier
+persona que desee publicar un producto. De igual manera, les gusto la paleta de colores elegido para la pagina web, ya que lucia
+de una manera muy amigable y llamativa para cualquier usuario. Solo una de las entrevistadas dio algunos consejos en lo que
+podriamos mejorar pero en general le gusto mucho la pagina web. 
+
 ---
 
 ### 5.3.3. Evaluaciones según heurísticas.
