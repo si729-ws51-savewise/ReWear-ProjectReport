@@ -140,3 +140,147 @@ Conventional Commits
 3.3. [Impact Mapping](Informe.md#33-impact-mapping)
 
 3.4. [Product Backlog](Informe.md#34-product-backlog)
+
+## Capítulo IV: Product Design
+
+4.1. [Style Guidelines](Informe.md#41-style-guidelines)
+
+4.1.1. [General Style Guidelines](Informe.md#411-general-style-guidelines)
+
+4.2. [Information Architecture](Informe.md#42-information-architecture)
+
+4.2.1. [Organization Systems](Informe.md#421-organization-systems)
+
+4.2.2. [Labeling Systems](Informe.md#422-labeling-systems)
+
+4.2.3. [SEO Tags and Meta Tags](Informe.md#423-seo-tags-and-meta-tags)
+
+4.2.4. [Searching Systems](Informe.md#424-searching-systems)
+
+4.2.5. [Navigation Systems](Informe.md#425-navigation-systems)
+
+4.3. Landing Page UI Design
+
+4.3.1. [Landing Page Wireframe](Informe.md#431-landing-page-wireframe)
+
+4.3.2. [Landing Page Mock-up](Informe.md#432-landing-page-mock-up)
+
+4.4. [Web Applications UX/UI Design](Informe.md#44-web-applications-uxui-design)
+
+4.4.1. [Web Applications Wireframes](Informe.md#441-web-applications-wireframes)
+
+4.4.2. [Web Applications Wireflow Diagrams](Informe.md#442-web-applications-wireflow-diagrams)
+
+4.4.2. [Web Applications Mock-ups](Informe.md#443-web-applications-mock-ups)
+
+4.4.3. Web Applications User Flow Diagrams.
+
+4.5. Web Applications Prototyping.
+
+4.6. Domain-Driven Software Architecture.
+
+4.6.1. [Software Architecture Context Diagram](Informe.md#461-software-architecture-context-diagram)
+
+4.6.2. [Software Architecture Container Diagrams](Informe.md#462-software-architecture-container-diagrams)
+
+4.6.3. [Software Architecture Components Diagrams](Informe.md#463-software-architecture-components-diagrams)
+
+4.7. Software Object-Oriented Design.
+
+4.7.1. [Class Diagrams](Informe.md#471-class-diagrams)
+
+4.7.2. [Class Dictionary](Informe.md#472-class-dictionary)
+
+4.8. [Database Design](Informe.md#48-database-design)
+
+4.8.1. [Database Diagram](Informe.md#481-database-diagram)
+
+## Capítulo V: Product Implementation, Validation & Deployment
+
+5.1. [Software Configuration Management](Informe.md#51-software-configuration-management)
+
+5.1.1. [Software Development Environment Configuration](Informe.md#511-software-development-environment-configuration)
+
+5.1.2. [Source Code Management](Informe.md#512-source-code-management)
+
+5.1.3. [Source Code Style Guide & Conventions](Informe.md#513-source-code-style-guide--conventions)
+
+5.1.4. [Software Deployment Configuration](Informe.md#514-software-deployment-configuration)
+
+5.2. Landing Page, Services & Applications Implementation.
+
+5.2.1. [Sprint 1](Informe.md#521-sprint-1)
+
+5.2.1.1. [Sprint Planning 1](Informe.md#5211-sprint-planning-1)
+
+5.2.1.2. [Sprint Backlog 1](Informe.md#5212-sprint-backlog-1)
+
+5.2.1.3. [Development Evidence for Sprint Review](Informe.md#5213-development-evidence-for-sprint-review)
+
+5.2.1.4. [Testing Suite Evidence for Sprint Review](Informe.md#5214-testing-suite-evidence-for-sprint-review)
+
+5.2.1.5. [Execution Evidence for Sprint Review](Informe.md#5215-execution-evidence-for-sprint-review)
+
+5.2.1.6. [Services Documentation Evidence for Sprint Review](Informe.md#5216-services-documentation-evidence-for-sprint-review)
+
+5.2.1.7. [Software Deployment Evidence for Sprint Review](Informe.md#5217-software-deployment-evidence-for-sprint-review)
+
+5.2.1.8. [Team Collaboration Insights during Sprint](Informe.md#5218-team-collaboration-insights-during-sprint)
+
+5.2.2. [Sprint 2](Informe.md#522-sprint-2)
+
+5.2.2.1. [Sprint Planning 2](Informe.md#5221-sprint-planning-2)
+
+5.2.2.2. [Sprint Backlog 2](Informe.md#5222-sprint-backlog-2)
+
+5.2.2.3. [Development Evidence for Sprint Review](Informe.md#5223-development-evidence-for-sprint-review)
+
+5.2.2.4. [Testing Suite Evidence for Sprint Review](Informe.md#5224-testing-suite-evidence-for-sprint-review)
+
+5.2.2.5. [Execution Evidence for Sprint Review](Informe.md#5225-execution-evidence-for-sprint-review)
+
+5.2.2.6. [Services Documentation Evidence for Sprint Review](Informe.md#5226-services-documentation-evidence-for-sprint-review)
+
+5.2.2.7. [Software Deployment Evidence for Sprint Review](Informe.md#5227--software-deployment-evidence-for-sprint-review)
+
+5.2.2.8. [Team Collaboration Insights during Sprint](Informe.md#5228-team-collaboration-insights-during-sprint)
+
+5.2.3. [Sprint 3]()
+
+5.2.3.1. [Sprint Planning 3]()
+
+5.2.3.2. [Sprint Backlog 3]()
+
+5.2.3.3. [Development Evidence for Sprint Review]()
+
+5.2.3.4. [Testing Suite Evidence for Sprint Review]()
+
+5.2.3.5. [Execution Evidence for Sprint Review]()
+
+5.2.1.6. [Services Documentation Evidence for Sprint Review]()
+
+5.2.1.7. [Software Deployment Evidence for Sprint Review]()
+
+5.2.1.8. [Team Collaboration Insights during Sprint]()
+
+5.3. [Validation Interviews]()
+
+5.3.1. [Diseño de Entrevistas]()
+
+5.3.2. [Registro de Entrevistas]()
+
+5.3.3. [Evaluaciones según heurísticas]()
+
+5.4. [Video About-the-Product]()
+
+
+
+**Conclusiones**
+
+**Conclusiones y recomendaciones**
+
+**Video About-the-Team**
+
+**Bibliografía**
+
+**Anexos**
