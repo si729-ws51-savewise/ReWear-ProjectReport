@@ -16,6 +16,8 @@
 | Fabrizio Torres Solano              | u202014944 |
 | Josue Daniel Valverde Lopez         | u202121440 |
 
+Repositorio del reporte: https://github.com/si729-ws51-savewise/ReWear-ProjectReport 
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -1882,3 +1884,475 @@ a la rama principal 'develop'.
 
 [![network-r-2.png](https://i.postimg.cc/DwKZQFWr/network-r-2.png)](https://postimg.cc/6yYtwkfq)
 
+### 5.2.3. Sprint 3
+En esta sección, se detalla el proceso completo de implementación en fase inicial del backend desarrollado en Spring Boot. Se aborda de manera grupal, detallando planificación del avance desde el sprint 2 hasta la puesta en producción de este componente en nuestro proyecto.
+### 5.2.3.1. Sprint Planning 3
+En el Sprint Planning 3 se planificó para la elaboración del backend y mejora continua sobre el frontend del proyecto. Mediante una reunión grupal se determinaron y acordaron distintas tareas para su elaboración
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023-10-29</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>8:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Daniel Valverde</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Fabrizio Torres Solano / Adrian Melgar / Josue Daniel Valverde Lopez / Luis Jesus Sagastegui Rodriguez
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>
+                Quedaron pendientes completar las vistas del frontend de la aplicación del sprint anterior. Tampoco se logró un despliegue
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                En este sprint se prioriza cumplir con la mejor continua y la construcción en fase inicial del backend del proyecto
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>
+                Implementar en fase inicial el backend del proyecto en el framework de Spring Boot 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                30
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                30
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+### 5.2.2.2. Sprint Backlog 3
+El objetivo principal del Sprint 3 es lograr la implementación en fase incial del backend, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3" align="center"> TS01 </td>
+    <td rowspan="3" align="center"> Acceder al Endpoint Profiles  </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context de Profiles</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Adrian Mlegar </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Adrián Melgar</td>
+    <td align="center">Done</td>
+  </tr>
+
+ <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el snake case</td>
+    <td align="center"> 1</td>
+    <td align="center"> Adrian Melgar</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US23 </td>
+    <td rowspan="3" align="center"> Acceder Endpoint Products</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context de Store</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el archivo de configuracion</td>
+    <td align="center"> 1</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center">Done</td>
+  </tr>
+
+ <tr>
+    <td rowspan="3" align="center"> TS02 </td>
+    <td rowspan="3" align="center"> Acceder al Endpoint Events</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context Events</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Fabrizio Torres </td>
+    <td align="center">In progress</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Jesús Sagastegui </td>
+    <td align="center">In progress</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> Agrega dependencias necesarias en pom.xml </td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Bustinza</td>
+    <td align="center">In Progress</td>
+  </tr>
+</table>
+
+### 5.2.3.3. Development Evidence for Sprint Review.
+Presentación del sprint review, se exhiben a través de una tabla los registros de cambios realizados durante el transcurso del tercer sprint.
+#### Backend-VetCare
+
+|                           Repository                           |              Branch               |                                      Commit Id                                      |                                               Commit Message                                               | Commit Message Body |  Committed on (Date)   |
+|:--------------------------------------------------------------:|:---------------------------------:|:-----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|:-------------------:|:----------------------:|
+| https://github.com/si729-ws51-savewise/rewear-backend-platform |              develop              |           8ad50808054f3fafce9f29155e6eb0308400fcf9                    	 	           |                                       chore: initial commit     	 	                                        |    ---      	 	     | 04/11/2023        	 	  |
+|                                                                |        feature/shared    	        |     bc32b2682c299b3eb150c871b576b223ec1716c6                               	 	      |                            feat(shared): added auditable model              	 	                            |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                |      feature/shared        	      |   c9178f1d86a4694ec84f97c098df6ad09893b0af                                   	 	    |                 feat(shared): added snake case naming strategy                        	 	                  |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                |    feature/shared           	     |    0c6e7a5760895b880764805929c1e8553345d1d3                                  	 	    |                   feat(shared): added open api configuration                        	 	                    |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                |  feature/products             	   |  68f4d0b2e979e9a11d3448f254ab03d1b9ac4482                                      	 	  |             feat(products): added value objects records                                    	 	             |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products               	  |  81658e2f9ace0f969e2e49e40b8b74841d15c803                                      	 	  |               feat(products): added product aggregate                                    	 	               |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products               	  |  06ec6a5c6175d588ff6820de2cb6e7164d6a0fb8                                      	 	  |                feat(products): added product queries                                    	 	                |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products                	 | 6328008f1a82f4268a9c922a34060d55661e502b                                        	 	 |       feat(products): added CreateProductCommand command                                        	 	        |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products                	 | 8587a362caa7d8ae192fbbcc3d5c532459532e86                                        	 	 |          feat(products): added Product Command Service                                        	 	          |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products                	 | a31d45185b52c30d1037e9750139d3886e25fb5e                                        	 	 |           feat(products): added Product Query Service                                        	 	           |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products                	 | 9b50f2b6fde8d4b040dd363b1143434576c67256                                        	 	 |  feat(products): added product command service implementation                                        	 	   |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products                	 | c0e9e282046e3eb775318643b488306a3511a981                                        	 	 |   feat(products): added product query service implementation                                        	 	    |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products                	 | 05bb1afa67a0db9a20e6e187f570068bc4e47652                                        	 	 |       feat(products): added interface product repository                                        	 	        |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products                	 | f95cd540b7a813cfb767e63eb1558810a40975d7                                        	 	 |             feat(products): added product resources                                        	 	             |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products                	 | 9c6df5006a7363c661fc4374ead564bff1b80bdd                                        	 	 | feat(products): added product command from resource to assembler                                       	 	 |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products                	 | 195f86be49c43570afe8729809339483f0652c0a                                        	 	 |       feat(products): added product resource from entity                                        	 	        |    ---       	 	    | 04/11/2023         	 	 |
+|                                                                | feature/products                	 | 959915dcdff0b5909b176a2c2cd01059a9c236ba                                        	 	 |            feat(products): added product controller                                        	 	             |    ---       	 	    | 04/11/2023         	 	 |
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+| Repository                                            | Branch | Commit Id                                | Commit Message              | Commit Message Body | Commited on (Date) |
+|-------------------------------------------------------|--------|------------------------------------------|-----------------------------|---------------------|--------------------|
+| https://github.com/si729-ws51-savewise/ReWear-Feature | master | c8176225d3334c64bf24502bdd3c1eedacfb6257 | feature gherkin implemented |                     |                    |
+
+
+### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En el tercer sprint, se logró un progreso inicial en la construcción del back-end de la aplicación web. 
+Esta actualización incorpora la puesta en marcha de forma pública. A continuación, se exhiben las pruebas documentadas 
+que respaldan estos avances:
+
+https://rewear-platform.zeabur.app/swagger-ui/index.html
+
+[![swagger-rewear.png](https://i.postimg.cc/xTvvDhtf/swagger-rewear.png)](https://postimg.cc/hfGzVCk6)
+
+* Endpoint /prducts (GET & POST)
+
+[![rewear-p-p.png](https://i.postimg.cc/vZGWQhNW/rewear-p-p.png)](https://postimg.cc/8jnF4RD5)
+
+[![product-r-p.png](https://i.postimg.cc/jj5Pf5K2/product-r-p.png)](https://postimg.cc/21s1RC1N)
+
+[![product-g-r.png](https://i.postimg.cc/W1S0tZBx/product-g-r.png)](https://postimg.cc/PCpCRCrM)
+
+[![product-g-id.png](https://i.postimg.cc/5NdBrb5K/product-g-id.png)](https://postimg.cc/LhDgYdbj)
+
+Evidencia de Conexión a Base de datos desplegada
+[![db-connection-rewear.png](https://i.postimg.cc/j2WM4cbW/db-connection-rewear.png)](https://postimg.cc/ctS7sQ6Z)
+
+* Endpoint /profiles
+* Endpoint /events
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección se presentan los endspoints realizados en el sprint y detallan de las acciones CRUD. Tales como los enlaces que se están utilizando para los Endpoints.
+
+Link del Swagger UI: https://rewear-platform.zeabur.app/swagger-ui/index.html
+
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="4">Product</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/products</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{productId}</td>
+            <td>api/v1/products/{productId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/products</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Profile</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/profiles</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{companyId}</td>
+            <td>api/v1/profiles/{profileId}</td>
+        </tr>
+         <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/profiles</td>
+        </tr>
+        <tr>
+            <td rowspan="4">Events</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/events</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{eventId}</td>
+            <td>api/v1/events/{eventId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No Tiene</td>
+            <td>api/v1/events</td>
+        </tr>
+    </tbody>
+</table>
+
+### 5.2.3.7.  Software Deployment Evidence for Sprint Review.
+
+En esta sección se mostrará cómo se logró el despligue de los servicios creados para este sprint. Se describirá generalmente
+los pasos y plataformas utilizadas.
+
+* Despligue de la base de datos
+
+Para el despligue de la base de datos utilizamos la plataforma Railway, esta plataforma nos permite crear soluciones en la nube
+
+Creamos el proyecto seleccionando el servicio que necesitamos
+
+[![c-project.png](https://i.postimg.cc/QxRj1N7m/c-project.png)](https://postimg.cc/2V7pfD2L)
+
+Esperamos a que termine de levantarse y se mostrarán los datos para la conexión remota
+
+[![mysql-ds.png](https://i.postimg.cc/htTcrFbB/mysql-ds.png)](https://postimg.cc/jDxpxFFg)
+
+Por último usamos MySQL Workbench para ingresar los datos de conexión
+
+[![connect-ev.png](https://i.postimg.cc/vH1Q4x4D/connect-ev.png)](https://postimg.cc/56VcG0qM)
+
+Railway es una plataforma la cual ayuda al despligue en la nube, de forma sencilla, en pocos pasos podemos tener un servicio levantado y funcional. 
+No obstante, el plan de alojamiento es de un periodo muy corto.
+
+
+* Despligue de la aplicación spring boot
+
+Para el despliegue del servicio backend utilizamos Zeabur, la cual es una plataforma que nos ayuda a implementar los servicios de forma muy sencilla.
+
+Primero debemos seleccionar la región 
+
+[![region-zea.png](https://i.postimg.cc/K8G4R8hW/region-zea.png)](https://postimg.cc/xcZ9ZYCG)
+
+A continuación debemos configurar los datos generales del proyecto
+
+[![config-zea.png](https://i.postimg.cc/FRWY4tB6/config-zea.png)](https://postimg.cc/CB8hG2YC)
+
+Seleccionamos la fuente del servicio a desplegar, en este caso un repositorio de Github
+[![select-git.png](https://i.postimg.cc/PJCPf3G5/select-git.png)](https://postimg.cc/m1Gb8S2v)
+
+[![project.png](https://i.postimg.cc/tTCswR2P/project.png)](https://postimg.cc/jWmqJTVd)
+
+Esperamos a que levante el servicio
+
+[![projectrewear.png](https://i.postimg.cc/wBzy5QNw/projectrewear.png)](https://postimg.cc/MnspqRdB)
+
+Por útlimo, configuramos el dominio para acceder al servicio por medio de una enlace público
+
+[![domain-rew.png](https://i.postimg.cc/1zKgvVcs/domain-rew.png)](https://postimg.cc/bGsNJJBB)
+
+El enlace de la aplicación de spring boot desplegada: https://rewear-platform.zeabur.app/swagger-ui/index.html
+
+### 5.2.3.8. Team Collaboration Insights during Sprint.
+En esta entrega, nuestra meta principal fue la implementación en fase inicial del backend del proyecto. Para llevar a cabo este objetivo,
+hicimos uso de diversas herramientas como GitHub, Zeabur, Railway, IntellIj Idea, etc. A continuación,
+vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo
+Durante este período también, se terminaron las tareas de desarrollo del frontend y se realizaron las correcciones necesarias en el informe aplicando la mejora continua.
+
+A continuación el gráfico de barras de la cantidad de commits por integrante
+
+[![back-commits.png](https://i.postimg.cc/DmVjBNnW/back-commits.png)](https://postimg.cc/n9kGL0sZ)
+
+Registro de commits en las ramas creadas para el desarrollo del backend
+
+[![commits-back.png](https://i.postimg.cc/sX6b9KMS/commits-back.png)](https://postimg.cc/dkCWJ2mt)
+
+Lista de dependencias usadas en el proyecto backend
+
+[![dependencies-java.png](https://i.postimg.cc/5yXTPvzr/dependencies-java.png)](https://postimg.cc/p5tsrmqQ)
+
+Cronología de los commits y la integración a la rama principal 'Develop'
+
+[![network-back.png](https://i.postimg.cc/pdBwyPxs/network-back.png)](https://postimg.cc/B8XYV9jF)
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+PREGUNTAS INTRODUCTORIAS:
+* ¿Cuál es su nombre completo?
+* ¿Qué edad tiene? 
+* ¿En qué distrito reside actualmente?
+* ¿Cuál es su ocupación?
+
+#### Explicación de los alcances de la demostración: 
+* Landing Page
+* Principales tareas en la aplicación frontend
+
+PREGUNTAS PRINCIPALES:
+* ¿Crees que siempre está claro en qué parte de la aplicación te encuentras? (Visibilidad del estado del sistema)
+* ¿La aplicación sigue un flujo lógico y natural para realizar tareas específicas? (Coincidencia entre el sistema y el mundo real)
+* ¿La aplicación te permite moverte libremente y realizar acciones sin restricciones innecesarias? (Control y libertad del usuario)
+* ¿Encuentras que los elementos de la interfaz son consistentes en toda la aplicación? (Consistencia y estándares)
+* ¿Te resulta sencillo corregir un error si lo cometes durante el uso de la aplicación?(Prevención de errores)
+* ¿Encuentras que las opciones y funciones son fáciles de reconocer sin necesidad de recordar su ubicación? (Reconocimiento en lugar de recuerdo)
+* ¿Te sientes limitado en cuanto a la forma en que puedes interactuar con la aplicación? (Flexibilidad y eficiencia de uso)
+* ¿Existen aspectos del diseño que podrían mejorarse para una mejor comprensión y atractivo visual? (Diseño estético y minimalista)
+### 5.3.2. Registro de Entrevistas.
+
+**Segmento: Compradores**
+
+| Entrevista |     Nombre y Apellido     |  Edad   |  Distrito  |        Timing inicial        |         Timing final         |
+|:----------:|:-------------------------:|:-------:|:----------:|:----------------------------:|:----------------------------:|
+|     1      | Juan De Dios Muñoz Negrón | 71 años | Los Olivos | [0:00](https://n9.cl/ce7bdh) | [4:58](https://n9.cl/ce7bdh) |
+
+[![Entrevista-Juan-Mu-oz.png](https://i.postimg.cc/hGfSFJV9/Entrevista-Juan-Mu-oz.png)](https://postimg.cc/1g1xw3Ct)
+
+Resumen:
+
+Juan De Dios es un jubilado de 71 años que desea regalar ropa a sus nietos, al usar nuestra aplicación web, encontró 
+que la aplicación es clara en cuanto a la ubicación dentro de la interfaz y sigue un flujo lógico y se siente como una 
+acción que haría en el mundo real. Consideró que ofrece libertad de movimiento y acciones sin restricciones innecesarias,
+manteniendo una consistencia en el diseño. Además, afirmó que es fácil corregir errores y reconocer opciones. Sugirió
+mejoras en la estética del diseño, cómo utilizar otras paletas de colores.
+
+
+
+| Entrevista |      Nombre y Apellido       |  Edad   |  Distrito  |        Timing inicial        |         Timing final         |
+|:----------:|:----------------------------:|:-------:|:----------:|:----------------------------:|:----------------------------:|
+|     2      | Shirley Marlene Muñoz Ibañez | 45 años | Los Olivos | [4:58](https://n9.cl/ce7bdh) | [9:05](https://n9.cl/ce7bdh) |
+
+[![Entrevista-Shirley-Mu-oz.png](https://i.postimg.cc/vZPQS7xY/Entrevista-Shirley-Mu-oz.png)](https://postimg.cc/xXzDXzPh)
+
+Resumen:
+
+Shirley Muñoz es una nutricionista, tiene 45 años y está interesada en comprar ropa deportiva, al usar nuestra aplicación 
+web destacó la amigabilidad de la aplicación y su claridad en la ubicación. Encontró que la aplicación sigue un flujo lógico, 
+ofrece libertad en la interacción y mantiene la uniformidad en el diseño. Apreció la presencia de opciones para corregir 
+errores y señaló la facilidad de reconocimiento de opciones. Sugirió mejoras en el diseño, como elementos gráficos
+modernos y una paleta de colores llamativa.
+
+---
+
+| Entrevista |         Nombre y Apellido          |  Edad   |  Distrito  |        Timing inicial        |         Timing final          |
+|:----------:|:----------------------------------:|:-------:|:----------:|:----------------------------:|:-----------------------------:|
+|     3      | Francisco Edmundo Jimenez Bustinza | 48 años | Los Olivos | [9:05](https://n9.cl/ce7bdh) | [13:13](https://n9.cl/ce7bdh) |
+
+[![Entrevista-Francisco-Jimenez.png](https://i.postimg.cc/5tTffxmD/Entrevista-Francisco-Jimenez.png)](https://postimg.cc/5HBh3WTm)
+
+Resumen:
+
+Francisco Jimenez tiene 48 años, reside en Los Olivos y está interesado en comprar ropa al usar nuestra aplicación señaló
+que siempre está claro en qué parte se encuentra, señala que la acción online es más rápido mediante la aplicación, le 
+permite moverse libremente, no sale ni un anuncio, existe consistencia en todo momento, es uso de esta aplicación es 
+sencillo, es difícil cometer un error, uno se va acostumbrando al uso de la página, no se siente limitado y sugiere usar 
+más colores vivos.
+
+* Análisis de entrevistas del segmento compradores:
+En las tres entrevistas, es decir el 100% de los usuarios elogiaron la claridad en la ubicación dentro de la interfaz y
+la lógica en el flujo de tareas de la aplicación. Todos destacaron la libertad de movimiento y la consistencia en el diseño,
+lo que facilitó su experiencia. Además, uno de los usuarios mencionó la velocidad de la acción en línea y la falta de anuncios.
+También encontraron que es fácil corregir errores y reconocer opciones. Sin embargo, expresaron sugerencias para mejorar la
+estética del diseño, como el uso de paletas de colores más vibrantes, elementos gráficos modernos y colores llamativos, otro sugirió la incorporación de colores vivos.
+---
+
+### 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About-the-Product.
