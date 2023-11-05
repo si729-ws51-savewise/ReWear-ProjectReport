@@ -2299,10 +2299,11 @@ A continuación el gráfico de barras de la cantidad de commits por integrante
 Registro de commits en las ramas creadas para el desarrollo del backend
 
 [![commits-back.png](https://i.postimg.cc/sX6b9KMS/commits-back.png)](https://postimg.cc/dkCWJ2mt)
+[![1](https://i.postimg.cc/63SBm52d/1.png)](https://postimg.cc/XGfMZWgJ)
 
 Lista de dependencias usadas en el proyecto backend
 
-[![dependencies-java.png](https://i.postimg.cc/5yXTPvzr/dependencies-java.png)](https://postimg.cc/p5tsrmqQ)
+[![dependencies-java.png](https://i.postimg.cc/5yXTPvzr/dependencies-java.png)](https://postimg.cc/p5tsrmqQ
 
 Cronología de los commits y la integración a la rama principal 'Develop'
 
