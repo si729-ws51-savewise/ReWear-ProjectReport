@@ -2124,7 +2124,25 @@ https://rewear-platform.zeabur.app/swagger-ui/index.html
 Evidencia de Conexión a Base de datos desplegada
 [![db-connection-rewear.png](https://i.postimg.cc/j2WM4cbW/db-connection-rewear.png)](https://postimg.cc/ctS7sQ6Z)
 
-* Endpoint /profiles
+* Endpoint /user
+  
+[![a](https://i.postimg.cc/MG048jJx/a.png)](https://postimg.cc/GB2zFtpS)
+[![b](https://i.postimg.cc/Qt0yFGMy/b.png)](https://postimg.cc/BLPgzzHT)
+[![c](https://i.postimg.cc/zvQ2kCKw/c.png)](https://postimg.cc/kRxyJtjD)
+[![d](https://i.postimg.cc/WzzfrWFb/d.png)](https://postimg.cc/n98kf1G6)
+[![e](https://i.postimg.cc/52LKwF0v/e.png)](https://postimg.cc/PCfMHJ1r)
+[![f](https://i.postimg.cc/h4ZYgB6J/f.png)](https://postimg.cc/xqH5yW0Y)
+[![g](https://i.postimg.cc/SNXvxPbg/g.png)](https://postimg.cc/Tp69kCwb)
+[![h](https://i.postimg.cc/cJW9T4gz/h.png)](https://postimg.cc/SnZfx4GL)
+[![i](https://i.postimg.cc/c4V5gcs0/i.png)](https://postimg.cc/ZCxLXpBM)
+[![j](https://i.postimg.cc/GpjMfwvm/j.png)](https://postimg.cc/cKrMKzDp)
+[![f](https://i.postimg.cc/h4ZYgB6J/f.png)](https://postimg.cc/xqH5yW0Y)
+[![k](https://i.postimg.cc/LX6yKCVB/k.png)](https://postimg.cc/xkhGLPhc)
+[![l](https://i.postimg.cc/G27XcF70/l.png)](https://postimg.cc/1nFGBq1M)
+[![m](https://i.postimg.cc/prmqym4m/m.png)](https://postimg.cc/n9tvPhHx)
+[![n](https://i.postimg.cc/9FsR6L23/n.png)](https://postimg.cc/Tpq3mqhQ)
+
+
 * Endpoint /events
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
