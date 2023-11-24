@@ -81,7 +81,6 @@ del ABET – EAC - Student Outcome 3.
 | | <strong><em>Sebastian Bustinza</em></strong><ul><li><strong>TB1</strong><br><em>Sebastian Bustinza</em><br>No participó (cambio de grupo)</li><li><strong>TP</strong><br><em>Sebastian Bustinza</em><br>No participó (cambio de grupo)</li><li><strong>TB2</strong><br><em>Sebastian Bustinza</em><br>Conduje entrevistas de validación con los usuarios con el propósito de entender su vivencia en relación a la aplicación. Esto permitió compartir el estado actual de avance del proyecto y obtener comentarios acerca de la percepción del cliente sobre la propuesta.</li><li><strong>TF</strong><br><em>Sebastian Bustinza</em><br>Implementación de mejoras en el Landing page, participé activamente de todas las reuniones, mejore en el skill de creación de secciones.</li></ul>                      |                       | 
 
 
-
 # Project Report Collaboration Insights
 
 En la TB1 entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas que representan los commits realizados por cada miembro del equipo
