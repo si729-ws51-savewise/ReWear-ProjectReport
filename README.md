@@ -260,11 +260,29 @@ Conventional Commits
 
 5.2.3.5. [Execution Evidence for Sprint Review](Informe.md#5235-execution-evidence-for-sprint-review)
 
-5.2.1.6. [Services Documentation Evidence for Sprint Review](Informe.md#5236-services-documentation-evidence-for-sprint-review)
+5.2.3.6. [Services Documentation Evidence for Sprint Review](Informe.md#5236-services-documentation-evidence-for-sprint-review)
 
-5.2.1.7. [Software Deployment Evidence for Sprint Review](Informe.md#5237--software-deployment-evidence-for-sprint-review)
+5.2.3.7. [Software Deployment Evidence for Sprint Review](Informe.md#5237--software-deployment-evidence-for-sprint-review)
 
-5.2.1.8. [Team Collaboration Insights during Sprint](Informe.md#5238-team-collaboration-insights-during-sprint)
+5.2.3.8. [Team Collaboration Insights during Sprint](Informe.md#5238-team-collaboration-insights-during-sprint)
+
+5.2.4. [Sprint 4](Informe.md#2279-sprint-4)
+
+5.2.4.1. [Sprint Planning 4](Informe.md#2281-sprint-planning-4)
+
+5.2.4.2. [Sprint Backlog 4](/Informe.md#2353-sprint-backlog-4)
+
+5.2.4.3. [Development Evidence for Sprint Review](Informe.md#2465-development-evidence-for-sprint-review)
+
+5.2.4.4. [Testing Suite Evidence for Sprint Review](Informe.md#2489-testing-suite-evidence-for-sprint-review)
+
+5.2.4.5. [Execution Evidence for Sprint Review](Informe.md#2496-execution-evidence-for-sprint-review)
+
+5.2.4.6. [Services Documentation Evidence for Sprint Review](Informe.md#2522-services-documentation-evidence-for-sprint-review)
+
+5.2.4.7. [Software Deployment Evidence for Sprint Review](Informe.md#2596--software-deployment-evidence-for-sprint-review)
+
+5.2.4.8. [Team Collaboration Insights during Sprint](Informe.md#2648-team-collaboration-insights-during-sprint)
 
 5.3. [Validation Interviews](Informe.md#53-validation-interviews)
 
