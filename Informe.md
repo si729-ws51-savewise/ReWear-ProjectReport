@@ -2308,20 +2308,455 @@ Durante este período también, se terminaron las tareas de desarrollo del front
 
 A continuación el gráfico de barras de la cantidad de commits por integrante
 
-[![back-commits.png](https://i.postimg.cc/DmVjBNnW/back-commits.png)](https://postimg.cc/n9kGL0sZ)
+[![a](https://i.postimg.cc/nhHs5xvt/a.png)](https://postimg.cc/56RNYZ7P)
 
 Registro de commits en las ramas creadas para el desarrollo del backend
 
-[![commits-back.png](https://i.postimg.cc/sX6b9KMS/commits-back.png)](https://postimg.cc/dkCWJ2mt)
-[![1](https://i.postimg.cc/63SBm52d/1.png)](https://postimg.cc/XGfMZWgJ)
+[![b](https://i.postimg.cc/FKzYrxWW/b.png)](https://postimg.cc/bGXyL1jk)
+[![c](https://i.postimg.cc/9fkrrqsW/c.png)](https://postimg.cc/Jyb1Ft1g)
+[![d](https://i.postimg.cc/htpJRYrQ/d.png)](https://postimg.cc/ZWvYrVXJ)
 
 Lista de dependencias usadas en el proyecto backend
 
-[![dependencies-java.png](https://i.postimg.cc/5yXTPvzr/dependencies-java.png)](https://postimg.cc/p5tsrmqQ
+[![1](https://i.postimg.cc/tgGqWhpk/1.png)](https://postimg.cc/Yv8BwL4L)
+[![1](https://i.postimg.cc/FHLFYP51/2.png)](https://postimg.cc/ts9GfNgH)
 
 Cronología de los commits y la integración a la rama principal 'Develop'
 
-[![network-back.png](https://i.postimg.cc/pdBwyPxs/network-back.png)](https://postimg.cc/B8XYV9jF)
+[![2](https://i.postimg.cc/52QxGssb/3.png)](https://postimg.cc/xXYDN3r4)
+
+
+### 5.2.4. Sprint 4
+En esta sección, se detalla la conexión entre el backend y el frontend
+### 5.2.4.1. Sprint Planning 4
+En el Sprint Planning 4 se planificó para la elaboración del backend y mejora continua sobre el frontend del proyecto,para que se puedan unir . Mediante una reunión grupal se acordó las distintas tareas que se tenián que hacer y cosas por corregir de entregas anteriores.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023-11-20</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>8:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Fabrizio Torres </td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Fabrizio Torres Solano / Adrian Melgar / Josue Daniel Valverde Lopez / Luis Jesus Sagastegui Rodriguez
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>
+                Quedaron pendientes completar las vistas del frontend de la aplicación del sprint anterior. Tampoco se logró un despliegue
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                En este sprint se prioriza cumplir con la mejor continua y la construcción en fase inicial del backend del proyecto
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>
+              Implementación del backend para la conexión con el frontend
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                30
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                30
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+### 5.2.4.2. Sprint Backlog 4
+El objetivo principal del Sprint 4 es lograr la implementación en fase incial del backend, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 4</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3" align="center"> TS01 </td>
+    <td rowspan="3" align="center"> Acceder al Endpoint Profiles  </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context de Profiles</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Adrian Mlegar </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Adrián Melgar</td>
+    <td align="center">Done</td>
+  </tr>
+
+ <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el snake case</td>
+    <td align="center"> 1</td>
+    <td align="center"> Adrian Melgar</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US23 </td>
+    <td rowspan="3" align="center"> Acceder Endpoint Products</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context de Store</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el archivo de configuracion</td>
+    <td align="center"> 1</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center">Done</td>
+  </tr>
+
+ <tr>
+    <td rowspan="3" align="center"> TS02 </td>
+    <td rowspan="3" align="center"> Acceder al Endpoint Events</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context Events</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Fabrizio Torres </td>
+    <td align="center">In progress</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Jesús Sagastegui </td>
+    <td align="center">In progress</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> Agrega dependencias necesarias en pom.xml </td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Bustinza</td>
+    <td align="center">In Progress</td>
+  </tr>
+</table>
+
+
+### 5.2.4.3. Development Evidence for Sprint Review.
+Presentación del sprint review, se exhiben a través de una tabla los registros de cambios realizados
+
+
+##### 5.2.4.4	Testing Suite Evidence for Sprint Review
+Lamentablemente, no se ha logrado llevar a cabo la implementación de las pruebas.
+
+##### 5.2.4.5	Execution Evidence for Sprint Review
+En el transcurso de este cuarto Sprint, se han logrado avances significativos en el desarrollo del backend del proyecto. A continuación, se presenta un resumen de los hitos alcanzados, seguido de capturas de pantalla que destacan las principales vistas implementadas. Además, se proporciona un enlace a un video que detalla y explica la visualización y navegación logradas durante este Sprint.
+
+**Resumen del Sprint 4:**
+
+Durante este Sprint, el enfoque principal estuvo en el desarrollo de funcionalidades clave del backend. Se completaron con éxito las siguientes tareas:
+
+**Autenticación de Usuario:**
+
+Implementación del proceso de inicio de sesión (login) con validación de credenciales.
+Desarrollo del registro de nuevos usuarios (register) con la debida gestión de datos.
+
+**Gestión de Productos:**
+
+Creación de un endpoint para la manipulación eficiente de productos.
+Integración de funcionalidades que permiten la adición, modificación y eliminación de productos.
+
+**Gestión de Eventos:**
+
+Desarrollo de un endpoint dedicado para la gestión de eventos.
+Implementación de operaciones para agregar, actualizar y eliminar eventos.
+
+**Roles y Permisos:**
+
+Establecimiento de roles de usuario para garantizar un acceso adecuado y seguro.
+Configuración de permisos según los roles asignados a cada usuario.
+
+**Capturas de Pantalla:**
+
+[![1](https://i.postimg.cc/4xjVKMD7/1.png)](https://postimg.cc/pmYp40XR)
+[![2](https://i.postimg.cc/NjKRjYzv/2.png)](https://postimg.cc/0zqztgvV)
+[![3](https://i.postimg.cc/yNqnqkYb/3.png)](https://postimg.cc/cvmfw13R)
+[![4](https://i.postimg.cc/y83nrFBR/4.png)](https://postimg.cc/dhv8hZhQ)
+
+
+##### 5.2.4.6	Services Documentation for Sprint Review
+
+En esta sección se presentan los endspoints realizados en el sprint y detallan de las acciones CRUD. Tales como los enlaces que se están utilizando para los Endpoints.
+
+Link del Swagger UI: https://rewear.zeabur.app/swagger-ui/index.html
+
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3">Authentication</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>/api/v1/authetication/sign-up</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>/api/v1/authetication/log-in</td>
+        </tr>
+        <tr>
+            <td rowspan="6">Products</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{productId}</td>
+            <td>/api/v1/products/{productId}</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{productId}</td>
+            <td>/api/v1/products/{productId}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{productId}</td>
+            <td>/api/v1/products/{productId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>/api/v1/products/</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>/api/v1/products/</td>
+        </tr>
+        <tr>
+            <td rowspan="6">Events</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{eventId}</td>
+            <td>/api/v1/events/{eventId}</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{eventId}</td>
+            <td>/api/v1/events/{eventId}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{eventId}</td>
+            <td>/api/v1/events/{eventId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>/api/v1/events</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>/api/v1/events</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Roles</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>/api/v1/roles</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Users</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{userId}</td>
+            <td>/api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{userId}</td>
+            <td>/api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{userId}</td>
+            <td>/api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>/api/v1/users</td>
+        </tr>
+    </tbody>
+</table>
+
+##### 5.2.4.7	Software Deployment Evidence for Sprint Review.
+
+En esta sección se mostrará cómo se logró el despligue de los servicios creados para este sprint. Se describirá generalmente
+los pasos y plataformas utilizadas.
+
+* Despligue de la base de datos
+
+[![3](https://i.postimg.cc/yNqnqkYb/3.png)](https://postimg.cc/cvmfw13R)
+[![4](https://i.postimg.cc/y83nrFBR/4.png)](https://postimg.cc/dhv8hZhQ)
+
+Para el despligue de la base de datos utilizamos la plataforma Railway, esta plataforma nos permite crear soluciones en la nube
+
+Creamos el proyecto seleccionando el servicio que necesitamos
+
+[![c-project.png](https://i.postimg.cc/QxRj1N7m/c-project.png)](https://postimg.cc/2V7pfD2L)
+
+Esperamos a que termine de levantarse y se mostrarán los datos para la conexión remota
+
+[![mysql-ds.png](https://i.postimg.cc/htTcrFbB/mysql-ds.png)](https://postimg.cc/jDxpxFFg)
+
+Por último usamos MySQL Workbench para ingresar los datos de conexión
+
+[![connect-ev.png](https://i.postimg.cc/vH1Q4x4D/connect-ev.png)](https://postimg.cc/56VcG0qM)
+
+Railway es una plataforma la cual ayuda al despligue en la nube, de forma sencilla, en pocos pasos podemos tener un servicio levantado y funcional. 
+No obstante, el plan de alojamiento es de un periodo muy corto.
+
+
+* Despligue de la aplicación spring boot
+
+Para el despliegue del servicio backend utilizamos Zeabur, la cual es una plataforma que nos ayuda a implementar los servicios de forma muy sencilla.
+
+Primero debemos seleccionar la región 
+
+[![region-zea.png](https://i.postimg.cc/K8G4R8hW/region-zea.png)](https://postimg.cc/xcZ9ZYCG)
+
+A continuación debemos configurar los datos generales del proyecto
+
+[![config-zea.png](https://i.postimg.cc/FRWY4tB6/config-zea.png)](https://postimg.cc/CB8hG2YC)
+
+Seleccionamos la fuente del servicio a desplegar, en este caso un repositorio de Github
+[![select-git.png](https://i.postimg.cc/PJCPf3G5/select-git.png)](https://postimg.cc/m1Gb8S2v)
+
+[![project.png](https://i.postimg.cc/tTCswR2P/project.png)](https://postimg.cc/jWmqJTVd)
+
+Esperamos a que levante el servicio
+
+[![projectrewear.png](https://i.postimg.cc/wBzy5QNw/projectrewear.png)](https://postimg.cc/MnspqRdB)
+
+Por útlimo, configuramos el dominio para acceder al servicio por medio de una enlace público
+
+[![domain-rew.png](https://i.postimg.cc/1zKgvVcs/domain-rew.png)](https://postimg.cc/bGsNJJBB)
+
+El enlace de la aplicación de spring boot desplegada: https://rewear.zeabur.app/swagger-ui/index.html
+
+
+##### 5.2.4.8 Team Collaboration Insights during Sprint
+
+En el sprint 4, nos enfocamos principalmente en completar la fase inicial del desarrollo del backend del proyecto. Para lograr este objetivo, empleamos diversas herramientas como GitHub, Zeabur, Railway, IntelliJ Idea, entre otras. En el siguiente informe, presentaremos los diagramas de flujo que ilustran los commits realizados por cada miembro del equipo.
+
+Durante este período, también finalizamos las tareas de desarrollo del frontend y realizamos las correcciones necesarias en el informe, aplicando el principio de mejora continua.
+
+A continuación, se muestra el gráfico de barras que representa la cantidad de commits realizados por cada integrante.
+
+[![a](https://i.postimg.cc/nhHs5xvt/a.png)](https://postimg.cc/56RNYZ7P)
+
+Registro de commits en las ramas creadas para el desarrollo del backend
+
+[![b](https://i.postimg.cc/FKzYrxWW/b.png)](https://postimg.cc/bGXyL1jk)
+[![c](https://i.postimg.cc/9fkrrqsW/c.png)](https://postimg.cc/Jyb1Ft1g)
+[![d](https://i.postimg.cc/htpJRYrQ/d.png)](https://postimg.cc/ZWvYrVXJ)
+
+Lista de dependencias usadas en el proyecto backend
+
+[![1](https://i.postimg.cc/tgGqWhpk/1.png)](https://postimg.cc/Yv8BwL4L)
+[![1](https://i.postimg.cc/FHLFYP51/2.png)](https://postimg.cc/ts9GfNgH)
+
+Cronología de los commits y la integración a la rama principal 'Develop'
+
+[![2](https://i.postimg.cc/52QxGssb/3.png)](https://postimg.cc/xXYDN3r4)
 
 
 
