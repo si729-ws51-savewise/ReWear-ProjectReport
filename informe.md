@@ -2276,7 +2276,7 @@ Cronología de los commits y la integración a la rama principal 'Develop'
 [![network-back.png](https://i.postimg.cc/pdBwyPxs/network-back.png)](https://postimg.cc/B8XYV9jF)
 
 -
-### 5.2.4 Sprint 4
+### 5.2.4. Sprint 4
 En esta sección, se detalla el proceso completo de implementación en fase inicial del backend desarrollado en Spring Boot. Se aborda de manera grupal, detallando planificación del avance desde el sprint 2 hasta la puesta en producción de este componente en nuestro proyecto.
 ### 5.2.4.1. Sprint Planning 4
 En el Sprint Planning 3 se planificó para la elaboración del backend y mejora continua sobre el frontend del proyecto. Mediante una reunión grupal se determinaron y acordaron distintas tareas para su elaboración
@@ -2493,7 +2493,7 @@ Presentación del sprint review, se exhiben a través de una tabla los registros
 | https://github.com/si729-ws51-savewise/ReWear-Feature | master | c8176225d3334c64bf24502bdd3c1eedacfb6257 | feature gherkin implemented |                     |                    |
 
 
-### 5.2.3.5. Execution Evidence for Sprint Review.
+### 5.2.4.5. Execution Evidence for Sprint Review.
 
 En el tercer sprint, se logró un progreso inicial en la construcción del back-end de la aplicación web. 
 Esta actualización incorpora la puesta en marcha de forma pública. A continuación, se exhiben las pruebas documentadas 
