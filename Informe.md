@@ -2554,10 +2554,126 @@ Configuración de permisos según los roles asignados a cada usuario.
 [![4](https://i.postimg.cc/y83nrFBR/4.png)](https://postimg.cc/dhv8hZhQ)
 
 
-
-
 ##### 5.2.4.6	Services Documentation for Sprint Review
 
+En esta sección se presentan los endspoints realizados en el sprint y detallan de las acciones CRUD. Tales como los enlaces que se están utilizando para los Endpoints.
+
+Link del Swagger UI: https://rewear.zeabur.app/swagger-ui/index.html
+
+Web Service:
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="3">Authentication</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>/api/v1/authetication/sign-up</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>/api/v1/authetication/log-in</td>
+        </tr>
+        <tr>
+            <td rowspan="6">Products</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{productId}</td>
+            <td>/api/v1/products/{productId}</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{productId}</td>
+            <td>/api/v1/products/{productId}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{productId}</td>
+            <td>/api/v1/products/{productId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>/api/v1/products/</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>/api/v1/products/</td>
+        </tr>
+        <tr>
+            <td rowspan="6">Events</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{eventId}</td>
+            <td>/api/v1/events/{eventId}</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{eventId}</td>
+            <td>/api/v1/events/{eventId}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{eventId}</td>
+            <td>/api/v1/events/{eventId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>/api/v1/events</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>/api/v1/events</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Roles</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>/api/v1/roles</td>
+        </tr>
+        <tr>
+            <td rowspan="5">Users</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>{userId}</td>
+            <td>/api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>PUT</td>
+            <td>{userId}</td>
+            <td>/api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>DELETE</td>
+            <td>{userId}</td>
+            <td>/api/v1/users/{userId}</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>/api/v1/users</td>
+        </tr>
+    </tbody>
+</table>
 
 ##### 5.2.4.7	Software Deployment Evidence for Sprint Review.
 
