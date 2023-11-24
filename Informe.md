@@ -2399,7 +2399,7 @@ En el Sprint Planning 4 se planificó para la elaboración del backend y mejora 
 </table>
 
 
-### 5.2.4.2. Sprint Backlog 3
+### 5.2.4.2. Sprint Backlog 4
 El objetivo principal del Sprint 3 es lograr la implementación en fase incial del backend, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
 
 <table>
