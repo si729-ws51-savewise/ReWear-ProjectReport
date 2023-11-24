@@ -2323,6 +2323,213 @@ Cronología de los commits y la integración a la rama principal 'Develop'
 
 [![network-back.png](https://i.postimg.cc/pdBwyPxs/network-back.png)](https://postimg.cc/B8XYV9jF)
 
+
+### 5.2.4. Sprint 4
+En esta sección, se detalla la conexión entre el backend y el frontend
+### 5.2.4.1. Sprint Planning 4
+En el Sprint Planning 4 se planificó para la elaboración del backend y mejora continua sobre el frontend del proyecto,para que se puedan unir . Mediante una reunión grupal se acordó las distintas tareas que se tenián que hacer y cosas por corregir de entregas anteriores.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2023-11-20</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>8:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Fabrizio Torres </td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Fabrizio Torres Solano / Adrian Melgar / Josue Daniel Valverde Lopez / Luis Jesus Sagastegui Rodriguez
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>
+                Quedaron pendientes completar las vistas del frontend de la aplicación del sprint anterior. Tampoco se logró un despliegue
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                En este sprint se prioriza cumplir con la mejor continua y la construcción en fase inicial del backend del proyecto
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>
+              Implementación del backend para la conexión con el frontend
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                30
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                30
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+### 5.2.4.2. Sprint Backlog 3
+El objetivo principal del Sprint 3 es lograr la implementación en fase incial del backend, a continuación se muestra una tabla en la cual se presentan las historias de usuario y las tareas que se desprenden de cada una. Se destaca en importancia la asignación y el estado de la tarea.
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title</strong></td>
+    <td align="center"> <strong>Description</strong></td>
+    <td align="center"> <strong>Estimation (Hours)</strong></td>
+    <td align="center"> <strong>Assigned To</strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="3" align="center"> TS01 </td>
+    <td rowspan="3" align="center"> Acceder al Endpoint Profiles  </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context de Profiles</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Adrian Mlegar </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Adrián Melgar</td>
+    <td align="center">Done</td>
+  </tr>
+
+ <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el snake case</td>
+    <td align="center"> 1</td>
+    <td align="center"> Adrian Melgar</td>
+    <td align="center">Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> US23 </td>
+    <td rowspan="3" align="center"> Acceder Endpoint Products</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context de Store</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Daniel Valverde </td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> En la carpeta 'Shared' agrega el archivo de configuracion</td>
+    <td align="center"> 1</td>
+    <td align="center"> Daniel Valverde</td>
+    <td align="center">Done</td>
+  </tr>
+
+ <tr>
+    <td rowspan="3" align="center"> TS02 </td>
+    <td rowspan="3" align="center"> Acceder al Endpoint Events</td>
+     <td align="center"> TA01 </td>
+    <td align="center"> Crear bounded context</td>
+    <td align="justify"> En el proyecto creado se añadirá el bounded context Events</td>
+    <td align="center"> 20 MIN </td>
+    <td align="center"> Fabrizio Torres </td>
+    <td align="center">In progress</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Configuración de archivos </td>
+    <td align="center"> Agregar dentro del bounded context los archivos de configuración incluyendo (Controller, Domain, Persistence, etc)</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Jesús Sagastegui </td>
+    <td align="center">In progress</td>
+  </tr>
+
+  <tr>
+     <td align="center"> TA03 </td>
+    <td align="center"> Configuración de archivos compartidos </td>
+    <td align="center"> Agrega dependencias necesarias en pom.xml </td>
+    <td align="center"> 1</td>
+    <td align="center"> Sebastian Bustinza</td>
+    <td align="center">In Progress</td>
+  </tr>
+</table>
+
+
+### 5.2.4.3. Development Evidence for Sprint Review.
+Presentación del sprint review, se exhiben a través de una tabla los registros de cambios realizados
+
+
+##### 5.2.4.4	Testing Suite Evidence for Sprint Review
+
+
+##### 5.2.4.5	Execution Evidence for Sprint Review
+
+
+##### 5.2.4.6	Services Documentation for Sprint Review
+
+
+##### 5.2.4.7	Software Deployment Evidence for Sprint Review.
+
+
+
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 PREGUNTAS INTRODUCTORIAS:
@@ -2459,3 +2666,14 @@ podriamos mejorar pero en general le gusto mucho la pagina web.
 
 ### 5.3.3. Evaluaciones según heurísticas.
 ## 5.4. Video About-the-Product.
+En esta sección, se muestra el video "About the product", que demuestra el propósito, las ventajas y las características de la aplicación desarrollada por el equipo.
+
+Enlace youtube: https://youtu.be/LZRO5nPhfnE
+Enlace Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121440_upc_edu_pe/EU1QU_esrdpGooIPKQVsQX4BtfL2sSrPBDnR7AtkBwfLvA?e=A9XSMk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
+
+* Video About the team
+
+El video resume el proceso laboral llevado a cabo por el equipo, en el que los miembros presentan las tareas que llevaron a cabo para lograr los objetivos establecidos en el curso. Es importante resaltar que los integrantes del grupo destacan la importancia de la comunicación oral y escrita como una forma efectiva de compartir ideas y comunicar el progreso del proyecto.
+
+Enlace youtube: https://youtu.be/4Vq1LxGR6vc
+Enlace Microsoft Stream: https://upcedupe-my.sharepoint.com/personal/u201819465_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201819465%5Fupc%5Fedu%5Fpe%2FDocuments%2Fabout%2Dthe%2Dteam%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
