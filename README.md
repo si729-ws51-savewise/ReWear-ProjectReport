@@ -103,7 +103,8 @@ En la entrega TB2, nuestra meta principal fue la implementación en fase inicial
 
 En la entrega TF,nos enfocamos principalmente en completar la fase inicial del desarrollo del backend del proyecto. Para lograr este objetivo, empleamos diversas herramientas como GitHub, Zeabur, Railway, IntelliJ Idea, entre otras. En el siguiente informe, presentaremos los diagramas de flujo que ilustran los commits realizados por cada miembro del equipo.Durante este período, también finalizamos las tareas de desarrollo del frontend y realizamos las correcciones necesarias en el informe, aplicando el principio de mejora continua.
 
-
+[![2](https://i.postimg.cc/wMHr5QBX/A.png)](https://postimg.cc/7GsXw70h)
+[![2](https://i.postimg.cc/yd05Sb76/B.png)](https://postimg.cc/BLQNrN8R)
 
 # Capítulo I: Introducción
 
