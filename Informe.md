@@ -2529,6 +2529,7 @@ Presentación del sprint review, se exhiben a través de una tabla los registros
 
 
 
+##### 5.2.4.8 Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
