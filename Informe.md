@@ -2517,9 +2517,43 @@ Presentación del sprint review, se exhiben a través de una tabla los registros
 
 
 ##### 5.2.4.4	Testing Suite Evidence for Sprint Review
-
+Lamentablemente, no se ha logrado llevar a cabo la implementación de las pruebas.
 
 ##### 5.2.4.5	Execution Evidence for Sprint Review
+En el transcurso de este cuarto Sprint, se han logrado avances significativos en el desarrollo del backend del proyecto. A continuación, se presenta un resumen de los hitos alcanzados, seguido de capturas de pantalla que destacan las principales vistas implementadas. Además, se proporciona un enlace a un video que detalla y explica la visualización y navegación logradas durante este Sprint.
+
+**Resumen del Sprint 4:**
+
+Durante este Sprint, el enfoque principal estuvo en el desarrollo de funcionalidades clave del backend. Se completaron con éxito las siguientes tareas:
+
+**Autenticación de Usuario:**
+
+Implementación del proceso de inicio de sesión (login) con validación de credenciales.
+Desarrollo del registro de nuevos usuarios (register) con la debida gestión de datos.
+
+**Gestión de Productos:**
+
+Creación de un endpoint para la manipulación eficiente de productos.
+Integración de funcionalidades que permiten la adición, modificación y eliminación de productos.
+
+**Gestión de Eventos:**
+
+Desarrollo de un endpoint dedicado para la gestión de eventos.
+Implementación de operaciones para agregar, actualizar y eliminar eventos.
+
+**Roles y Permisos:**
+
+Establecimiento de roles de usuario para garantizar un acceso adecuado y seguro.
+Configuración de permisos según los roles asignados a cada usuario.
+
+**Capturas de Pantalla:**
+
+[![1](https://i.postimg.cc/4xjVKMD7/1.png)](https://postimg.cc/pmYp40XR)
+[![2](https://i.postimg.cc/NjKRjYzv/2.png)](https://postimg.cc/0zqztgvV)
+[![3](https://i.postimg.cc/yNqnqkYb/3.png)](https://postimg.cc/cvmfw13R)
+[![4](https://i.postimg.cc/y83nrFBR/4.png)](https://postimg.cc/dhv8hZhQ)
+
+
 
 
 ##### 5.2.4.6	Services Documentation for Sprint Review
