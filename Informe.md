@@ -2677,6 +2677,58 @@ Web Service:
 
 ##### 5.2.4.7	Software Deployment Evidence for Sprint Review.
 
+En esta sección se mostrará cómo se logró el despligue de los servicios creados para este sprint. Se describirá generalmente
+los pasos y plataformas utilizadas.
+
+* Despligue de la base de datos
+
+[![3](https://i.postimg.cc/yNqnqkYb/3.png)](https://postimg.cc/cvmfw13R)
+[![4](https://i.postimg.cc/y83nrFBR/4.png)](https://postimg.cc/dhv8hZhQ)
+
+Para el despligue de la base de datos utilizamos la plataforma Railway, esta plataforma nos permite crear soluciones en la nube
+
+Creamos el proyecto seleccionando el servicio que necesitamos
+
+[![c-project.png](https://i.postimg.cc/QxRj1N7m/c-project.png)](https://postimg.cc/2V7pfD2L)
+
+Esperamos a que termine de levantarse y se mostrarán los datos para la conexión remota
+
+[![mysql-ds.png](https://i.postimg.cc/htTcrFbB/mysql-ds.png)](https://postimg.cc/jDxpxFFg)
+
+Por último usamos MySQL Workbench para ingresar los datos de conexión
+
+[![connect-ev.png](https://i.postimg.cc/vH1Q4x4D/connect-ev.png)](https://postimg.cc/56VcG0qM)
+
+Railway es una plataforma la cual ayuda al despligue en la nube, de forma sencilla, en pocos pasos podemos tener un servicio levantado y funcional. 
+No obstante, el plan de alojamiento es de un periodo muy corto.
+
+
+* Despligue de la aplicación spring boot
+
+Para el despliegue del servicio backend utilizamos Zeabur, la cual es una plataforma que nos ayuda a implementar los servicios de forma muy sencilla.
+
+Primero debemos seleccionar la región 
+
+[![region-zea.png](https://i.postimg.cc/K8G4R8hW/region-zea.png)](https://postimg.cc/xcZ9ZYCG)
+
+A continuación debemos configurar los datos generales del proyecto
+
+[![config-zea.png](https://i.postimg.cc/FRWY4tB6/config-zea.png)](https://postimg.cc/CB8hG2YC)
+
+Seleccionamos la fuente del servicio a desplegar, en este caso un repositorio de Github
+[![select-git.png](https://i.postimg.cc/PJCPf3G5/select-git.png)](https://postimg.cc/m1Gb8S2v)
+
+[![project.png](https://i.postimg.cc/tTCswR2P/project.png)](https://postimg.cc/jWmqJTVd)
+
+Esperamos a que levante el servicio
+
+[![projectrewear.png](https://i.postimg.cc/wBzy5QNw/projectrewear.png)](https://postimg.cc/MnspqRdB)
+
+Por útlimo, configuramos el dominio para acceder al servicio por medio de una enlace público
+
+[![domain-rew.png](https://i.postimg.cc/1zKgvVcs/domain-rew.png)](https://postimg.cc/bGsNJJBB)
+
+El enlace de la aplicación de spring boot desplegada: https://rewear.zeabur.app/swagger-ui/index.html
 
 
 ##### 5.2.4.8 Team Collaboration Insights during Sprint
