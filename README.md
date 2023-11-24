@@ -85,15 +85,25 @@ del ABET – EAC - Student Outcome 3.
 
 # Project Report Collaboration Insights
 
-Network graph
+En la TB1 entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas que representan los commits realizados por cada miembro del equipo
 
-<a href="https://ibb.co/Yh3TXPZ"><img src="https://i.ibb.co/LRWG3cZ/insights.jpg" alt="network" border="0"></a> 
+![pull](https://i.ibb.co/vvHF9Mm/pull.png)
 
-Conventional Commits
+![commits](https://i.ibb.co/MkDxK4T/commits.png)
 
-<a href="https://ibb.co/Yh3TXPZ"><img src="https://i.ibb.co/tPFWjZZ/commit-1.jpg" alt="network" border="0"></a>
-<a href="https://ibb.co/Yh3TXPZ"><img src="https://i.ibb.co/svWSWx5/commit2.jpg" alt="network" border="0"></a>
-<a href="https://ibb.co/Yh3TXPZ"><img src="https://i.ibb.co/HCTLFZW/commit3.jpg" alt="network" border="0"></a>
+En la TP, nuestro equipo se enfocó en la implementación del frontend y la revisión y mejora del informe. Utilizamos la metodología Gitflow y seguimos un formato Markdown para la colaboración, y los cinco miembros del equipo participaron de manera efectiva. Durante este período, se llevaron a cabo las tareas de desarrollo del frontend y se realizaron las correcciones necesarias en el informe y la página de inicio.
+
+[![rewear-pulse.png](https://i.postimg.cc/BncvMyDd/rewear-pulse.png)](https://postimg.cc/k2G95TTc)
+[![rewear-traffic.png](https://i.postimg.cc/3w8x6BFW/rewear-traffic.png)](https://postimg.cc/sMLzG58R)
+
+
+En la entrega TB2, nuestra meta principal fue la implementación en fase inicial del backend del proyecto. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Zeabur, Railway, IntellIj Idea, etc. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo Durante este período también, se terminaron las tareas de desarrollo del frontend y se realizaron las correcciones necesarias en el informe aplicando la mejora continua.
+
+[![a](https://i.postimg.cc/nhHs5xvt/a.png)](https://postimg.cc/56RNYZ7P)
+
+[![2](https://i.postimg.cc/52QxGssb/3.png)](https://postimg.cc/xXYDN3r4)
+
+En la entrega TF,nos enfocamos principalmente en completar la fase inicial del desarrollo del backend del proyecto. Para lograr este objetivo, empleamos diversas herramientas como GitHub, Zeabur, Railway, IntelliJ Idea, entre otras. En el siguiente informe, presentaremos los diagramas de flujo que ilustran los commits realizados por cada miembro del equipo.Durante este período, también finalizamos las tareas de desarrollo del frontend y realizamos las correcciones necesarias en el informe, aplicando el principio de mejora continua.
 
 
 
