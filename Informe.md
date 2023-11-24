@@ -2308,20 +2308,22 @@ Durante este período también, se terminaron las tareas de desarrollo del front
 
 A continuación el gráfico de barras de la cantidad de commits por integrante
 
-[![back-commits.png](https://i.postimg.cc/DmVjBNnW/back-commits.png)](https://postimg.cc/n9kGL0sZ)
+[![a](https://i.postimg.cc/nhHs5xvt/a.png)](https://postimg.cc/56RNYZ7P)
 
 Registro de commits en las ramas creadas para el desarrollo del backend
 
-[![commits-back.png](https://i.postimg.cc/sX6b9KMS/commits-back.png)](https://postimg.cc/dkCWJ2mt)
-[![1](https://i.postimg.cc/63SBm52d/1.png)](https://postimg.cc/XGfMZWgJ)
+[![b](https://i.postimg.cc/FKzYrxWW/b.png)](https://postimg.cc/bGXyL1jk)
+[![c](https://i.postimg.cc/9fkrrqsW/c.png)](https://postimg.cc/Jyb1Ft1g)
+[![d](https://i.postimg.cc/htpJRYrQ/d.png)](https://postimg.cc/ZWvYrVXJ)
 
 Lista de dependencias usadas en el proyecto backend
 
-[![dependencies-java.png](https://i.postimg.cc/5yXTPvzr/dependencies-java.png)](https://postimg.cc/p5tsrmqQ
+[![1](https://i.postimg.cc/tgGqWhpk/1.png)](https://postimg.cc/Yv8BwL4L)
+[![1](https://i.postimg.cc/FHLFYP51/2.png)](https://postimg.cc/ts9GfNgH)
 
 Cronología de los commits y la integración a la rama principal 'Develop'
 
-[![network-back.png](https://i.postimg.cc/pdBwyPxs/network-back.png)](https://postimg.cc/B8XYV9jF)
+[![2](https://i.postimg.cc/52QxGssb/3.png)](https://postimg.cc/xXYDN3r4)
 
 
 ### 5.2.4. Sprint 4
@@ -2732,6 +2734,29 @@ El enlace de la aplicación de spring boot desplegada: https://rewear.zeabur.app
 
 
 ##### 5.2.4.8 Team Collaboration Insights during Sprint
+
+En el sprint 4, nos enfocamos principalmente en completar la fase inicial del desarrollo del backend del proyecto. Para lograr este objetivo, empleamos diversas herramientas como GitHub, Zeabur, Railway, IntelliJ Idea, entre otras. En el siguiente informe, presentaremos los diagramas de flujo que ilustran los commits realizados por cada miembro del equipo.
+
+Durante este período, también finalizamos las tareas de desarrollo del frontend y realizamos las correcciones necesarias en el informe, aplicando el principio de mejora continua.
+
+A continuación, se muestra el gráfico de barras que representa la cantidad de commits realizados por cada integrante.
+
+[![a](https://i.postimg.cc/nhHs5xvt/a.png)](https://postimg.cc/56RNYZ7P)
+
+Registro de commits en las ramas creadas para el desarrollo del backend
+
+[![b](https://i.postimg.cc/FKzYrxWW/b.png)](https://postimg.cc/bGXyL1jk)
+[![c](https://i.postimg.cc/9fkrrqsW/c.png)](https://postimg.cc/Jyb1Ft1g)
+[![d](https://i.postimg.cc/htpJRYrQ/d.png)](https://postimg.cc/ZWvYrVXJ)
+
+Lista de dependencias usadas en el proyecto backend
+
+[![1](https://i.postimg.cc/tgGqWhpk/1.png)](https://postimg.cc/Yv8BwL4L)
+[![1](https://i.postimg.cc/FHLFYP51/2.png)](https://postimg.cc/ts9GfNgH)
+
+Cronología de los commits y la integración a la rama principal 'Develop'
+
+[![2](https://i.postimg.cc/52QxGssb/3.png)](https://postimg.cc/xXYDN3r4)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
